@@ -1,0 +1,1655 @@
+road_name,room_count,house_type,mt_sq,constr_year,discount,price,postal_code,price_mt_sq,date,sale_type
+"Dronning Olgas Vej 24, 2",4,Lejlighed,133,1896,-0.03,555e4,2000 Frederiksberg,41729,2017-06-30,Alm. Salg
+"Langelandsvej 49A, 3. th",3,Lejlighed,84,1897,NA,23e5,2000 Frederiksberg,27380,2017-06-30,Fam. Salg
+"Bernhard Bangs Alle 2, 3. 59",2,Lejlighed,90,1960,-0.02,3075e3,2000 Frederiksberg,34166,2017-06-30,Alm. Salg
+"Finsensvej 5A, 1. mf",2,Lejlighed,66,1969,-0.02,2545e3,2000 Frederiksberg,38560,2017-06-30,Alm. Salg
+"Vagtelvej 63, 3. th",3,Lejlighed,85,1969,-0.01,305e4,2000 Frederiksberg,35882,2017-06-29,Alm. Salg
+"Porcelænshaven 4G, 2. mf",3,Lejlighed,92,2007,NA,5495e3,2000 Frederiksberg,59728,2017-06-29,Alm. Salg
+"Bernhard Bangs Alle 5, 4. th",3,Lejlighed,88,1973,0,3495e3,2000 Frederiksberg,39715,2017-06-29,Alm. Salg
+"Finsensvej 34, 3. 6",2,Lejlighed,67,1972,-0.04,23e5,2000 Frederiksberg,34328,2017-06-29,Alm. Salg
+"Duevej 120A, 3. tv",2,Lejlighed,65,1917,0,2599e3,2000 Frederiksberg,39984,2017-06-29,Alm. Salg
+"Ved Andebakken 8, 1. th",2,Lejlighed,59,1941,NA,26e5,2000 Frederiksberg,44067,2017-06-28,Alm. Salg
+"Hospitalsvej 1A, 5. th",3,Lejlighed,76,1898,-0.01,374e4,2000 Frederiksberg,49210,2017-06-28,Alm. Salg
+"Aksel Møllers Have 4, 2. tv",4,Lejlighed,96,1943,NA,2049e3,2000 Frederiksberg,21343,2017-06-28,Fam. Salg
+"Helgesvej 19, 4. tv",4,Lejlighed,114,1893,-0.03,56e5,2000 Frederiksberg,49122,2017-06-28,Alm. Salg
+"Bentzonsvej 39, 1. tv",3,Lejlighed,80,1900,NA,1615e3,2000 Frederiksberg,20187,2017-06-28,Fam. Salg
+"Betty Nansens Alle 33, 1. th",5,Lejlighed,151,1976,0,5498e3,2000 Frederiksberg,36410,2017-06-28,Alm. Salg
+"Platanskellet 12, st",4,Lejlighed,123,1978,-0.06,33e5,2000 Frederiksberg,26829,2017-06-27,Alm. Salg
+"Mariendalsvej 12B, 2. tv",3,Lejlighed,79,1938,NA,1752e3,2000 Frederiksberg,22177,2017-06-27,Fam. Salg
+"Yrsavej 10, st. th",3,Lejlighed,72,1893,0.01,3225e3,2000 Frederiksberg,44791,2017-06-27,Alm. Salg
+"Bentzonsvej 6, 4. tv",4,Lejlighed,78,1904,NA,3995e3,2000 Frederiksberg,51217,2017-06-27,Alm. Salg
+"Guldborgvej 36, 5. 24",2,Lejlighed,59,1974,NA,12e5,2000 Frederiksberg,20338,2017-06-26,Alm. Salg
+"Duevej 50, 2. th",4,Lejlighed,92,1932,-0.04,385e4,2000 Frederiksberg,41847,2017-06-26,Alm. Salg
+"Bentzonsvej 6, 3. th",3,Lejlighed,70,1904,NA,3337500,2000 Frederiksberg,47678,2017-06-26,Alm. Salg
+"Ane Katrines Vej 22, 3. tv",3,Lejlighed,69,1932,NA,1161500,2000 Frederiksberg,16833,2017-06-26,Andet
+"Solvej 7, 1. th",3,Lejlighed,81,1902,-0.03,36e5,2000 Frederiksberg,44444,2017-06-26,Alm. Salg
+"C.F. Richs Vej 96, st. th",2,Lejlighed,62,1936,0,1855e3,2000 Frederiksberg,29919,2017-06-26,Alm. Salg
+"Julius Valentiners Vej 33, 2. th",4,Lejlighed,94,1932,-0.04,385e4,2000 Frederiksberg,40957,2017-06-23,Alm. Salg
+"Frederiksvej 38, 3. th",2,Lejlighed,57,1904,-0.02,265e4,2000 Frederiksberg,46491,2017-06-23,Alm. Salg
+A.D. Jørgensens Vej 47,4,Lejlighed,96,1991,NA,415e4,2000 Frederiksberg,43229,2017-06-23,Alm. Salg
+"Moltkesvej 71, 1. tv",5,Lejlighed,147,1953,-0.1,4972500,2000 Frederiksberg,33826,2017-06-23,Alm. Salg
+"Thurøvej 11, 1. tv",3,Lejlighed,64,1913,0,2995e3,2000 Frederiksberg,46796,2017-06-23,Alm. Salg
+"Holger Danskes Vej 25, st. tv",3,Lejlighed,71,1902,-0.02,2925e3,2000 Frederiksberg,41197,2017-06-21,Alm. Salg
+"Stockflethsvej 39, 4. tv",1,Lejlighed,63,1934,-0.07,2125e3,2000 Frederiksberg,33730,2017-06-21,Alm. Salg
+"Pile Alle 5D, st. th",3,Lejlighed,98,1975,-0.09,35e5,2000 Frederiksberg,35714,2017-06-21,Alm. Salg
+"Blytsvej 5, st. tv",4,Lejlighed,123,1902,0,775e4,2000 Frederiksberg,63008,2017-06-20,Alm. Salg
+"Langelandsvej 49A, 4. th",3,Lejlighed,84,1897,NA,1742500,2000 Frederiksberg,20744,2017-06-20,Fam. Salg
+"Søndre Fasanvej 58, 2",4,Lejlighed,101,1934,-0.02,4185e3,2000 Frederiksberg,41435,2017-06-20,Alm. Salg
+"C.F. Richs Vej 89, 3. tv",2,Lejlighed,73,1936,NA,2495e3,2000 Frederiksberg,34178,2017-06-20,Alm. Salg
+"Duevej 48, 4. th",3,Lejlighed,76,1932,-0.05,3037e3,2000 Frederiksberg,39960,2017-06-20,Alm. Salg
+"Dirch Passers Allé 15, 4. tv",3,Lejlighed,99,2008,0,4299e3,2000 Frederiksberg,43424,2017-06-19,Alm. Salg
+"Roskildevej 53, 1. 103",2,Lejlighed,65,1972,NA,1235e3,2000 Frederiksberg,19e3,2017-06-19,Fam. Salg
+"Nordre Fasanvej 76, 3. th",3,Lejlighed,65,1902,0,2995e3,2000 Frederiksberg,46076,2017-06-19,Alm. Salg
+"Nordre Fasanvej 158, 2. tv",2,Lejlighed,86,1913,-0.06,3e6,2000 Frederiksberg,34883,2017-06-19,Alm. Salg
+"Borups Alle 132, 1. 3",2,Lejlighed,55,1990,0.03,215e4,2000 Frederiksberg,39090,2017-06-19,Alm. Salg
+"Frederik VIs Alle 3, 3. tv",4,Lejlighed,107,1905,0,55e5,2000 Frederiksberg,51401,2017-06-18,Alm. Salg
+"H. Schneekloths Vej 31, 6. 3",2,Lejlighed,71,1961,NA,15e5,2000 Frederiksberg,21126,2017-06-18,Fam. Salg
+"Duevej 112, st. tv",2,Lejlighed,61,1917,0.07,32e5,2000 Frederiksberg,52459,2017-06-18,Alm. Salg
+"Nyelandsvej 33, 1. tv",5,Lejlighed,151,1904,-0.03,565e4,2000 Frederiksberg,37417,2017-06-17,Alm. Salg
+"Pile Alle 37, 1. tv",3,Lejlighed,88,1890,-0.03,415e4,2000 Frederiksberg,47159,2017-06-17,Alm. Salg
+"Ved Andebakken 4, 4. tv",2,Lejlighed,59,1941,-0.01,276e4,2000 Frederiksberg,46779,2017-06-16,Alm. Salg
+"Mathildevej 14A, 4. tv",2,Lejlighed,64,1909,0,2795e3,2000 Frederiksberg,43671,2017-06-16,Alm. Salg
+"Kronprinsesse Sofies Vej 45, 4. th",3,Lejlighed,67,1932,-0.01,2625e3,2000 Frederiksberg,39179,2017-06-16,Alm. Salg
+"Seedorffs Vænge 8, 3. th",3,Lejlighed,97,1988,-0.03,4365e3,2000 Frederiksberg,45e3,2017-06-16,Alm. Salg
+"Godthåbsvænget 31, 2. tv",3,Lejlighed,87,1977,NA,141e4,2000 Frederiksberg,16206,2017-06-16,Fam. Salg
+"Preben Kaas Vænge 2, 3. th",4,Lejlighed,123,2008,0,4995e3,2000 Frederiksberg,40609,2017-06-16,Alm. Salg
+"C.F. Richs Vej 122, 2. th",5,Lejlighed,108,1937,0.03,3905e3,2000 Frederiksberg,36157,2017-06-15,Alm. Salg
+"Stockflethsvej 39, 2. mf",2,Lejlighed,73,1934,-0.02,2925e3,2000 Frederiksberg,40068,2017-06-15,Alm. Salg
+"Stockflethsvej 39, 2. th",4,Lejlighed,108,1934,-0.04,3845e3,2000 Frederiksberg,35601,2017-06-15,Alm. Salg
+"Godthåbsvej 39, 1. tv",2,Lejlighed,70,1943,0,3095e3,2000 Frederiksberg,44214,2017-06-14,Alm. Salg
+"Roskildevej 53, 1. 101",3,Lejlighed,79,1972,0.01,2415e3,2000 Frederiksberg,30569,2017-06-14,Alm. Salg
+"Priorvej 11, 2. b",2,Lejlighed,68,1972,-0.07,2312500,2000 Frederiksberg,34007,2017-06-14,Alm. Salg
+"Borgmester Fischers Vej 5D, 2. 3",4,Lejlighed,100,2001,-0.02,3627e3,2000 Frederiksberg,36270,2017-06-13,Alm. Salg
+"Finsensvej 41, 2. tv",3,Lejlighed,80,1932,0,3405e3,2000 Frederiksberg,42562,2017-06-13,Alm. Salg
+"Frederiksvej 40, 3. tv",2,Lejlighed,61,1904,NA,1423e3,2000 Frederiksberg,23327,2017-06-13,Fam. Salg
+"Aksel Møllers Have 30, 3. tv",2,Lejlighed,63,1946,NA,1357e3,2000 Frederiksberg,21539,2017-06-13,Fam. Salg
+"Finsensvej 36D, st. th",3,Lejlighed,86,1979,-0.04,3053e3,2000 Frederiksberg,35500,2017-06-13,Alm. Salg
+"Julius Valentiners Vej 33, 3. th",4,Lejlighed,94,1932,0,399e4,2000 Frederiksberg,42446,2017-06-12,Alm. Salg
+"Borgmester Fischers Vej 5F, 5. 3",2,Lejlighed,77,2001,-0.02,2645e3,2000 Frederiksberg,34350,2017-06-12,Alm. Salg
+"Nordre Fasanvej 16, 1. tv",3,Lejlighed,70,1901,0,3395e3,2000 Frederiksberg,48500,2017-06-12,Alm. Salg
+"Porcelænshaven 4C, 3. th",4,Lejlighed,105,2007,-0.03,555e4,2000 Frederiksberg,52857,2017-06-12,Alm. Salg
+"Frederiksvej 40, 2. tv",2,Lejlighed,61,1904,-0.04,24e5,2000 Frederiksberg,39344,2017-06-12,Alm. Salg
+"Grøndalsvej 8, st. tv",3,Lejlighed,60,1934,0,2795e3,2000 Frederiksberg,46583,2017-06-12,Alm. Salg
+"Bispeengen 13, 3. tv",2,Lejlighed,72,1911,NA,1097286,2000 Frederiksberg,15240,2017-06-12,Alm. Salg
+"C.F. Richs Vej 140, 1. tv",4,Lejlighed,81,1937,0,3195e3,2000 Frederiksberg,39444,2017-06-10,Alm. Salg
+"Emil Slomanns Vej 1A, 4. tv",5,Lejlighed,143,2002,NA,7495e3,2000 Frederiksberg,52412,2017-06-10,Alm. Salg
+"A.D. Jørgensens Vej 71, 1. th",2,Lejlighed,69,1991,-0.04,24e5,2000 Frederiksberg,34782,2017-06-09,Alm. Salg
+"Prins Constantins Vej 7, 4. tv",2,Lejlighed,60,1936,-0.05,2465e3,2000 Frederiksberg,41083,2017-06-09,Alm. Salg
+"Bentzonsvej 36, 4. tv",4,Lejlighed,120,1900,0,5495e3,2000 Frederiksberg,45791,2017-06-08,Alm. Salg
+"Solvej 3, 2. th",3,Lejlighed,90,1902,NA,41e5,2000 Frederiksberg,45555,2017-06-08,Alm. Salg
+"Borups Alle 136, 1. th",4,Lejlighed,94,1932,0,3985e3,2000 Frederiksberg,42393,2017-06-06,Alm. Salg
+"Søndre Fasanvej 87C, 2. 3",3,Lejlighed,87,1991,-0.02,31e5,2000 Frederiksberg,35632,2017-06-06,Alm. Salg
+"Falkoner Alle 90, 3. 7",3,Lejlighed,120,1970,-0.01,425e4,2000 Frederiksberg,35416,2017-06-06,Alm. Salg
+"Mariendalsvej 71, st. mf",2,Lejlighed,67,1929,-0.03,29e5,2000 Frederiksberg,43283,2017-06-06,Alm. Salg
+"Lollandsvej 38, 2. tv",3,Lejlighed,74,1901,-0.02,362e4,2000 Frederiksberg,48918,2017-06-05,Alm. Salg
+"Munkensvej 9, 4. th",2,Lejlighed,65,1913,NA,118e4,2000 Frederiksberg,18153,2017-06-05,Fam. Salg
+"Rolfsvej 37, 1. tv",4,Lejlighed,110,1916,-0.01,555e4,2000 Frederiksberg,50454,2017-06-05,Alm. Salg
+"Holger Danskes Vej 18, st. th",2,Lejlighed,45,1885,-0.05,19e5,2000 Frederiksberg,42222,2017-06-05,Alm. Salg
+"Aksel Møllers Have 10, 2. tv",2,Lejlighed,65,1944,0,2995e3,2000 Frederiksberg,46076,2017-06-05,Alm. Salg
+"Roskildevej 122, 4. tv",3,Lejlighed,90,1953,-0.01,267e4,2000 Frederiksberg,29666,2017-06-05,Alm. Salg
+"Holger Danskes Vej 27B, st. tv",2,Lejlighed,64,1902,NA,119e4,2000 Frederiksberg,18593,2017-06-02,Fam. Salg
+"Vagtelvej 63, 2. tv",3,Lejlighed,88,1969,0.01,291e4,2000 Frederiksberg,33068,2017-06-02,Alm. Salg
+"Holger Danskes Vej 12A, 1. th",2,Lejlighed,58,1885,-0.05,285e4,2000 Frederiksberg,49137,2017-06-02,Alm. Salg
+"Holger Danskes Vej 12A, 1. th",2,Lejlighed,58,1885,-0.05,285e4,2000 Frederiksberg,49137,2017-06-02,Alm. Salg
+"Duevej 118, 2. th",2,Lejlighed,62,1917,0.01,252e4,2000 Frederiksberg,40645,2017-06-02,Alm. Salg
+"Nordre Fasanvej 80, 3. th",4,Lejlighed,102,1932,0.02,382e4,2000 Frederiksberg,37450,2017-06-02,Alm. Salg
+"Rolfsvej 37, 2. th",4,Lejlighed,111,1916,0,56e5,2000 Frederiksberg,50450,2017-06-01,Alm. Salg
+"Rådmand Steins Alle 33, 1. 11",2,Lejlighed,74,1970,NA,15e5,2000 Frederiksberg,20270,2017-06-01,Fam. Salg
+"Rådmand Steins Alle 33, 2. 23",2,Lejlighed,71,1970,-0.02,195e4,2000 Frederiksberg,27464,2017-06-01,Alm. Salg
+"Ærøvej 7, 1. th",3,Lejlighed,77,1920,NA,1233333,2000 Frederiksberg,16017,2017-06-01,Alm. Salg
+"C.F. Richs Vej 112, 3. th",3,Lejlighed,65,1937,-0.04,221e4,2000 Frederiksberg,34e3,2017-06-01,Alm. Salg
+"H. Schneekloths Vej 13, 2. th",2,Lejlighed,78,1933,0,3008e3,2000 Frederiksberg,38564,2017-05-31,Alm. Salg
+"Falkoner Alle 46, 4. th",3,Lejlighed,93,1914,-0.04,48e5,2000 Frederiksberg,51612,2017-05-31,Alm. Salg
+"Falkoner Alle 46, 5. th",3,Lejlighed,150,1914,-0.03,725e4,2000 Frederiksberg,48333,2017-05-31,Alm. Salg
+"Holger Danskes Vej 102, 1. 1",2,Lejlighed,86,2005,-0.01,336e4,2000 Frederiksberg,39069,2017-05-31,Alm. Salg
+"Rådmand Steins Alle 27, 4. tv",3,Lejlighed,81,1953,-0.04,24e5,2000 Frederiksberg,29629,2017-05-31,Alm. Salg
+"Mathildevej 16, 3. tv",2,Lejlighed,66,1909,-0.07,27e5,2000 Frederiksberg,40909,2017-05-31,Alm. Salg
+"Bispeengen 7, 4. th",3,Lejlighed,68,1914,0.04,2895e3,2000 Frederiksberg,42573,2017-05-31,Alm. Salg
+"Solsortvej 77, st. th",3,Lejlighed,79,1914,NA,37e5,2000 Frederiksberg,46835,2017-05-30,Alm. Salg
+"Nordre Fasanvej 33C, st. th",2,Lejlighed,63,1930,-0.02,27e5,2000 Frederiksberg,42857,2017-05-30,Alm. Salg
+"C.F. Richs Vej 136, 2. tv",4,Lejlighed,98,1937,-0.04,3025e3,2000 Frederiksberg,30867,2017-05-30,Alm. Salg
+"Kronprinsesse Sofies Vej 20, 5. 3",2,Lejlighed,63,1969,-0.04,245e4,2000 Frederiksberg,38888,2017-05-30,Alm. Salg
+"Dalgas Boulevard 87, 4. tv",2,Lejlighed,67,1932,NA,175e4,2000 Frederiksberg,26119,2017-05-29,Fam. Salg
+"Duevej 48, st. th",3,Lejlighed,76,1932,-0.05,305e4,2000 Frederiksberg,40131,2017-05-29,Alm. Salg
+"Allegade 23, 4",5,Lejlighed,149,1890,NA,8725e3,2000 Frederiksberg,58557,2017-05-29,Alm. Salg
+"Roskildevej 100, st. th",4,Lejlighed,123,1956,-0.01,33e5,2000 Frederiksberg,26829,2017-05-28,Alm. Salg
+"Ane Katrines Vej 16, 3. 3",2,Lejlighed,50,1932,NA,1525e3,2000 Frederiksberg,30500,2017-05-28,Alm. Salg
+"Borgmester Fischers Vej 5F, 4. 3",2,Lejlighed,77,2001,-0.01,2675e3,2000 Frederiksberg,34740,2017-05-27,Alm. Salg
+"Roskildevej 120, 2. tv",3,Lejlighed,78,1953,-0.04,2495e3,2000 Frederiksberg,31987,2017-05-27,Alm. Salg
+"Thurøvej 9, 3. th",2,Lejlighed,72,1913,0,3298e3,2000 Frederiksberg,45805,2017-05-26,Alm. Salg
+"Preben Kaas Vænge 6, 1. th",4,Lejlighed,162,2008,-0.04,655e4,2000 Frederiksberg,40432,2017-05-26,Alm. Salg
+"Rolfsvej 29, st. tv",2,Lejlighed,49,1891,-0.01,2525e3,2000 Frederiksberg,51530,2017-05-25,Alm. Salg
+"Holger Danskes Vej 102, 2. 1",2,Lejlighed,86,2005,NA,345e4,2000 Frederiksberg,40116,2017-05-25,Alm. Salg
+"Ane Katrines Vej 4, 1. th",2,Lejlighed,61,1932,0.04,2282e3,2000 Frederiksberg,37409,2017-05-24,Alm. Salg
+"Borgmester Fischers Vej 5E, st. 1",3,Lejlighed,94,2001,-0.04,302e4,2000 Frederiksberg,32127,2017-05-24,Alm. Salg
+"Vagtelvej 67, 4. mf",5,Lejlighed,115,1969,-0.03,36e5,2000 Frederiksberg,31304,2017-05-24,Alm. Salg
+"Frederiksvej 44, 2. th",2,Lejlighed,52,1902,NA,1525e3,2000 Frederiksberg,29326,2017-05-24,Fam. Salg
+"Ewaldsensvej 10, 2. th",2,Lejlighed,64,1937,-0.02,245e4,2000 Frederiksberg,38281,2017-05-24,Alm. Salg
+"Bernhard Bangs Alle 11, 1. tv",3,Lejlighed,88,1973,-0.02,3525e3,2000 Frederiksberg,40056,2017-05-24,Alm. Salg
+"H.V. Nyholms Vej 2, 2. 1",3,Lejlighed,105,2008,-0.01,425e4,2000 Frederiksberg,40476,2017-05-23,Alm. Salg
+"Roskildevej 53, 2. 204",2,Lejlighed,65,1972,-0.04,206e4,2000 Frederiksberg,31692,2017-05-23,Alm. Salg
+"Frøbels Alle 7, 3. th",2,Lejlighed,66,1937,-0.04,24e5,2000 Frederiksberg,36363,2017-05-23,Alm. Salg
+"Aksel Møllers Have 2, 7. th",2,Lejlighed,60,1943,NA,15e5,2000 Frederiksberg,25e3,2017-05-23,Fam. Salg
+"Rådmand Steins Alle 15, 4. tv",3,Lejlighed,89,1956,0,2505e3,2000 Frederiksberg,28146,2017-05-23,Alm. Salg
+"Roskildevej 55, 2. 214",2,Lejlighed,67,1972,NA,2295e3,2000 Frederiksberg,34253,2017-05-23,Alm. Salg
+"Lyøvej 16, 2. tv",4,Lejlighed,101,1979,NA,996288,2000 Frederiksberg,9864,2017-05-23,Andet
+"Porcelænshaven 5F, 2. th",3,Lejlighed,101,2006,NA,595e4,2000 Frederiksberg,58910,2017-05-23,Alm. Salg
+"Ved Andebakken 4, 3. th",2,Lejlighed,59,1941,NA,15e5,2000 Frederiksberg,25423,2017-05-22,Fam. Salg
+"Frederiksvej 36, 1. tv",2,Lejlighed,57,1904,-0.01,257e4,2000 Frederiksberg,45087,2017-05-22,Alm. Salg
+"Porcelænshaven 2F, 2. 4",2,Lejlighed,69,1861,0.01,3625e3,2000 Frederiksberg,52536,2017-05-22,Alm. Salg
+"H. Schneekloths Vej 31, 3. 4",1,Lejlighed,55,1961,0,1695e3,2000 Frederiksberg,30818,2017-05-22,Alm. Salg
+"C.F. Richs Vej 112, 2. th",3,Lejlighed,65,1937,NA,1425e3,2000 Frederiksberg,21923,2017-05-21,Fam. Salg
+"Nordre Fasanvej 160, 2. th",3,Lejlighed,78,1913,NA,3095e3,2000 Frederiksberg,39679,2017-05-19,Alm. Salg
+"Mariendalsvej 71, st. th",2,Lejlighed,68,1929,0,2495e3,2000 Frederiksberg,36691,2017-05-19,Alm. Salg
+"Kilevej 6, 1. th",3,Lejlighed,105,2009,-0.03,515e4,2000 Frederiksberg,49047,2017-05-19,Alm. Salg
+"Frederik VIs Alle 2, 1. th",4,Lejlighed,127,1905,NA,3017500,2000 Frederiksberg,23759,2017-05-18,Fam. Salg
+"Finsensvej 13B, 4. th",3,Lejlighed,93,1969,-0.05,38e5,2000 Frederiksberg,40860,2017-05-18,Alm. Salg
+"Bernhard Bangs Alle 2, 1. 20",4,Lejlighed,95,1960,-0.05,305e4,2000 Frederiksberg,32105,2017-05-18,Alm. Salg
+"C.F. Richs Vej 83, 1. th",2,Lejlighed,61,1936,0,199e4,2000 Frederiksberg,32622,2017-05-18,Alm. Salg
+"Allegade 24A, 5. th",3,Lejlighed,97,1897,-0.01,51e5,2000 Frederiksberg,52577,2017-05-18,Alm. Salg
+"Stockflethsvej 39, 3. mf",3,Lejlighed,73,1934,-0.01,305e4,2000 Frederiksberg,41780,2017-05-17,Alm. Salg
+Porcelænshaven 10A,3,Lejlighed,71,1919,NA,1402500,2000 Frederiksberg,19753,2017-05-17,Fam. Salg
+"C.F. Richs Vej 102, 2. th",2,Lejlighed,60,1936,-0.01,215e4,2000 Frederiksberg,35833,2017-05-17,Alm. Salg
+"Søndre Fasanvej 87A, 2. 2",4,Lejlighed,94,1991,-0.02,3685e3,2000 Frederiksberg,39202,2017-05-17,Alm. Salg
+"Dirch Passers Allé 3, 2. th",3,Lejlighed,94,2008,-0.02,3715e3,2000 Frederiksberg,39521,2017-05-17,Alm. Salg
+"C.F. Richs Vej 142, 2. th",4,Lejlighed,81,1937,0.04,3105e3,2000 Frederiksberg,38333,2017-05-16,Alm. Salg
+"Bentzonsvej 8, st. tv",3,Lejlighed,70,1904,0,3545e3,2000 Frederiksberg,50642,2017-05-16,Alm. Salg
+"Lyøvej 20, 3. mf",3,Lejlighed,90,1979,-0.01,435e4,2000 Frederiksberg,48333,2017-05-16,Alm. Salg
+"H. Schneekloths Vej 9, st. tv",3,Lejlighed,85,1933,NA,324e4,2000 Frederiksberg,38117,2017-05-16,Alm. Salg
+"Dirch Passers Allé 15, 3. th",3,Lejlighed,94,2008,-0.01,374e4,2000 Frederiksberg,39787,2017-05-15,Alm. Salg
+"C.F. Richs Vej 118, 1. tv",3,Lejlighed,65,1937,-0.02,235e4,2000 Frederiksberg,36153,2017-05-15,Alm. Salg
+"Grøndalsvej 44, st. tv",3,Lejlighed,91,1928,-0.03,465e4,2000 Frederiksberg,51098,2017-05-15,Alm. Salg
+"Guldborgvej 30, st. tv",2,Lejlighed,58,1956,NA,11e5,2000 Frederiksberg,18965,2017-05-15,Alm. Salg
+"Kongensvej 2, st. mf",4,Lejlighed,113,1883,-0.03,58e5,2000 Frederiksberg,51327,2017-05-15,Alm. Salg
+"Prins Constantins Vej 7, 2. tv",2,Lejlighed,60,1936,0.04,233e4,2000 Frederiksberg,38833,2017-05-15,Alm. Salg
+"Frederiksvej 45, 2. tv",3,Lejlighed,66,1902,-0.03,2965e3,2000 Frederiksberg,44924,2017-05-14,Alm. Salg
+"Ane Katrines Vej 32, 4. tv",3,Lejlighed,71,1932,NA,255e4,2000 Frederiksberg,35915,2017-05-14,Alm. Salg
+"Kong Georgs Vej 6A, 3. th",4,Lejlighed,81,1898,NA,195e4,2000 Frederiksberg,24074,2017-05-13,Alm. Salg
+"Bernhard Bangs Alle 1, 1. tv",3,Lejlighed,88,1973,-0.02,334e4,2000 Frederiksberg,37954,2017-05-11,Alm. Salg
+"Aksel Møllers Have 8, 9. tv",4,Lejlighed,119,1944,NA,3105e3,2000 Frederiksberg,26092,2017-05-11,Fam. Salg
+"Lyøvej 22, 2. th",3,Lejlighed,93,1979,0,45e5,2000 Frederiksberg,48387,2017-05-11,Alm. Salg
+"Borgmester Fischers Vej 5A, 1. 1",3,Lejlighed,93,2001,-0.05,31e5,2000 Frederiksberg,33333,2017-05-11,Alm. Salg
+"Allegade 24B, 4. th",3,Lejlighed,92,1897,-0.01,4725e3,2000 Frederiksberg,51358,2017-05-11,Alm. Salg
+"Falkoner Alle 18B, 3. tv",5,Lejlighed,131,1903,0,551e4,2000 Frederiksberg,42061,2017-05-10,Alm. Salg
+"Rådmand Steins Alle 9, 5. tv",4,Lejlighed,100,1953,-0.03,29e5,2000 Frederiksberg,29e3,2017-05-10,Alm. Salg
+"Mariendalsvej 11, 4. mf",2,Lejlighed,68,1936,-0.04,25e5,2000 Frederiksberg,36764,2017-05-10,Alm. Salg
+"Godthåbsvej 117, 1. th",3,Lejlighed,89,1932,NA,3495e3,2000 Frederiksberg,39269,2017-05-10,Alm. Salg
+"Nyelandsvej 5, st. tv",4,Lejlighed,87,1889,NA,2e6,2000 Frederiksberg,22988,2017-05-10,Fam. Salg
+"Nordre Fasanvej 66, 5. 53",2,Lejlighed,67,1974,NA,13e5,2000 Frederiksberg,19402,2017-05-10,Fam. Salg
+"Mariendalsvej 13, 2. tv",4,Lejlighed,103,1969,-0.03,3975e3,2000 Frederiksberg,38592,2017-05-10,Alm. Salg
+"Nordre Fasanvej 39A, 2. tv",3,Lejlighed,87,1932,NA,25e5,2000 Frederiksberg,28735,2017-05-10,Fam. Salg
+"Nimbusparken 5, 3. 3",4,Lejlighed,109,2005,-0.01,5095e3,2000 Frederiksberg,46743,2017-05-10,Alm. Salg
+"Finsensvej 7C, 4. tv",5,Lejlighed,126,1969,-0.02,49e5,2000 Frederiksberg,38888,2017-05-09,Alm. Salg
+"Rolfsvej 9, 1. th",2,Lejlighed,54,1890,-0.04,255e4,2000 Frederiksberg,47222,2017-05-08,Alm. Salg
+"Roskildevej 55, 3. 312",2,Lejlighed,67,1972,0,2295e3,2000 Frederiksberg,34253,2017-05-08,Alm. Salg
+"Fuglebakkevej 92, 3. 2",3,Lejlighed,75,1970,-0.03,2425e3,2000 Frederiksberg,32333,2017-05-07,Alm. Salg
+"C.F. Richs Vej 120, 2. tv",3,Lejlighed,65,1937,0,2245e3,2000 Frederiksberg,34538,2017-05-04,Alm. Salg
+"C.F. Richs Vej 140, st. th",4,Lejlighed,80,1937,NA,948e3,2000 Frederiksberg,11850,2017-05-04,Fam. Salg
+"Nordre Fasanvej 16, st. tv",2,Lejlighed,70,1901,-0.05,2075e3,2000 Frederiksberg,29642,2017-05-04,Alm. Salg
+"Aksel Møllers Have 28, st. tv",2,Lejlighed,56,1946,NA,22e5,2000 Frederiksberg,39285,2017-05-04,Fam. Salg
+"Fuglebakkevej 92, 1. 2",3,Lejlighed,75,1970,NA,2e6,2000 Frederiksberg,26666,2017-05-04,Alm. Salg
+"Nordre Fasanvej 26, st. tv",2,Lejlighed,50,1884,-0.03,203e4,2000 Frederiksberg,40600,2017-05-04,Alm. Salg
+"Porcelænshaven 2A, 4. tv",3,Lejlighed,81,1861,0,4495e3,2000 Frederiksberg,55493,2017-05-03,Alm. Salg
+"Ane Katrines Vej 18, 4. 3",2,Lejlighed,51,1932,-0.05,2e6,2000 Frederiksberg,39215,2017-05-03,Alm. Salg
+"Fuglebakkevej 92, 5. 1",3,Lejlighed,78,1970,NA,31e5,2000 Frederiksberg,39743,2017-05-03,Alm. Salg
+"Normasvej 39, 2. tv",4,Lejlighed,89,1936,NA,28e5,2000 Frederiksberg,31460,2017-05-03,Fam. Salg
+"Porcelænshaven 10B, 1. th",3,Lejlighed,73,1919,0,4295e3,2000 Frederiksberg,58835,2017-05-02,Alm. Salg
+"Nyelandsvej 76, st",7,Lejlighed,178,1901,-0.02,83e5,2000 Frederiksberg,46629,2017-05-02,Alm. Salg
+"Falkoner Alle 90, 4. 6",2,Lejlighed,77,1970,0,2625e3,2000 Frederiksberg,34090,2017-05-01,Alm. Salg
+"Drosselvej 57D, 1. th",2,Lejlighed,103,1913,-0.03,37e5,2000 Frederiksberg,35922,2017-04-30,Alm. Salg
+"Betty Nansens Alle 37, 3. th",4,Lejlighed,129,1976,-0.04,5065e3,2000 Frederiksberg,39263,2017-04-30,Alm. Salg
+"Wilkensvej 7, 1. th",2,Lejlighed,70,1972,0,255e4,2000 Frederiksberg,36428,2017-04-28,Alm. Salg
+"Roskildevej 53, 4. 405",2,Lejlighed,65,1972,-0.02,225e4,2000 Frederiksberg,34615,2017-04-28,Alm. Salg
+"Falkoner Alle 90, 5. 5",2,Lejlighed,76,1970,-0.03,231e4,2000 Frederiksberg,30394,2017-04-28,Alm. Salg
+"Godthåbsvej 61A, 2. th",4,Lejlighed,79,1898,0.01,3805e3,2000 Frederiksberg,48164,2017-04-28,Alm. Salg
+"Roskildevej 55, st. 18",3,Lejlighed,86,1972,-0.03,2725e3,2000 Frederiksberg,31686,2017-04-27,Alm. Salg
+"Solvej 3, st. tv",3,Lejlighed,88,1902,-0.01,375e4,2000 Frederiksberg,42613,2017-04-27,Alm. Salg
+"Solvej 4, 2. tv",4,Lejlighed,98,1904,0,4295e3,2000 Frederiksberg,43826,2017-04-27,Alm. Salg
+"Mathildevej 24, 1. th",2,Lejlighed,66,1903,0.04,29e5,2000 Frederiksberg,43939,2017-04-27,Alm. Salg
+"Frederiksvej 48, 2. th",2,Lejlighed,54,1909,-0.04,21e5,2000 Frederiksberg,38888,2017-04-27,Alm. Salg
+"Ane Katrines Vej 14, 4. 3",2,Lejlighed,51,1932,0,1895e3,2000 Frederiksberg,37156,2017-04-26,Alm. Salg
+"Bispeengen 9, 3. th",3,Lejlighed,68,1914,0,2995e3,2000 Frederiksberg,44044,2017-04-26,Alm. Salg
+"Nimbusparken 13, 2. mf",4,Lejlighed,110,1955,0,5495e3,2000 Frederiksberg,49954,2017-04-25,Alm. Salg
+"Dalgas Boulevard 87, 3. th",2,Lejlighed,66,1932,-0.02,26e5,2000 Frederiksberg,39393,2017-04-25,Alm. Salg
+"Holger Danskes Vej 102, 5. th",2,Lejlighed,83,2005,-0.03,3375e3,2000 Frederiksberg,40662,2017-04-25,Alm. Salg
+"Porcelænshaven 2B, 2. 3",3,Lejlighed,82,1861,NA,4e6,2000 Frederiksberg,48780,2017-04-25,Alm. Salg
+"Nyelandsvej 4, 2. th",4,Lejlighed,95,1890,-0.05,4275e3,2000 Frederiksberg,45e3,2017-04-25,Alm. Salg
+"Borgmester Fischers Vej 5B, 3. 2",3,Lejlighed,83,2001,-0.01,297e4,2000 Frederiksberg,35783,2017-04-25,Alm. Salg
+"Bernhard Bangs Alle 13, 3. th",3,Lejlighed,88,1973,0,3395e3,2000 Frederiksberg,38579,2017-04-24,Alm. Salg
+"Solsortvej 67, st",5,Lejlighed,141,1924,NA,6495e3,2000 Frederiksberg,46063,2017-04-24,Alm. Salg
+"Kong Georgs Vej 14, 1",5,Lejlighed,120,1888,-0.05,605e4,2000 Frederiksberg,50416,2017-04-24,Alm. Salg
+"Rolfsvej 9, st. tv",2,Lejlighed,53,1890,NA,246500,2000 Frederiksberg,4650,2017-04-24,Alm. Salg
+"Porcelænshaven 4D, 1. tv",4,Lejlighed,91,2007,-0.02,555e4,2000 Frederiksberg,60989,2017-04-24,Alm. Salg
+"Duevej 50, st. th",4,Lejlighed,92,1932,0,365e4,2000 Frederiksberg,39673,2017-04-24,Alm. Salg
+"Godthåbsvænget 9, 1. tv",3,Lejlighed,87,1972,-0.03,2725e3,2000 Frederiksberg,31321,2017-04-23,Alm. Salg
+"Adilsvej 13, 2. th",2,Lejlighed,53,1890,NA,1495e3,2000 Frederiksberg,28207,2017-04-23,Fam. Salg
+"Smallegade 26A, 3. th",2,Lejlighed,67,1941,0,2795e3,2000 Frederiksberg,41716,2017-04-23,Alm. Salg
+"Solsortvej 77, st. tv",3,Lejlighed,79,1914,-0.04,41e5,2000 Frederiksberg,51898,2017-04-21,Alm. Salg
+"Sprogøvej 15, 3. mf",4,Lejlighed,84,1982,0,4195e3,2000 Frederiksberg,49940,2017-04-21,Alm. Salg
+"Kronprinsesse Sofies Vej 43, st. th",3,Lejlighed,68,1932,-0.02,225e4,2000 Frederiksberg,33088,2017-04-21,Alm. Salg
+"Adilsvej 14, 3. tv",3,Lejlighed,74,1893,-0.02,4e6,2000 Frederiksberg,54054,2017-04-21,Alm. Salg
+"Bispeengen 17, st. tv",4,Lejlighed,105,1913,-0.01,352e4,2000 Frederiksberg,33523,2017-04-20,Alm. Salg
+"Frederik VIs Alle 6, 2. tv",4,Lejlighed,105,1904,0,4995e3,2000 Frederiksberg,47571,2017-04-20,Alm. Salg
+"Eversvej 11, 3. mf",1,Lejlighed,52,1981,0,2045e3,2000 Frederiksberg,39326,2017-04-20,Alm. Salg
+"Guldborgvej 21, st. tv",2,Lejlighed,63,1902,0,2295e3,2000 Frederiksberg,36428,2017-04-20,Alm. Salg
+"Lollandsvej 36, 1. tv",3,Lejlighed,74,1901,0,3795e3,2000 Frederiksberg,51283,2017-04-19,Alm. Salg
+"Borups Alle 108, 3. tv",2,Lejlighed,65,1908,0,2475e3,2000 Frederiksberg,38076,2017-04-19,Alm. Salg
+"Roskildevej 53, 2. 202",2,Lejlighed,65,1972,-0.03,206e4,2000 Frederiksberg,31692,2017-04-19,Alm. Salg
+"Bernhard Bangs Alle 2, 3. 58",2,Lejlighed,93,1960,0.08,28e5,2000 Frederiksberg,30107,2017-04-19,Alm. Salg
+"Søndre Fasanvej 87D, 2. 3",3,Lejlighed,87,1991,NA,3075e3,2000 Frederiksberg,35344,2017-04-19,Alm. Salg
+"Nordre Fasanvej 82, 1. tv",4,Lejlighed,102,1932,0,3995e3,2000 Frederiksberg,39166,2017-04-19,Alm. Salg
+"Munkensvej 10, 4. th",2,Lejlighed,66,1911,0,2596e3,2000 Frederiksberg,39333,2017-04-18,Alm. Salg
+"Nordre Fasanvej 60, 3. 31",2,Lejlighed,62,1974,NA,205e4,2000 Frederiksberg,33064,2017-04-18,Alm. Salg
+"Roskildevej 55, 3. 313",2,Lejlighed,67,1972,NA,1062500,2000 Frederiksberg,15858,2017-04-18,Fam. Salg
+"Frøbels Alle 1, st. th",3,Lejlighed,75,1937,0,2795e3,2000 Frederiksberg,37266,2017-04-17,Alm. Salg
+"Bentzonsvej 50A, 1. th",3,Lejlighed,72,1898,NA,1755e3,2000 Frederiksberg,24375,2017-04-15,Fam. Salg
+"Mathildevej 12, 3. tv",2,Lejlighed,66,1909,-0.02,255e4,2000 Frederiksberg,38636,2017-04-15,Alm. Salg
+"La Cours Vej 18, st. tv",4,Lejlighed,103,1934,-0.03,5115e3,2000 Frederiksberg,49660,2017-04-15,Alm. Salg
+"C.F. Richs Vej 93, 1. tv",2,Lejlighed,69,1936,NA,1299674,2000 Frederiksberg,18835,2017-04-15,Alm. Salg
+"Munkensvej 8, 3. tv",2,Lejlighed,66,1911,NA,135e4,2000 Frederiksberg,20454,2017-04-13,Fam. Salg
+"Godthåbsvænget 9, 2. tv",3,Lejlighed,98,1972,0,3895e3,2000 Frederiksberg,39744,2017-04-12,Alm. Salg
+"Solvej 5, 3. th",3,Lejlighed,91,1902,NA,215e4,2000 Frederiksberg,23626,2017-04-12,Fam. Salg
+"Frederiksvej 25, 4. tv",2,Lejlighed,74,1890,NA,2263750,2000 Frederiksberg,30591,2017-04-11,Fam. Salg
+"Porcelænshaven 2B, 4",4,Lejlighed,106,1861,-0.01,52e5,2000 Frederiksberg,49056,2017-04-11,Alm. Salg
+"Aksel Møllers Have 8, 8. th",3,Lejlighed,91,1944,0,495e4,2000 Frederiksberg,54395,2017-04-11,Alm. Salg
+"Frederiksvej 40, 4. th",2,Lejlighed,58,1904,-0.01,2675e3,2000 Frederiksberg,46120,2017-04-10,Alm. Salg
+"C.F. Richs Vej 87, 3. tv",3,Lejlighed,71,1936,NA,265e4,2000 Frederiksberg,37323,2017-04-10,Fam. Salg
+"Bogøvej 6, 2. tv",3,Lejlighed,68,1900,NA,168e4,2000 Frederiksberg,24705,2017-04-10,Fam. Salg
+"Vagtelvej 57, 4. th",3,Lejlighed,84,1969,-0.06,31e5,2000 Frederiksberg,36904,2017-04-09,Alm. Salg
+"Godthåbsvænget 23, st. tv",3,Lejlighed,90,1972,0,3275e3,2000 Frederiksberg,36388,2017-04-09,Alm. Salg
+"Holger Danskes Vej 32, 5. th",2,Lejlighed,91,2011,-0.05,455e4,2000 Frederiksberg,5e4,2017-04-09,Alm. Salg
+"Frederik VIs Alle 12, 3. th",4,Lejlighed,134,1905,-0.02,8e6,2000 Frederiksberg,59701,2017-04-07,Alm. Salg
+"C.F. Richs Vej 94, st. th",5,Lejlighed,105,1936,NA,386e4,2000 Frederiksberg,36761,2017-04-07,Alm. Salg
+"Solsortvej 67, 2",3,Lejlighed,106,1924,0,4595e3,2000 Frederiksberg,43349,2017-04-06,Alm. Salg
+"Roarsvej 24, 1. th",3,Lejlighed,75,1900,0,3495e3,2000 Frederiksberg,46600,2017-04-06,Alm. Salg
+"Dronning Olgas Vej 28, 1",5,Lejlighed,143,1899,0.01,717e4,2000 Frederiksberg,50139,2017-04-05,Alm. Salg
+"Finsensvej 75, 1. th",3,Lejlighed,78,1926,-0.04,275e4,2000 Frederiksberg,35256,2017-04-05,Alm. Salg
+"Wilkensvej 8, 1. mf",1,Lejlighed,51,1981,0,1998e3,2000 Frederiksberg,39176,2017-04-04,Alm. Salg
+"C.F. Richs Vej 102, 2. tv",2,Lejlighed,60,1936,0,215e4,2000 Frederiksberg,35833,2017-04-04,Alm. Salg
+"Bernhard Bangs Alle 53A, 2. tv",3,Lejlighed,91,1981,NA,22e5,2000 Frederiksberg,24175,2017-04-04,Alm. Salg
+"Pile Alle 35, 2. tv",3,Lejlighed,67,1890,NA,2725e3,2000 Frederiksberg,40671,2017-04-04,Alm. Salg
+"Langelands Plads 4, 4. th",4,Lejlighed,113,1900,-0.01,5645e3,2000 Frederiksberg,49955,2017-04-04,Alm. Salg
+"Stockflethsvej 11, 1. tv",5,Lejlighed,158,1915,0,6495e3,2000 Frederiksberg,41107,2017-04-04,Alm. Salg
+"Dronning Olgas Vej 51, 4. th",3,Lejlighed,80,1903,0,3295e3,2000 Frederiksberg,41187,2017-04-04,Alm. Salg
+"Holger Danskes Vej 42, 4. 30",2,Lejlighed,74,1976,-0.01,2755e3,2000 Frederiksberg,37229,2017-04-03,Alm. Salg
+"Ved Andebakken 6, 3. th",2,Lejlighed,59,1941,-0.05,265e4,2000 Frederiksberg,44915,2017-04-03,Alm. Salg
+"Ane Katrines Vej 14, st. 2",2,Lejlighed,51,1932,-0.04,1875e3,2000 Frederiksberg,36764,2017-04-03,Alm. Salg
+"Roskildevej 114, 5. tv",2,Lejlighed,69,1956,-0.03,2175e3,2000 Frederiksberg,31521,2017-04-03,Alm. Salg
+"Dronning Olgas Vej 18A, 1",4,Lejlighed,132,1895,NA,6995e3,2000 Frederiksberg,52992,2017-04-03,Alm. Salg
+"Helgesvej 13, 2. th",2,Lejlighed,63,1889,0,32e5,2000 Frederiksberg,50793,2017-04-02,Alm. Salg
+"Mariendalsvej 26, 1. tv",2,Lejlighed,65,1962,-0.02,215e4,2000 Frederiksberg,33076,2017-04-02,Alm. Salg
+"H. Schneekloths Vej 9, 3. th",3,Lejlighed,84,1933,-0.01,317e4,2000 Frederiksberg,37738,2017-04-01,Alm. Salg
+"Borups Alle 138, 2. th",4,Lejlighed,90,1932,NA,22e5,2000 Frederiksberg,24444,2017-04-01,Fam. Salg
+"Borgmester Fischers Vej 5C, 4. 4",3,Lejlighed,80,2001,-0.03,31e5,2000 Frederiksberg,38750,2017-03-31,Alm. Salg
+"Guldborgvej 36, 4. 22",2,Lejlighed,61,1974,NA,1249750,2000 Frederiksberg,20487,2017-03-30,Alm. Salg
+"Blytsvej 7, st. th",5,Lejlighed,119,1903,-0.01,645e4,2000 Frederiksberg,54201,2017-03-30,Alm. Salg
+"Bernhard Bangs Alle 2, 5. 78",1,Lejlighed,63,1960,NA,1301750,2000 Frederiksberg,20662,2017-03-30,Alm. Salg
+"Falkoner Alle 54, 1. th",4,Lejlighed,141,1900,0,5795e3,2000 Frederiksberg,41099,2017-03-30,Alm. Salg
+C.F. Richs Vej 90A,3,Lejlighed,118,1936,NA,4e6,2000 Frederiksberg,33898,2017-03-30,Alm. Salg
+"Ved Andebakken 9, st. mf",2,Lejlighed,61,1941,NA,1209834,2000 Frederiksberg,19833,2017-03-29,Alm. Salg
+"Seedorffs Vænge 4, 2. th",4,Lejlighed,94,1988,-0.02,4384e3,2000 Frederiksberg,46638,2017-03-29,Alm. Salg
+"Langelandsvej 20B, 3. th",3,Lejlighed,69,1908,0.04,3625001,2000 Frederiksberg,52536,2017-03-29,Alm. Salg
+"Holger Danskes Vej 45, 3. 33",2,Lejlighed,67,1967,-0.03,2675e3,2000 Frederiksberg,39925,2017-03-28,Alm. Salg
+"Moltkesvej 63, 1",4,Lejlighed,110,1949,-0.01,44e5,2000 Frederiksberg,4e4,2017-03-28,Alm. Salg
+"Duevej 114, 1. tv",2,Lejlighed,62,1917,NA,1147500,2000 Frederiksberg,18508,2017-03-28,Fam. Salg
+"Roskildevej 118, 5. th",4,Lejlighed,104,1953,-0.02,293e4,2000 Frederiksberg,28173,2017-03-28,Alm. Salg
+"Duevej 58, 1. th",4,Lejlighed,92,1932,NA,17e5,2000 Frederiksberg,18478,2017-03-28,Fam. Salg
+"Finsensvej 47A, 4. 401",1,Lejlighed,65,1961,-0.1,18e5,2000 Frederiksberg,27692,2017-03-28,Alm. Salg
+"Mathildevej 12A, st. tv",2,Lejlighed,64,1909,NA,161e4,2000 Frederiksberg,25156,2017-03-27,Fam. Salg
+"Nordre Fasanvej 180, 4. th",5,Lejlighed,120,1934,0,3595e3,2000 Frederiksberg,29958,2017-03-27,Alm. Salg
+"Duevej 52, 2. th",3,Lejlighed,76,1932,-0.04,35e5,2000 Frederiksberg,46052,2017-03-27,Alm. Salg
+"Godthåbsvænget 37, 4. tv",3,Lejlighed,91,1977,NA,105e4,2000 Frederiksberg,11538,2017-03-27,Fam. Salg
+"Frøbels Alle 7, 1. th",3,Lejlighed,66,1937,-0.01,253e4,2000 Frederiksberg,38333,2017-03-25,Alm. Salg
+"Bentzonsvej 37, 2. tv",3,Lejlighed,67,1902,0,3395e3,2000 Frederiksberg,50671,2017-03-25,Alm. Salg
+"Aksel Møllers Have 10, 7. tv",2,Lejlighed,64,1944,0,3095e3,2000 Frederiksberg,48359,2017-03-24,Alm. Salg
+"Lyøvej 30, 3. tv",4,Lejlighed,100,1979,NA,1759500,2000 Frederiksberg,17595,2017-03-23,Fam. Salg
+"Moltkesvej 57, 2. tv",3,Lejlighed,81,1949,-0.04,287e4,2000 Frederiksberg,35432,2017-03-23,Alm. Salg
+"H. Schneekloths Vej 31, st. 2",2,Lejlighed,71,1961,-0.02,21e5,2000 Frederiksberg,29577,2017-03-23,Alm. Salg
+"Bentzonsvej 41, st. th",3,Lejlighed,80,1900,NA,18e5,2000 Frederiksberg,22500,2017-03-23,Fam. Salg
+"Falstersvej 12, 1. tv",3,Lejlighed,72,1902,-0.04,288e4,2000 Frederiksberg,4e4,2017-03-23,Alm. Salg
+"Bispeengen 13, 2. th",2,Lejlighed,68,1911,NA,1105e3,2000 Frederiksberg,16250,2017-03-23,Fam. Salg
+"Ane Katrines Vej 14, 3. 3",2,Lejlighed,51,1932,0,2095e3,2000 Frederiksberg,41078,2017-03-22,Alm. Salg
+"Lindevangs Alle 15B, 2. th",3,Lejlighed,125,2013,0,4695e3,2000 Frederiksberg,37560,2017-03-22,Alm. Salg
+"Ahornskellet 20, st",4,Lejlighed,122,1978,0.03,401e4,2000 Frederiksberg,32868,2017-03-21,Alm. Salg
+"Stockflethsvej 39, 2. tv",1,Lejlighed,63,1934,NA,17e5,2000 Frederiksberg,26984,2017-03-21,Fam. Salg
+"C.F. Richs Vej 132, 2. tv",2,Lejlighed,57,1937,0,1845e3,2000 Frederiksberg,32368,2017-03-21,Alm. Salg
+"Duevej 110, 2. th",2,Lejlighed,62,1917,NA,28e5,2000 Frederiksberg,45161,2017-03-21,Alm. Salg
+"Munkensvej 6, 4. th",2,Lejlighed,66,1908,0,2695e3,2000 Frederiksberg,40833,2017-03-21,Alm. Salg
+"Nyelandsvej 33, 1. th",3,Lejlighed,98,1904,0.02,45e5,2000 Frederiksberg,45918,2017-03-20,Alm. Salg
+"Kong Georgs Vej 51, 5. tv",3,Lejlighed,82,1963,-0.02,3652319,2000 Frederiksberg,44540,2017-03-20,Alm. Salg
+"Dirch Passers Allé 19, 3. th",3,Lejlighed,106,2008,-0.02,415e4,2000 Frederiksberg,39150,2017-03-20,Alm. Salg
+"Roskildevej 94, 6. tv",3,Lejlighed,79,1953,0.01,2825e3,2000 Frederiksberg,35759,2017-03-19,Alm. Salg
+"H.V. Nyholms Vej 2, 1. 2",4,Lejlighed,105,2008,-0.03,416e4,2000 Frederiksberg,39619,2017-03-17,Alm. Salg
+"Folkvarsvej 7, 2. th",3,Lejlighed,63,1888,-0.36,16e5,2000 Frederiksberg,25396,2017-03-17,Alm. Salg
+"Adilsvej 14, st. tv",3,Lejlighed,74,1893,NA,3745e3,2000 Frederiksberg,50608,2017-03-17,Alm. Salg
+"Solvej 7, 1. tv",3,Lejlighed,82,1902,NA,2242500,2000 Frederiksberg,27347,2017-03-17,Fam. Salg
+"Nimbusparken 7, 2. 2",4,Lejlighed,109,2005,NA,4695e3,2000 Frederiksberg,43073,2017-03-17,Alm. Salg
+"Porcelænshaven 5H, 3. th",4,Lejlighed,137,2006,0,8985e3,2000 Frederiksberg,65583,2017-03-16,Alm. Salg
+"Seedorffs Vænge 4, 1. th",4,Lejlighed,94,1988,NA,45e5,2000 Frederiksberg,47872,2017-03-16,Alm. Salg
+"Nyelandsvej 33, 5. th",3,Lejlighed,86,1904,-0.03,301e4,2000 Frederiksberg,35e3,2017-03-16,Alm. Salg
+"Langelandsvej 13, 1. th",3,Lejlighed,66,1899,-0.03,31e5,2000 Frederiksberg,46969,2017-03-16,Alm. Salg
+"Nordre Fasanvej 178, st. th",3,Lejlighed,80,1934,0.04,26e5,2000 Frederiksberg,32500,2017-03-16,Alm. Salg
+"Dronning Olgas Vej 49, 2. th",3,Lejlighed,96,1903,-0.05,38e5,2000 Frederiksberg,39583,2017-03-16,Alm. Salg
+"C.F. Richs Vej 110, 3. tv",3,Lejlighed,65,1937,-0.01,216e4,2000 Frederiksberg,33230,2017-03-16,Alm. Salg
+"Frederiksvej 50, 3",2,Lejlighed,60,1909,-0.03,241e4,2000 Frederiksberg,40166,2017-03-15,Alm. Salg
+"Rolfsvej 25, 2. tv",2,Lejlighed,63,1891,0,3495e3,2000 Frederiksberg,55476,2017-03-15,Alm. Salg
+"Finsensvej 73, 3. th",2,Lejlighed,62,1926,0,2298e3,2000 Frederiksberg,37064,2017-03-15,Alm. Salg
+"Porcelænshaven 2A, st. mf",3,Lejlighed,81,1861,-0.03,365e4,2000 Frederiksberg,45061,2017-03-14,Alm. Salg
+"Søndre Fasanvej 87C, 2. 4",3,Lejlighed,87,1991,-0.03,29e5,2000 Frederiksberg,33333,2017-03-14,Alm. Salg
+"Aksel Møllers Have 26, 1. tv",2,Lejlighed,61,1946,NA,1856e3,2000 Frederiksberg,30426,2017-03-13,Andet
+"C.F. Richs Vej 85, st. th",2,Lejlighed,74,1936,0,2195e3,2000 Frederiksberg,29662,2017-03-13,Alm. Salg
+"Langelandsvej 51, 3. tv",3,Lejlighed,65,1897,NA,192e4,2000 Frederiksberg,29538,2017-03-13,Fam. Salg
+"Thurøvej 11, 3. tv",3,Lejlighed,64,1913,0,2745e3,2000 Frederiksberg,42890,2017-03-13,Alm. Salg
+"Mathildevej 16, 1. th",2,Lejlighed,64,1909,0,2595e3,2000 Frederiksberg,40546,2017-03-12,Alm. Salg
+"Johannes V. Jensens Alle 42, 4. th",5,Lejlighed,173,1971,-0.05,6425e3,2000 Frederiksberg,37138,2017-03-12,Alm. Salg
+"Finsensvej 47B, 3. 311",3,Lejlighed,88,1961,-0.02,263e4,2000 Frederiksberg,29886,2017-03-10,Alm. Salg
+"Guldborgvej 37, 3. tv",3,Lejlighed,86,1902,0.03,411e4,2000 Frederiksberg,47790,2017-03-10,Alm. Salg
+"Mathildevej 18, 4. tv",4,Lejlighed,83,1888,-0.04,34e5,2000 Frederiksberg,40963,2017-03-10,Alm. Salg
+"Holger Danskes Vej 14, 2. th",2,Lejlighed,46,1885,NA,185e4,2000 Frederiksberg,40217,2017-03-10,Alm. Salg
+"Nyelandsvej 4, 1. tv",4,Lejlighed,85,1890,-0.01,38e5,2000 Frederiksberg,44705,2017-03-09,Alm. Salg
+"Holger Danskes Vej 16, 2. th",2,Lejlighed,47,1885,NA,935e3,2000 Frederiksberg,19893,2017-03-09,Fam. Salg
+"Finsensvej 47B, 1. 107",2,Lejlighed,60,1961,0,2345e3,2000 Frederiksberg,39083,2017-03-09,Alm. Salg
+"Roskildevej 53, 4. 407",2,Lejlighed,65,1972,-0.02,19e5,2000 Frederiksberg,29230,2017-03-08,Alm. Salg
+"Lyøvej 18, st. tv",3,Lejlighed,86,1979,-0.03,35e5,2000 Frederiksberg,40697,2017-03-08,Alm. Salg
+"Moltkesvej 67, 1. th",2,Lejlighed,74,1953,0.04,29e5,2000 Frederiksberg,39189,2017-03-08,Alm. Salg
+"Aksel Møllers Have 12, 2. tv",4,Lejlighed,90,1944,0,395e4,2000 Frederiksberg,43888,2017-03-08,Alm. Salg
+"Finsensvej 47A, 2. 204",2,Lejlighed,60,1961,0,2095e3,2000 Frederiksberg,34916,2017-03-08,Alm. Salg
+"Lyøvej 16, 2. mf",3,Lejlighed,90,1979,0,455e4,2000 Frederiksberg,50555,2017-03-07,Alm. Salg
+"Nyelandsvej 33, 2. th",4,Lejlighed,98,1904,NA,204e4,2000 Frederiksberg,20816,2017-03-06,Fam. Salg
+"Borups Alle 103, 3. tv",4,Lejlighed,125,1932,0.03,38e5,2000 Frederiksberg,30400,2017-03-06,Alm. Salg
+"Roskildevej 53, st. 1",3,Lejlighed,79,1972,-0.02,23e5,2000 Frederiksberg,29113,2017-03-05,Alm. Salg
+"Nordre Fasanvej 162, 4. tv",3,Lejlighed,77,1913,NA,164e4,2000 Frederiksberg,21298,2017-03-05,Fam. Salg
+"Bispeengen 15, 1. tv",3,Lejlighed,86,1911,-0.03,2895e3,2000 Frederiksberg,33662,2017-03-04,Alm. Salg
+"Aksel Møllers Have 6, 2. tv",2,Lejlighed,71,1944,-0.02,2905e3,2000 Frederiksberg,40915,2017-03-03,Alm. Salg
+"Finsensvej 41, 3. th",4,Lejlighed,94,1932,0,3845e3,2000 Frederiksberg,40904,2017-03-02,Alm. Salg
+"Mathildevej 17, 4",3,Lejlighed,73,1906,-0.03,3105e3,2000 Frederiksberg,42534,2017-03-02,Alm. Salg
+"Roskildevej 114, 2. tv",2,Lejlighed,69,1956,-0.03,2125e3,2000 Frederiksberg,30797,2017-03-02,Alm. Salg
+"Lyøvej 30, 2. mf",3,Lejlighed,90,1979,NA,4295e3,2000 Frederiksberg,47722,2017-03-01,Alm. Salg
+"Frederik VIs Alle 12, 2. th",5,Lejlighed,134,1905,0,8005e3,2000 Frederiksberg,59738,2017-03-01,Alm. Salg
+"Borups Alle 113, 2. k",2,Lejlighed,74,1972,-0.09,219e4,2000 Frederiksberg,29594,2017-03-01,Alm. Salg
+"Duevej 56, 4. tv",2,Lejlighed,64,1932,0,2392601,2000 Frederiksberg,37384,2017-03-01,Alm. Salg
+"Borups Alle 138, 4. tv",5,Lejlighed,122,1932,-0.05,445e4,2000 Frederiksberg,36475,2017-02-28,Alm. Salg
+"Bentzonsvej 8, st. th",4,Lejlighed,78,1904,0,3645e3,2000 Frederiksberg,46730,2017-02-28,Alm. Salg
+"Bernhard Bangs Alle 57, st. tv",2,Lejlighed,65,1936,0,2195e3,2000 Frederiksberg,33769,2017-02-27,Alm. Salg
+"Holger Danskes Vej 16, st. th",2,Lejlighed,47,1885,-0.06,1825e3,2000 Frederiksberg,38829,2017-02-27,Alm. Salg
+"H. Schneekloths Vej 33, 1. 1",1,Lejlighed,55,1961,0.01,181e4,2000 Frederiksberg,32909,2017-02-27,Alm. Salg
+"Duevej 110, 4. th",2,Lejlighed,62,1917,NA,21e5,2000 Frederiksberg,33870,2017-02-27,Fam. Salg
+"Vagtelvej 73, st. mf",5,Lejlighed,115,1969,NA,1883569,2000 Frederiksberg,16378,2017-02-27,Fam. Salg
+"Mathildevej 18, 1. th",4,Lejlighed,86,1888,NA,3925e3,2000 Frederiksberg,45639,2017-02-26,Alm. Salg
+"Kong Georgs Vej 4, 2. th",3,Lejlighed,82,1898,NA,2185e3,2000 Frederiksberg,26646,2017-02-24,Fam. Salg
+"Rådmand Steins Alle 35, 2. th",3,Lejlighed,82,1970,-0.02,23e5,2000 Frederiksberg,28048,2017-02-24,Alm. Salg
+"Kronprinsesse Sofies Vej 23, 2. th",4,Lejlighed,126,1903,0,4795e3,2000 Frederiksberg,38055,2017-02-24,Alm. Salg
+"Elga Olgas Vej 1, 3. tv",4,Lejlighed,134,2008,-0.02,4875e3,2000 Frederiksberg,36380,2017-02-23,Alm. Salg
+"Wilkensvej 13, st. th",3,Lejlighed,86,1979,0,3295e3,2000 Frederiksberg,38313,2017-02-23,Alm. Salg
+"Vagtelvej 23, 5. tv",4,Lejlighed,107,1969,0,3581e3,2000 Frederiksberg,33467,2017-02-23,Alm. Salg
+"C.F. Richs Vej 83, st. th",2,Lejlighed,62,1936,-0.05,1895e3,2000 Frederiksberg,30564,2017-02-23,Alm. Salg
+"C.F. Richs Vej 90, 2. th",3,Lejlighed,73,1936,NA,119e4,2000 Frederiksberg,16301,2017-02-23,Fam. Salg
+"Finsensvej 47A, 2. 202",1,Lejlighed,60,1961,0,1695e3,2000 Frederiksberg,28250,2017-02-23,Alm. Salg
+"Rolfsvej 9, st. th",2,Lejlighed,54,1890,NA,102e4,2000 Frederiksberg,18888,2017-02-22,Fam. Salg
+"Mathildevej 17, 1",3,Lejlighed,73,1906,0,31e5,2000 Frederiksberg,42465,2017-02-22,Alm. Salg
+"Godthåbsvej 61B, 3. th",3,Lejlighed,88,1898,-0.02,372e4,2000 Frederiksberg,42272,2017-02-22,Alm. Salg
+"Borups Alle 113, 1. k",2,Lejlighed,74,1972,NA,1147500,2000 Frederiksberg,15506,2017-02-21,Fam. Salg
+"Nordre Fasanvej 167, 1. tv",2,Lejlighed,52,1900,-0.02,205e4,2000 Frederiksberg,39423,2017-02-21,Alm. Salg
+"Borups Alle 136, 3. th",3,Lejlighed,94,1932,0,3395e3,2000 Frederiksberg,36117,2017-02-21,Alm. Salg
+"Borups Alle 136, 4. tv",4,Lejlighed,90,1932,-0.05,3425e3,2000 Frederiksberg,38055,2017-02-21,Alm. Salg
+"Falkoner Alle 126, st. th",4,Lejlighed,95,1908,-0.01,3215e3,2000 Frederiksberg,33842,2017-02-21,Alm. Salg
+"Munkensvej 8, 2. th",2,Lejlighed,71,1911,NA,1147500,2000 Frederiksberg,16161,2017-02-20,Fam. Salg
+"Godthåbsvej 39, 4. tv",2,Lejlighed,68,1943,NA,1535e3,2000 Frederiksberg,22573,2017-02-20,Fam. Salg
+"Finsensvej 73, st. tv",3,Lejlighed,79,1926,0.02,2551e3,2000 Frederiksberg,32291,2017-02-20,Alm. Salg
+"C.F. Richs Vej 136, 1. tv",4,Lejlighed,98,1937,-0.04,32e5,2000 Frederiksberg,32653,2017-02-20,Alm. Salg
+"Søndre Fasanvej 87E, 1. 3",3,Lejlighed,87,1991,0,306e4,2000 Frederiksberg,35172,2017-02-20,Alm. Salg
+"Godthåbsvej 39, 3. th",2,Lejlighed,69,1943,-0.03,29e5,2000 Frederiksberg,42028,2017-02-19,Alm. Salg
+"Julius Valentiners Vej 33, 2. th",4,Lejlighed,94,1932,NA,18e5,2000 Frederiksberg,19148,2017-02-19,Fam. Salg
+"Frederik VIs Alle 8, 1. tv",4,Lejlighed,99,1904,0.07,4611e3,2000 Frederiksberg,46575,2017-02-19,Alm. Salg
+"Vagtelvej 57, 5. tv",3,Lejlighed,87,1969,0,3595e3,2000 Frederiksberg,41321,2017-02-19,Alm. Salg
+"Holger Danskes Vej 12, 5. tv",2,Lejlighed,39,1885,-0.06,1685e3,2000 Frederiksberg,43205,2017-02-19,Alm. Salg
+"Ærøvej 7, 2. th",2,Lejlighed,77,1920,NA,1955e3,2000 Frederiksberg,25389,2017-02-19,Fam. Salg
+"Frøbels Alle 5, 2. tv",2,Lejlighed,64,1937,0,2395e3,2000 Frederiksberg,37421,2017-02-17,Alm. Salg
+"Aksel Møllers Have 12, 3. th",2,Lejlighed,65,1944,-0.01,2625e3,2000 Frederiksberg,40384,2017-02-17,Alm. Salg
+"Ved Andebakken 1, 1. tv",3,Lejlighed,88,1941,-0.03,3725e3,2000 Frederiksberg,42329,2017-02-17,Alm. Salg
+"Frederiksvej 48, 3. tv",3,Lejlighed,57,1909,0,2995e3,2000 Frederiksberg,52543,2017-02-17,Alm. Salg
+"Godthåbsvej 119, 2. tv",3,Lejlighed,81,1932,-0.05,295e4,2000 Frederiksberg,36419,2017-02-16,Alm. Salg
+"Rådmand Steins Alle 33, 6. 62",2,Lejlighed,71,1970,-0.07,205e4,2000 Frederiksberg,28873,2017-02-16,Alm. Salg
+"Finsensvej 34, 1. 4",2,Lejlighed,69,1972,-0.02,195e4,2000 Frederiksberg,28260,2017-02-16,Alm. Salg
+"Mariendalsvej 67, 1. tv",3,Lejlighed,78,1932,-0.04,3165e3,2000 Frederiksberg,40576,2017-02-16,Alm. Salg
+"Finsensvej 47B, 4. 409",1,Lejlighed,60,1961,-0.03,1825e3,2000 Frederiksberg,30416,2017-02-15,Alm. Salg
+"Roskildevej 100, 3. mf",3,Lejlighed,92,1956,-0.03,2625e3,2000 Frederiksberg,28532,2017-02-15,Alm. Salg
+"Johannes V. Jensens Alle 42, 3. th",4,Lejlighed,180,1971,-0.02,585e4,2000 Frederiksberg,32500,2017-02-15,Alm. Salg
+"Elga Olgas Vej 1, 1. tv",4,Lejlighed,134,2008,0,4575e3,2000 Frederiksberg,34141,2017-02-14,Alm. Salg
+"Bentzonsvej 41, 2. tv",4,Lejlighed,78,1900,NA,2575e3,2000 Frederiksberg,33012,2017-02-14,Andet
+"Steen Blichers Vej 2, 4. th",5,Lejlighed,130,1889,-0.01,6145e3,2000 Frederiksberg,47269,2017-02-14,Alm. Salg
+"Betty Nansens Alle 43, 4. th",4,Lejlighed,118,1976,-0.03,46e5,2000 Frederiksberg,38983,2017-02-14,Alm. Salg
+"Finsensvej 36D, 3. tv",3,Lejlighed,87,1979,-0.03,281e4,2000 Frederiksberg,32298,2017-02-14,Alm. Salg
+"Sprogøvej 9, st. tv",3,Lejlighed,84,1982,0.03,3605e3,2000 Frederiksberg,42916,2017-02-14,Alm. Salg
+"Roskildevej 98, 6. mf",2,Lejlighed,53,1953,-0.04,1925e3,2000 Frederiksberg,36320,2017-02-13,Alm. Salg
+"C.F. Richs Vej 87, 3. th",3,Lejlighed,122,1936,NA,47e5,2000 Frederiksberg,38524,2017-02-13,Alm. Salg
+"Nordre Fasanvej 155B, 5",2,Lejlighed,87,1904,0.01,3846251,2000 Frederiksberg,44209,2017-02-13,Alm. Salg
+"Rådmand Steins Alle 33, 6. 61",2,Lejlighed,74,1970,-0.05,2085e3,2000 Frederiksberg,28175,2017-02-12,Alm. Salg
+"Guldborgvej 37, 3. tv",3,Lejlighed,86,1902,NA,345e4,2000 Frederiksberg,40116,2017-02-10,Fam. Salg
+Porcelænshaven 10F,2,Lejlighed,66,1919,0,3895e3,2000 Frederiksberg,59015,2017-02-10,Alm. Salg
+"Rådmand Steins Alle 9, 4. tv",4,Lejlighed,100,1953,0,29e5,2000 Frederiksberg,29e3,2017-02-09,Alm. Salg
+"Nordre Fasanvej 39B, 4. tv",4,Lejlighed,102,1932,0.02,46e5,2000 Frederiksberg,45098,2017-02-09,Alm. Salg
+"Søndre Fasanvej 87D, 1. 3",3,Lejlighed,87,1991,-0.02,3085e3,2000 Frederiksberg,35459,2017-02-09,Alm. Salg
+"C.F. Richs Vej 124, st",3,Lejlighed,82,1937,-0.06,29e5,2000 Frederiksberg,35365,2017-02-09,Alm. Salg
+"Dronning Olgas Vej 18A, st",4,Lejlighed,132,1895,0,7495e3,2000 Frederiksberg,56780,2017-02-09,Alm. Salg
+"Frederiksvej 36, st. tv",2,Lejlighed,57,1904,-0.03,2225e3,2000 Frederiksberg,39035,2017-02-08,Alm. Salg
+"C.F. Richs Vej 106, st. tv",2,Lejlighed,64,1936,0,1995e3,2000 Frederiksberg,31171,2017-02-08,Alm. Salg
+"Ved Andebakken 4, 1. th",2,Lejlighed,59,1941,NA,155e4,2000 Frederiksberg,26271,2017-02-08,Fam. Salg
+Pileskellet 12,5,Lejlighed,157,1979,-0.03,505e4,2000 Frederiksberg,32165,2017-02-07,Alm. Salg
+"Roskildevej 94, 2. tv",3,Lejlighed,85,1953,0,2695e3,2000 Frederiksberg,31705,2017-02-07,Alm. Salg
+"Rolfsvej 11, st. th",2,Lejlighed,54,1890,-0.01,2675e3,2000 Frederiksberg,49537,2017-02-07,Alm. Salg
+"Nordre Fasanvej 155B, 1. th",2,Lejlighed,53,1904,NA,13e5,2000 Frederiksberg,24528,2017-02-07,Alm. Salg
+"Sprogøvej 7, st. tv",2,Lejlighed,85,1982,-0.01,3425e3,2000 Frederiksberg,40294,2017-02-07,Alm. Salg
+"Dirch Passers Allé 21, 3. tv",3,Lejlighed,110,2008,-0.02,44e5,2000 Frederiksberg,4e4,2017-02-07,Alm. Salg
+"Ane Katrines Vej 2, 2. th",2,Lejlighed,65,1932,NA,18e5,2000 Frederiksberg,27692,2017-02-06,Alm. Salg
+"Nyelandsvej 73, 2. 2",2,Lejlighed,77,1957,-0.05,27e5,2000 Frederiksberg,35064,2017-02-06,Alm. Salg
+"Duevej 50, 4. tv",3,Lejlighed,70,1932,-0.06,2825e3,2000 Frederiksberg,40357,2017-02-06,Alm. Salg
+"H. Schneekloths Vej 33, 1. 4",1,Lejlighed,55,1961,0,175e4,2000 Frederiksberg,31818,2017-02-06,Alm. Salg
+"Lindevangs Alle 13, 3. 2",3,Lejlighed,63,2004,-0.07,223e4,2000 Frederiksberg,35396,2017-02-05,Alm. Salg
+"Rådmand Steins Alle 7, 3. th",3,Lejlighed,82,1953,-0.01,2365e3,2000 Frederiksberg,28841,2017-02-03,Alm. Salg
+"Godthåbsvænget 15, st. tv",2,Lejlighed,79,1972,-0.06,2335e3,2000 Frederiksberg,29556,2017-02-03,Alm. Salg
+"C.F. Richs Vej 152, 2. th",2,Lejlighed,46,1935,-0.06,155e4,2000 Frederiksberg,33695,2017-02-03,Alm. Salg
+"Grøndalsvej 8, st. tv",3,Lejlighed,60,1934,NA,1795e3,2000 Frederiksberg,29916,2017-02-03,Alm. Salg
+"Ewaldsensvej 10, 1. tv",2,Lejlighed,64,1937,NA,1469018,2000 Frederiksberg,22953,2017-02-03,Fam. Salg
+"Aksel Møllers Have 4, 1. th",3,Lejlighed,79,1943,-0.03,32e5,2000 Frederiksberg,40506,2017-02-02,Alm. Salg
+"Nordre Fasanvej 64, 4. 41",2,Lejlighed,61,1974,-0.04,23e5,2000 Frederiksberg,37704,2017-02-02,Alm. Salg
+"Godthåbsvænget 9, 5. tv",3,Lejlighed,98,1972,0,3995e3,2000 Frederiksberg,40765,2017-02-01,Alm. Salg
+"Bernhard Bangs Alle 15B, 1. tv",3,Lejlighed,91,1973,-0.1,2775e3,2000 Frederiksberg,30494,2017-02-01,Alm. Salg
+"H. Schneekloths Vej 33, 4. 1",1,Lejlighed,55,1961,NA,1265e3,2000 Frederiksberg,23e3,2017-02-01,Fam. Salg
+"Borups Alle 138, 1. tv",4,Lejlighed,119,1932,NA,36e5,2000 Frederiksberg,30252,2017-01-31,Fam. Salg
+"Mathildevej 18, 2. th",4,Lejlighed,86,1888,0,4198e3,2000 Frederiksberg,48813,2017-01-31,Alm. Salg
+"Dronning Olgas Vej 28, st",5,Lejlighed,149,1899,-0.01,77e5,2000 Frederiksberg,51677,2017-01-30,Alm. Salg
+"Vagtelvej 57, 3. th",3,Lejlighed,84,1969,NA,93e4,2000 Frederiksberg,11071,2017-01-30,Fam. Salg
+"Blytsvej 5, 2. th",5,Lejlighed,99,1902,-0.01,47e5,2000 Frederiksberg,47474,2017-01-30,Alm. Salg
+"Borups Alle 126C, 2. tv",3,Lejlighed,88,1991,0,2995e3,2000 Frederiksberg,34034,2017-01-30,Alm. Salg
+"Roskildevej 100, 1. mf",3,Lejlighed,92,1956,-0.02,25e5,2000 Frederiksberg,27173,2017-01-29,Alm. Salg
+"Frederik VIs Alle 14, 1. tv",4,Lejlighed,90,1905,-0.06,495e4,2000 Frederiksberg,55e3,2017-01-29,Alm. Salg
+Ahornskellet 12,5,Lejlighed,134,1978,-0.03,375e4,2000 Frederiksberg,27985,2017-01-27,Alm. Salg
+"Bispeengen 19, 3. th",3,Lejlighed,76,1913,NA,1665e3,2000 Frederiksberg,21907,2017-01-27,Fam. Salg
+"Falkoner Alle 126, 3. tv",4,Lejlighed,97,1908,0,3445e3,2000 Frederiksberg,35515,2017-01-27,Alm. Salg
+"Munkensvej 1, 3. tv",2,Lejlighed,65,1913,0.01,2425e3,2000 Frederiksberg,37307,2017-01-27,Alm. Salg
+"Jyllandsvej 10, 1. mf",3,Lejlighed,85,1939,-0.09,31e5,2000 Frederiksberg,36470,2017-01-27,Alm. Salg
+"Aksel Møllers Have 10, 4. th",2,Lejlighed,65,1944,NA,2695e3,2000 Frederiksberg,41461,2017-01-27,Alm. Salg
+"Bentzonsvej 50A, 2. th",3,Lejlighed,72,1898,-0.01,345e4,2000 Frederiksberg,47916,2017-01-26,Alm. Salg
+"Aksel Møllers Have 8, 5. tv",2,Lejlighed,62,1944,NA,2695e3,2000 Frederiksberg,43467,2017-01-26,Alm. Salg
+"Bispeengen 5, 3. th",3,Lejlighed,68,1914,0,271e4,2000 Frederiksberg,39852,2017-01-26,Alm. Salg
+"Dronning Olgas Vej 18A, 2",3,Lejlighed,115,1895,NA,6995e3,2000 Frederiksberg,60826,2017-01-26,Alm. Salg
+"Roskildevej 53, 3. 305",2,Lejlighed,65,1972,NA,13e5,2000 Frederiksberg,2e4,2017-01-25,Fam. Salg
+"Finsensvej 79, 2. th",3,Lejlighed,80,1926,0,2795e3,2000 Frederiksberg,34937,2017-01-25,Alm. Salg
+"Mathildevej 15, st. th",2,Lejlighed,105,1906,NA,902361,2000 Frederiksberg,8593,2017-01-25,Fam. Salg
+"Yrsavej 11, st. tv",2,Lejlighed,53,1885,0,2495e3,2000 Frederiksberg,47075,2017-01-25,Alm. Salg
+"Ved Andebakken 10, 4. mf",3,Lejlighed,88,1941,-0.03,3535e3,2000 Frederiksberg,40170,2017-01-25,Alm. Salg
+"Thurøvej 7, 4. tv",3,Lejlighed,76,1913,0,2995e3,2000 Frederiksberg,39407,2017-01-25,Alm. Salg
+"Aksel Møllers Have 12, 1. th",2,Lejlighed,65,1944,0,255e4,2000 Frederiksberg,39230,2017-01-25,Alm. Salg
+"Elga Olgas Vej 1, st. tv",3,Lejlighed,115,2008,-0.04,371e4,2000 Frederiksberg,32260,2017-01-24,Alm. Salg
+"Søndre Fasanvej 87E, st. 1",3,Lejlighed,86,1991,-0.03,265e4,2000 Frederiksberg,30813,2017-01-24,Alm. Salg
+"Lyøvej 5, 1. th",3,Lejlighed,81,1932,-0.02,3725e3,2000 Frederiksberg,45987,2017-01-23,Alm. Salg
+"Folkvarsvej 7, 2. th",3,Lejlighed,63,1888,-0.05,238e4,2000 Frederiksberg,37777,2017-01-23,Alm. Salg
+"Finsensvej 13A, 3. th",2,Lejlighed,83,1969,NA,3112500,2000 Frederiksberg,37500,2017-01-23,Andet
+"Rådmand Steins Alle 13, 5. th",4,Lejlighed,107,1956,0,3095e3,2000 Frederiksberg,28925,2017-01-23,Alm. Salg
+"Falkoner Alle 126, 2. tv",4,Lejlighed,97,1908,-0.05,37e5,2000 Frederiksberg,38144,2017-01-23,Alm. Salg
+"Nordre Fasanvej 39A, 1. tv",3,Lejlighed,87,1932,0,366e4,2000 Frederiksberg,42068,2017-01-23,Alm. Salg
+"Kronprinsesse Sofies Vej 20, 3. 2",2,Lejlighed,62,1969,0.01,2525100,2000 Frederiksberg,40727,2017-01-23,Alm. Salg
+C.F. Richs Vej 124A,4,Lejlighed,113,1937,NA,38e5,2000 Frederiksberg,33628,2017-01-23,Alm. Salg
+"Dirch Passers Allé 15, 2. tv",3,Lejlighed,99,2008,-0.01,3975e3,2000 Frederiksberg,40151,2017-01-20,Alm. Salg
+"Nyelandsvej 4, 2. th",4,Lejlighed,95,1890,NA,3575e3,2000 Frederiksberg,37631,2017-01-20,Fam. Salg
+"H.V. Nyholms Vej 13, 2. tv",2,Lejlighed,65,1929,0.01,2425e3,2000 Frederiksberg,37307,2017-01-19,Alm. Salg
+"Nyelandsvej 33, 3. tv",5,Lejlighed,151,1904,-0.02,54e5,2000 Frederiksberg,35761,2017-01-19,Alm. Salg
+"Allegade 23B, 1. tv",2,Lejlighed,48,1890,-0.04,23e5,2000 Frederiksberg,47916,2017-01-19,Alm. Salg
+"Holger Danskes Vej 45, 1. 16",2,Lejlighed,77,1967,-0.04,24e5,2000 Frederiksberg,31168,2017-01-18,Alm. Salg
+"Holger Danskes Vej 45, 6. 65",3,Lejlighed,102,1967,-0.03,505e4,2000 Frederiksberg,49509,2017-01-18,Alm. Salg
+"Mariendalsvej 65, st. tv",3,Lejlighed,82,1932,-0.03,29e5,2000 Frederiksberg,35365,2017-01-18,Alm. Salg
+"Ane Katrines Vej 24, 2. th",3,Lejlighed,69,1932,0,265e4,2000 Frederiksberg,38405,2017-01-18,Alm. Salg
+"Nordre Fasanvej 114, 2. tv",2,Lejlighed,49,1897,-0.02,185e4,2000 Frederiksberg,37755,2017-01-18,Alm. Salg
+"Mariendalsvej 74, 1. tv",4,Lejlighed,102,1930,-0.01,445e4,2000 Frederiksberg,43627,2017-01-18,Alm. Salg
+"Aksel Møllers Have 16, 8. tv",3,Lejlighed,78,1944,0.02,4055e3,2000 Frederiksberg,51987,2017-01-17,Alm. Salg
+"Kronprinsesse Sofies Vej 20, 2. 4",2,Lejlighed,60,1969,-0.03,24e5,2000 Frederiksberg,4e4,2017-01-16,Alm. Salg
+"Aksel Møllers Have 6, 1. tv",2,Lejlighed,71,1944,-0.02,2815e3,2000 Frederiksberg,39647,2017-01-16,Alm. Salg
+Poppelskellet 10,5,Lejlighed,159,1979,-0.02,49e5,2000 Frederiksberg,30817,2017-01-16,Alm. Salg
+"Munkensvej 6, st. th",2,Lejlighed,66,1908,-0.02,244e4,2000 Frederiksberg,36969,2017-01-15,Alm. Salg
+"Elga Olgas Vej 3, st. th",3,Lejlighed,103,2008,-0.02,3725e3,2000 Frederiksberg,36165,2017-01-13,Alm. Salg
+"Vagtelvej 51, 1. th",4,Lejlighed,107,1969,-0.01,337e4,2000 Frederiksberg,31495,2017-01-13,Alm. Salg
+"Finsensvej 36C, 3. tv",3,Lejlighed,86,1979,-0.06,3e6,2000 Frederiksberg,34883,2017-01-13,Alm. Salg
+"C.F. Richs Vej 114, st. th",3,Lejlighed,65,1937,NA,2e6,2000 Frederiksberg,30769,2017-01-13,Alm. Salg
+A.D. Jørgensens Vej 57,3,Lejlighed,86,1991,NA,2866e3,2000 Frederiksberg,33325,2017-01-12,Fam. Salg
+"Betty Nansens Alle 41, 1. th",5,Lejlighed,158,1976,-0.05,4751e3,2000 Frederiksberg,30069,2017-01-12,Alm. Salg
+"Rådmand Steins Alle 21, st. th",4,Lejlighed,97,1953,0,2695e3,2000 Frederiksberg,27783,2017-01-12,Alm. Salg
+"Finsensvej 5A, 6. mf",2,Lejlighed,66,1969,NA,17e5,2000 Frederiksberg,25757,2017-01-11,Fam. Salg
+"Bentzonsvej 37, 3. th",3,Lejlighed,70,1902,0,3495e3,2000 Frederiksberg,49928,2017-01-11,Alm. Salg
+"Howitzvej 41, st",2,Lejlighed,65,1941,NA,1575e3,2000 Frederiksberg,24230,2017-01-11,Fam. Salg
+"Dronning Olgas Vej 22, 2",4,Lejlighed,105,1896,0,4195e3,2000 Frederiksberg,39952,2017-01-10,Alm. Salg
+"Frederiksvej 40, 1. th",2,Lejlighed,58,1904,-0.02,2445e3,2000 Frederiksberg,42155,2017-01-10,Alm. Salg
+"Borups Alle 150A, 3. tv",4,Lejlighed,126,1918,-0.04,4555e3,2000 Frederiksberg,36150,2017-01-10,Alm. Salg
+"Nordre Fasanvej 158, 4. tv",2,Lejlighed,85,1913,NA,29e5,2000 Frederiksberg,34117,2017-01-10,Alm. Salg
+"Johannes V. Jensens Alle 50, 3. th",6,Lejlighed,175,1971,NA,6545e3,2000 Frederiksberg,37400,2017-01-09,Alm. Salg
+"Wilkensvej 9, 3. mf",1,Lejlighed,35,1972,-0.02,127e4,2000 Frederiksberg,36285,2017-01-09,Alm. Salg
+"Folkvarsvej 31, 1. tv",2,Lejlighed,53,1887,NA,25e5,2000 Frederiksberg,47169,2017-01-09,Alm. Salg
+"Godthåbsvej 131, st. th",4,Lejlighed,88,1934,-0.03,29e5,2000 Frederiksberg,32954,2017-01-09,Alm. Salg
+"Falstersvej 10, st. tv",3,Lejlighed,67,1902,-0.05,2525e3,2000 Frederiksberg,37686,2017-01-08,Alm. Salg
+"Lyøvej 5, 4. tv",2,Lejlighed,62,1932,NA,104e4,2000 Frederiksberg,16774,2017-01-06,Fam. Salg
+"Folkvarsvej 30, 3. th",2,Lejlighed,45,1887,-0.03,223e4,2000 Frederiksberg,49555,2017-01-06,Alm. Salg
+"Wilkensvej 11, 3. th",3,Lejlighed,86,1979,0,35e5,2000 Frederiksberg,40697,2017-01-06,Alm. Salg
+"Aksel Møllers Have 28, 6. tv",3,Lejlighed,71,1946,-0.03,35e5,2000 Frederiksberg,49295,2017-01-05,Alm. Salg
+"C.F. Richs Vej 94, 2. th",4,Lejlighed,105,1936,-0.01,365e4,2000 Frederiksberg,34761,2017-01-05,Alm. Salg
+"Søndre Fasanvej 87A, 1. 3",3,Lejlighed,87,1991,-0.02,3075e3,2000 Frederiksberg,35344,2017-01-03,Alm. Salg
+"Frederiksvej 38, 3. tv",2,Lejlighed,57,1904,0,265e4,2000 Frederiksberg,46491,2017-01-02,Alm. Salg
+"Aksel Møllers Have 6, 4. th",4,Lejlighed,96,1944,0.04,4575e3,2000 Frederiksberg,47656,2017-01-02,Alm. Salg
+"Smallegade 42, 4. th",6,Lejlighed,173,1902,-0.03,705e4,2000 Frederiksberg,40751,2017-01-02,Alm. Salg
+"Vagtelvej 69, st. tv",3,Lejlighed,73,1969,-0.03,214e4,2000 Frederiksberg,29315,2017-01-02,Alm. Salg
+"Helgesvej 27, st. tv",3,Lejlighed,95,1893,-0.01,3945e3,2000 Frederiksberg,41526,2017-01-02,Alm. Salg
+"Lyøvej 18, 4. mf",3,Lejlighed,90,1979,0,4495e3,2000 Frederiksberg,49944,2016-12-31,Alm. Salg
+"Fuglebakkevej 92, 1. 1",3,Lejlighed,78,1970,0,2195e3,2000 Frederiksberg,28141,2016-12-31,Alm. Salg
+"Nordre Fasanvej 33C, st. th",2,Lejlighed,63,1930,NA,16e5,2000 Frederiksberg,25396,2016-12-30,Fam. Salg
+"Steen Blichers Vej 1, 4. th",4,Lejlighed,165,1891,-0.02,566e4,2000 Frederiksberg,34303,2016-12-29,Alm. Salg
+"Søndre Fasanvej 87C, st. 1",3,Lejlighed,86,1991,-0.02,29e5,2000 Frederiksberg,33720,2016-12-28,Alm. Salg
+"Normasvej 33, st. th",4,Lejlighed,93,1936,-0.05,295e4,2000 Frederiksberg,31720,2016-12-28,Alm. Salg
+"Borgmester Fischers Vej 5B, 4. 2",3,Lejlighed,83,2001,NA,1837e3,2000 Frederiksberg,22132,2016-12-28,Fam. Salg
+"Aksel Møllers Have 14, 1. th",3,Lejlighed,76,1944,0.12,3795e3,2000 Frederiksberg,49934,2016-12-27,Alm. Salg
+"Roskildevej 55, 2. 211",2,Lejlighed,67,1972,NA,145e4,2000 Frederiksberg,21641,2016-12-27,Fam. Salg
+"Sprogøvej 29, st. tv",3,Lejlighed,86,1980,-0.02,351e4,2000 Frederiksberg,40813,2016-12-27,Alm. Salg
+"Frederiksvej 20, 3. tv",3,Lejlighed,74,1906,-0.01,305e4,2000 Frederiksberg,41216,2016-12-27,Alm. Salg
+"Duevej 48, 1. th",3,Lejlighed,76,1932,NA,1402500,2000 Frederiksberg,18453,2016-12-24,Fam. Salg
+"Duevej 54, 1. th",3,Lejlighed,70,1932,-0.01,296e4,2000 Frederiksberg,42285,2016-12-24,Alm. Salg
+"Sprogøvej 7, 1. th",3,Lejlighed,92,1982,NA,1827500,2000 Frederiksberg,19864,2016-12-23,Fam. Salg
+"C.F. Richs Vej 118, 2. tv",3,Lejlighed,65,1937,-0.05,219e4,2000 Frederiksberg,33692,2016-12-22,Alm. Salg
+"Ved Andebakken 9, 1. tv",2,Lejlighed,57,1941,NA,1661300,2000 Frederiksberg,29145,2016-12-22,Fam. Salg
+"Nordre Fasanvej 167, 1. tv",2,Lejlighed,52,1900,NA,1075e3,2000 Frederiksberg,20673,2016-12-22,Fam. Salg
+"Nordre Fasanvej 14D, st. tv",2,Lejlighed,57,1903,NA,1062500,2000 Frederiksberg,18640,2016-12-22,Fam. Salg
+"Langelandsvej 49B, 1. th",2,Lejlighed,68,1897,NA,1402500,2000 Frederiksberg,20625,2016-12-22,Fam. Salg
+"Aksel Møllers Have 6, 9. tv",3,Lejlighed,100,1944,0,55e5,2000 Frederiksberg,55e3,2016-12-22,Alm. Salg
+"Borgmester Fischers Vej 5D, 4. 1",3,Lejlighed,93,2001,0,3495e3,2000 Frederiksberg,37580,2016-12-21,Alm. Salg
+"Guldborgvej 30, 1. tv",2,Lejlighed,58,1956,NA,15e5,2000 Frederiksberg,25862,2016-12-21,Fam. Salg
+"Roskildevej 53, 4. 401",3,Lejlighed,79,1972,NA,1317500,2000 Frederiksberg,16677,2016-12-21,Fam. Salg
+"Finsensvej 13A, 4. mf",2,Lejlighed,66,1969,-0.01,2715e3,2000 Frederiksberg,41136,2016-12-21,Alm. Salg
+"Borups Alle 114, 4. tv",3,Lejlighed,75,1913,0.03,2725e3,2000 Frederiksberg,36333,2016-12-21,Alm. Salg
+"Nordre Fasanvej 64, 5. 53",2,Lejlighed,61,1974,-0.03,242e4,2000 Frederiksberg,39672,2016-12-21,Alm. Salg
+"Grøndalsvej 8, 3. tv",4,Lejlighed,107,1934,NA,195e4,2000 Frederiksberg,18224,2016-12-21,Andet
+"Dirch Passers Allé 13, 1. th",3,Lejlighed,95,2008,-0.01,374e4,2000 Frederiksberg,39368,2016-12-20,Alm. Salg
+"Betty Nansens Alle 29, 3. tv",4,Lejlighed,134,1976,-0.03,565e4,2000 Frederiksberg,42164,2016-12-20,Alm. Salg
+"Godthåbsvej 61B, 3. tv",3,Lejlighed,70,1898,NA,3197e3,2000 Frederiksberg,45671,2016-12-20,Alm. Salg
+"Rolfsvej 27, 1. tv",3,Lejlighed,71,1891,NA,1408247,2000 Frederiksberg,19834,2016-12-19,Alm. Salg
+"Lyøvej 16, 4. mf",3,Lejlighed,90,1979,0,4395e3,2000 Frederiksberg,48833,2016-12-18,Alm. Salg
+"Solvej 4, 4. th",4,Lejlighed,96,1904,0,4225e3,2000 Frederiksberg,44010,2016-12-18,Alm. Salg
+"Roskildevej 55, 1. 117",2,Lejlighed,67,1972,-0.07,185e4,2000 Frederiksberg,27611,2016-12-16,Alm. Salg
+"Godthåbsvænget 5, 2. tv",4,Lejlighed,112,1981,0,4495e3,2000 Frederiksberg,40133,2016-12-16,Alm. Salg
+"Guldborgvej 25, 3. th",4,Lejlighed,101,1932,-0.03,35e5,2000 Frederiksberg,34653,2016-12-16,Alm. Salg
+"Nordre Fasanvej 165, 4. tv",2,Lejlighed,59,1900,-0.05,2175e3,2000 Frederiksberg,36864,2016-12-15,Alm. Salg
+"Mathildevej 2, st. tv",2,Lejlighed,77,1883,NA,18e5,2000 Frederiksberg,23376,2016-12-15,Fam. Salg
+"Frøbels Alle 3, 2. th",2,Lejlighed,64,1937,NA,18e5,2000 Frederiksberg,28125,2016-12-15,Alm. Salg
+"H. Schneekloths Vej 11, 5. tv",2,Lejlighed,62,1933,NA,1675e3,2000 Frederiksberg,27016,2016-12-14,Fam. Salg
+"Bernhard Bangs Alle 51A, st. tv",3,Lejlighed,91,1981,-0.02,3315e3,2000 Frederiksberg,36428,2016-12-14,Alm. Salg
+"Wilkensvej 13, 3. tv",3,Lejlighed,86,1979,-0.01,325e4,2000 Frederiksberg,37790,2016-12-14,Alm. Salg
+"C.F. Richs Vej 146, st. th",4,Lejlighed,81,1937,0,249e4,2000 Frederiksberg,30740,2016-12-14,Alm. Salg
+"Nordre Fasanvej 165, 1. th",2,Lejlighed,62,1900,0,2195e3,2000 Frederiksberg,35403,2016-12-14,Alm. Salg
+"Lollandsvej 36, 1. tv",3,Lejlighed,74,1901,-0.02,3125e3,2000 Frederiksberg,42229,2016-12-13,Alm. Salg
+"Howitzvej 59, 2. th",3,Lejlighed,85,1904,-0.03,36e5,2000 Frederiksberg,42352,2016-12-13,Alm. Salg
+"Roskildevej 55, st. 18",3,Lejlighed,86,1972,NA,2e6,2000 Frederiksberg,23255,2016-12-13,Andet
+"A.D. Jørgensens Vej 77, 2. tv",3,Lejlighed,92,1991,NA,195e4,2000 Frederiksberg,21195,2016-12-13,Fam. Salg
+"Guldborgvej 25, 2. th",4,Lejlighed,101,1932,0,3595e3,2000 Frederiksberg,35594,2016-12-13,Alm. Salg
+"Vagtelvej 63, 2. mf",5,Lejlighed,116,1969,NA,1786250,2000 Frederiksberg,15398,2016-12-13,Fam. Salg
+"Nimbusparken 11, st. th",4,Lejlighed,100,1955,-0.01,455e4,2000 Frederiksberg,45500,2016-12-12,Alm. Salg
+"C.F. Richs Vej 2, 4",4,Lejlighed,97,1932,0.03,48e5,2000 Frederiksberg,49484,2016-12-12,Alm. Salg
+"Godthåbsvej 114, 1. tv",4,Lejlighed,107,1929,-0.03,36e5,2000 Frederiksberg,33644,2016-12-12,Alm. Salg
+"Pile Alle 5H, 1. th",3,Lejlighed,93,1975,0,4695e3,2000 Frederiksberg,50483,2016-12-12,Alm. Salg
+"H. Schneekloths Vej 3, 2. th",3,Lejlighed,75,1933,-0.1,27e5,2000 Frederiksberg,36e3,2016-12-12,Alm. Salg
+"C.F. Richs Vej 110, 1. tv",3,Lejlighed,65,1937,-0.02,22e5,2000 Frederiksberg,33846,2016-12-12,Alm. Salg
+"Sprogøvej 25, 3. th",3,Lejlighed,96,1980,-0.02,4e6,2000 Frederiksberg,41666,2016-12-11,Alm. Salg
+"C.F. Richs Vej 85, 3. th",2,Lejlighed,73,1936,NA,1245e3,2000 Frederiksberg,17054,2016-12-11,Fam. Salg
+"Holger Danskes Vej 19, 3. th",2,Lejlighed,55,1887,NA,1201e3,2000 Frederiksberg,21836,2016-12-11,Fam. Salg
+"Kilevej 6, 1. mf",3,Lejlighed,103,2009,-0.03,496e4,2000 Frederiksberg,48155,2016-12-11,Alm. Salg
+"A.D. Jørgensens Vej 67, 3",2,Lejlighed,69,1991,0,2495e3,2000 Frederiksberg,36159,2016-12-10,Alm. Salg
+"Holger Danskes Vej 24, 2. tv",2,Lejlighed,51,1891,NA,105e4,2000 Frederiksberg,20588,2016-12-09,Alm. Salg
+"Nordre Fasanvej 162, 3. th",4,Lejlighed,90,1913,-0.06,318e4,2000 Frederiksberg,35333,2016-12-09,Alm. Salg
+"Rolfsvej 37, 2. tv",4,Lejlighed,110,1916,0,525e4,2000 Frederiksberg,47727,2016-12-09,Alm. Salg
+"Duevej 58, st. th",4,Lejlighed,92,1932,0,3305e3,2000 Frederiksberg,35923,2016-12-09,Alm. Salg
+"Helgesvej 13, 1. th",3,Lejlighed,63,1889,0,28e5,2000 Frederiksberg,44444,2016-12-08,Alm. Salg
+"Godthåbsvej 131, 2. th",4,Lejlighed,87,1934,-0.01,31e5,2000 Frederiksberg,35632,2016-12-08,Alm. Salg
+"Ved Andebakken 9, 2. tv",2,Lejlighed,57,1941,NA,1818e3,2000 Frederiksberg,31894,2016-12-07,Fam. Salg
+"Yrsavej 9, 3. th",2,Lejlighed,67,1885,-0.1,27e5,2000 Frederiksberg,40298,2016-12-06,Alm. Salg
+"Søndre Fasanvej 58, 1",3,Lejlighed,101,1934,-0.02,3525e3,2000 Frederiksberg,34900,2016-12-06,Alm. Salg
+"Søndre Fasanvej 87C, 1. 1",2,Lejlighed,59,1991,0,1995e3,2000 Frederiksberg,33813,2016-12-06,Alm. Salg
+"Langelandsvej 6, 1. tv",3,Lejlighed,97,1895,-0.03,43e5,2000 Frederiksberg,44329,2016-12-05,Alm. Salg
+"Munkensvej 11, st. th",1,Lejlighed,58,1913,NA,102e4,2000 Frederiksberg,17586,2016-12-05,Fam. Salg
+"Aksel Møllers Have 30, 4. th",2,Lejlighed,57,1946,NA,135e4,2000 Frederiksberg,23684,2016-12-05,Fam. Salg
+"A.D. Jørgensens Vej 77, 2. th",3,Lejlighed,88,1991,NA,1903124,2000 Frederiksberg,21626,2016-12-05,Fam. Salg
+"Aksel Møllers Have 10, 3. th",2,Lejlighed,65,1944,NA,1232500,2000 Frederiksberg,18961,2016-12-05,Fam. Salg
+"Rådmand Steins Alle 1, 3. th",3,Lejlighed,82,1953,-0.01,232e4,2000 Frederiksberg,28292,2016-12-05,Alm. Salg
+"Aksel Møllers Have 30, 2. th",2,Lejlighed,58,1946,NA,155e4,2000 Frederiksberg,26724,2016-12-04,Fam. Salg
+"Ved Andebakken 6, st. th",2,Lejlighed,59,1941,-0.03,2475e3,2000 Frederiksberg,41949,2016-12-02,Alm. Salg
+"Mariendalsvej 6, 1",2,Lejlighed,85,1937,0,3195e3,2000 Frederiksberg,37588,2016-12-02,Alm. Salg
+"Frederik VIs Alle 2, 1. tv",6,Lejlighed,152,1905,-0.02,71e5,2000 Frederiksberg,46710,2016-12-01,Alm. Salg
+"Langelandsvej 13, 2. tv",3,Lejlighed,67,1899,0,3345e3,2000 Frederiksberg,49925,2016-12-01,Alm. Salg
+"Duevej 52, 1. th",3,Lejlighed,76,1932,NA,31e5,2000 Frederiksberg,40789,2016-12-01,Alm. Salg
+"Bentzonsvej 52, 1. th",3,Lejlighed,66,1898,-0.02,295e4,2000 Frederiksberg,44696,2016-11-30,Alm. Salg
+"Lyøvej 14, 3. th",3,Lejlighed,96,1979,0.02,4365e3,2000 Frederiksberg,45468,2016-11-30,Alm. Salg
+"Bispeengen 13, 4. th",3,Lejlighed,68,1911,0,2495e3,2000 Frederiksberg,36691,2016-11-30,Alm. Salg
+"Nordre Fasanvej 167, 4. th",2,Lejlighed,49,1900,NA,13e5,2000 Frederiksberg,26530,2016-11-29,Fam. Salg
+"Stockflethsvej 5, 2",7,Lejlighed,222,1938,-0.05,825e4,2000 Frederiksberg,37162,2016-11-29,Alm. Salg
+"Aksel Møllers Have 14, 2. th",3,Lejlighed,76,1944,0,3182236,2000 Frederiksberg,41871,2016-11-28,Alm. Salg
+"Holger Danskes Vej 45, 3. 31",2,Lejlighed,70,1967,-0.03,2525e3,2000 Frederiksberg,36071,2016-11-28,Alm. Salg
+"Ane Katrines Vej 8, 3. th",2,Lejlighed,61,1932,-0.02,1955e3,2000 Frederiksberg,32049,2016-11-28,Alm. Salg
+"Frederiksvej 36, st. tv",2,Lejlighed,57,1904,NA,1224e3,2000 Frederiksberg,21473,2016-11-28,Fam. Salg
+"Godthåbsvej 121, 4. tv",4,Lejlighed,94,1932,-0.02,366e4,2000 Frederiksberg,38936,2016-11-28,Alm. Salg
+"Godthåbsvej 129, 1. th",3,Lejlighed,75,1932,-0.03,2525e3,2000 Frederiksberg,33666,2016-11-28,Alm. Salg
+"Nimbusparken 11, 4. tv",4,Lejlighed,122,1955,NA,685e4,2000 Frederiksberg,56147,2016-11-27,Alm. Salg
+"Mariendalsvej 67, 2. th",4,Lejlighed,94,1932,-0.04,3915e3,2000 Frederiksberg,41648,2016-11-25,Alm. Salg
+"Roskildevej 116, 5. th",4,Lejlighed,92,1953,-0.01,2635e3,2000 Frederiksberg,28641,2016-11-25,Alm. Salg
+"Folkvarsvej 28, 2. th",2,Lejlighed,46,1887,-0.08,22e5,2000 Frederiksberg,47826,2016-11-24,Alm. Salg
+"Ane Katrines Vej 4, 2. th",2,Lejlighed,61,1932,-0.02,215e4,2000 Frederiksberg,35245,2016-11-24,Alm. Salg
+"Mathildevej 14, 3. tv",2,Lejlighed,67,1909,-0.04,245e4,2000 Frederiksberg,36567,2016-11-24,Alm. Salg
+"Duevej 116, 1. th",2,Lejlighed,62,1917,NA,22e5,2000 Frederiksberg,35483,2016-11-24,Fam. Salg
+"Munkensvej 8, 4. th",2,Lejlighed,70,1911,-0.01,277e4,2000 Frederiksberg,39571,2016-11-23,Alm. Salg
+"Rolfsvej 1, 2. tv",3,Lejlighed,101,1888,-0.01,385e4,2000 Frederiksberg,38118,2016-11-23,Alm. Salg
+"Rolfsvej 25, 3. tv",2,Lejlighed,63,1891,NA,1232500,2000 Frederiksberg,19563,2016-11-23,Fam. Salg
+"Borups Alle 112, 2. th",3,Lejlighed,93,1913,-0.06,32e5,2000 Frederiksberg,34408,2016-11-23,Alm. Salg
+"Julius Valentiners Vej 33, st. th",4,Lejlighed,94,1932,-0.01,345e4,2000 Frederiksberg,36702,2016-11-22,Alm. Salg
+"Duevej 46, st. th",3,Lejlighed,70,1932,NA,15e5,2000 Frederiksberg,21428,2016-11-22,Fam. Salg
+"Munkensvej 4, 1. tv",2,Lejlighed,65,1908,NA,1065e3,2000 Frederiksberg,16384,2016-11-22,Fam. Salg
+"Porcelænshaven 2F, 3. 2",3,Lejlighed,84,1861,NA,2139e3,2000 Frederiksberg,25464,2016-11-21,Fam. Salg
+"H. Schneekloths Vej 3, 2. tv",3,Lejlighed,78,1933,NA,1275e3,2000 Frederiksberg,16346,2016-11-21,Fam. Salg
+"Johannes V. Jensens Alle 2, 2. 4",4,Lejlighed,151,1979,-0.09,3425e3,2000 Frederiksberg,22682,2016-11-21,Alm. Salg
+"Roarsvej 24, 1. th",3,Lejlighed,75,1900,NA,2012500,2000 Frederiksberg,26833,2016-11-20,Fam. Salg
+"Finsensvej 41, 2. th",4,Lejlighed,94,1932,-0.06,33e5,2000 Frederiksberg,35106,2016-11-20,Alm. Salg
+"Normasvej 39, 1. th",4,Lejlighed,93,1936,-0.03,33e5,2000 Frederiksberg,35483,2016-11-20,Alm. Salg
+"Roskildevej 53, 5. 509",2,Lejlighed,67,1972,-0.03,2075e3,2000 Frederiksberg,30970,2016-11-18,Alm. Salg
+"Guldborgvej 27, 3. tv",4,Lejlighed,101,1932,0.04,3542851,2000 Frederiksberg,35077,2016-11-17,Alm. Salg
+"Nordre Fasanvej 164, 1. th",3,Lejlighed,80,1913,NA,155e4,2000 Frederiksberg,19375,2016-11-17,Alm. Salg
+"Mathildevej 24, 4. tv",4,Lejlighed,119,1903,-0.02,57e5,2000 Frederiksberg,47899,2016-11-16,Alm. Salg
+"Moltkesvej 69, 2. th",3,Lejlighed,88,1953,-0.06,3e6,2000 Frederiksberg,34090,2016-11-16,Alm. Salg
+"Bentzonsvej 8, 4. tv",3,Lejlighed,70,1904,NA,2153e3,2000 Frederiksberg,30757,2016-11-16,Fam. Salg
+"Godthåbsvej 116, 3. tv",4,Lejlighed,101,1929,-0.02,39e5,2000 Frederiksberg,38613,2016-11-15,Alm. Salg
+"Aksel Møllers Have 4, 3. tv",4,Lejlighed,96,1943,-0.01,4545e3,2000 Frederiksberg,47343,2016-11-15,Alm. Salg
+"Mathildevej 16, 2. th",2,Lejlighed,64,1909,-0.01,246e4,2000 Frederiksberg,38437,2016-11-15,Alm. Salg
+"Solvej 2, 2. tv",5,Lejlighed,150,1902,-0.01,665e4,2000 Frederiksberg,44333,2016-11-15,Alm. Salg
+"Dalgas Boulevard 89, 2. th",3,Lejlighed,80,1932,NA,135e4,2000 Frederiksberg,16875,2016-11-15,Alm. Salg
+"Ewaldsensvej 10, 2. th",2,Lejlighed,64,1937,0,1695e3,2000 Frederiksberg,26484,2016-11-15,Alm. Salg
+"Roskildevej 98, 6. mf",2,Lejlighed,53,1953,NA,1115e3,2000 Frederiksberg,21037,2016-11-14,Fam. Salg
+"Godthåbsvej 61A, 1. th",3,Lejlighed,79,1898,-0.04,2875e3,2000 Frederiksberg,36392,2016-11-14,Alm. Salg
+"Wilkensvej 11, st. tv",3,Lejlighed,87,1979,-0.03,34e5,2000 Frederiksberg,39080,2016-11-13,Alm. Salg
+"Kongensvej 2, 1. tv",2,Lejlighed,74,1883,-0.04,3075e3,2000 Frederiksberg,41554,2016-11-13,Alm. Salg
+"Rolfsvej 27, 2. tv",3,Lejlighed,71,1891,NA,2135e3,2000 Frederiksberg,30070,2016-11-12,Fam. Salg
+"Langelandsvej 51, 2. th",3,Lejlighed,68,1897,NA,1402500,2000 Frederiksberg,20625,2016-11-12,Fam. Salg
+"Nyelandsvej 5, 1. tv",4,Lejlighed,87,1889,-0.01,3945e3,2000 Frederiksberg,45344,2016-11-11,Alm. Salg
+"Borups Alle 140, 1. tv",3,Lejlighed,85,1932,0,3295e3,2000 Frederiksberg,38764,2016-11-11,Alm. Salg
+"Kronprinsesse Sofies Vej 23, 1. th",5,Lejlighed,126,1903,-0.07,4625e3,2000 Frederiksberg,36706,2016-11-11,Alm. Salg
+"Roskildevej 94, 4. tv",3,Lejlighed,85,1953,-0.03,246e4,2000 Frederiksberg,28941,2016-11-10,Alm. Salg
+"Mathildevej 15, 4. th",3,Lejlighed,79,1906,0,3695e3,2000 Frederiksberg,46772,2016-11-10,Alm. Salg
+"Nordre Fasanvej 64, 3. 33",2,Lejlighed,61,1974,NA,15e5,2000 Frederiksberg,24590,2016-11-09,Fam. Salg
+"Bjarkesvej 13, st. tv",3,Lejlighed,65,1908,NA,1311e3,2000 Frederiksberg,20169,2016-11-09,Fam. Salg
+"A.D. Jørgensens Vej 51, 1",2,Lejlighed,68,1991,-0.03,222e4,2000 Frederiksberg,32647,2016-11-09,Alm. Salg
+"Søndre Fasanvej 87B, 1. 1",2,Lejlighed,59,1991,-0.04,202e4,2000 Frederiksberg,34237,2016-11-08,Alm. Salg
+"Duevej 108B, 4. th",2,Lejlighed,65,1917,NA,1667500,2000 Frederiksberg,25653,2016-11-08,Fam. Salg
+"H. Schneekloths Vej 31, 1. 2",2,Lejlighed,71,1961,0,2195e3,2000 Frederiksberg,30915,2016-11-08,Alm. Salg
+"Søndre Fasanvej 87E, st. 3",3,Lejlighed,87,1991,0,2745e3,2000 Frederiksberg,31551,2016-11-08,Alm. Salg
+"Nordre Fasanvej 112, 5",3,Lejlighed,77,1897,-0.04,27e5,2000 Frederiksberg,35064,2016-11-08,Alm. Salg
+"Finsensvej 47A, 4. 403",2,Lejlighed,60,1961,0,2305e3,2000 Frederiksberg,38416,2016-11-08,Alm. Salg
+"Mathildevej 16A, 2. th",2,Lejlighed,67,1909,-0.03,2715e3,2000 Frederiksberg,40522,2016-11-07,Alm. Salg
+"Ærøvej 7, 1. tv",3,Lejlighed,76,1920,-0.03,311e4,2000 Frederiksberg,40921,2016-11-07,Alm. Salg
+"Holger Danskes Vej 42, 2. 20",2,Lejlighed,74,1976,0,2745e3,2000 Frederiksberg,37094,2016-11-07,Alm. Salg
+"Flintholm Alle 22, 3",4,Lejlighed,133,2008,0,5800999,2000 Frederiksberg,43616,2016-11-07,Alm. Salg
+"Finsensvej 34, 1. 1",1,Lejlighed,58,1972,NA,1075e3,2000 Frederiksberg,18534,2016-11-06,Alm. Salg
+"Aksel Møllers Have 26, 5. tv",2,Lejlighed,61,1946,NA,14e5,2000 Frederiksberg,22950,2016-11-04,Alm. Salg
+"Nimbusparken 3, 3. 4",2,Lejlighed,87,2004,-0.03,37e5,2000 Frederiksberg,42528,2016-11-04,Alm. Salg
+"Godthåbsvej 129, 1. tv",4,Lejlighed,92,1932,-0.06,348e4,2000 Frederiksberg,37826,2016-11-03,Alm. Salg
+"Dronning Olgas Vej 47, st. th",4,Lejlighed,142,1897,NA,55e5,2000 Frederiksberg,38732,2016-11-03,Alm. Salg
+"Eversvej 11, 1. mf",2,Lejlighed,52,1981,0.04,1975e3,2000 Frederiksberg,37980,2016-11-02,Alm. Salg
+"C.F. Richs Vej 126, 2. th",2,Lejlighed,46,1937,0,1695e3,2000 Frederiksberg,36847,2016-11-01,Alm. Salg
+"Mathildevej 12, 3. th",2,Lejlighed,66,1909,-0.05,243e4,2000 Frederiksberg,36818,2016-11-01,Alm. Salg
+"Emil Slomanns Vej 1B, 1. tv",3,Lejlighed,94,2002,-0.03,37e5,2000 Frederiksberg,39361,2016-11-01,Alm. Salg
+"Rådmand Steins Alle 3, 2. th",3,Lejlighed,82,1953,-0.01,2275e3,2000 Frederiksberg,27743,2016-10-31,Alm. Salg
+"Duevej 46, st. tv",3,Lejlighed,70,1932,NA,1488e3,2000 Frederiksberg,21257,2016-10-31,Fam. Salg
+"Nordre Fasanvej 112, 2. tv",2,Lejlighed,48,1897,0,2200022,2000 Frederiksberg,45833,2016-10-31,Alm. Salg
+"Porcelænshaven 2B, st. tv",3,Lejlighed,106,1861,NA,5225e3,2000 Frederiksberg,49292,2016-10-30,Alm. Salg
+"C.F. Richs Vej 144, 1. th",4,Lejlighed,81,1937,-0.03,2435e3,2000 Frederiksberg,30061,2016-10-30,Alm. Salg
+"Falkoner Alle 57, 3. tv",3,Lejlighed,111,1898,-0.02,44e5,2000 Frederiksberg,39639,2016-10-30,Alm. Salg
+"Roskildevej 55, 2. 210",2,Lejlighed,69,1972,NA,16e5,2000 Frederiksberg,23188,2016-10-29,Alm. Salg
+"Borgmester Fischers Vej 5D, 5. 1",2,Lejlighed,93,2001,NA,1827500,2000 Frederiksberg,19650,2016-10-27,Fam. Salg
+"Wilkensvej 13, 1. th",3,Lejlighed,86,1979,NA,3e6,2000 Frederiksberg,34883,2016-10-27,Fam. Salg
+"C.F. Richs Vej 144, st. th",4,Lejlighed,81,1937,-0.1,215e4,2000 Frederiksberg,26543,2016-10-27,Alm. Salg
+"Lyøvej 16, 4. th",3,Lejlighed,93,1979,-0.01,405e4,2000 Frederiksberg,43548,2016-10-27,Alm. Salg
+"Frederiksvej 48, st. th",2,Lejlighed,54,1909,-0.06,187e4,2000 Frederiksberg,34629,2016-10-27,Alm. Salg
+"Frederiksvej 48, 3. tv",3,Lejlighed,57,1909,0,2895e3,2000 Frederiksberg,50789,2016-10-27,Alm. Salg
+"Frederiksvej 25, 2. tv",4,Lejlighed,81,1890,NA,4e6,2000 Frederiksberg,49382,2016-10-26,Alm. Salg
+"Godthåbsvej 61A, 1. tv",2,Lejlighed,55,1898,-0.02,22e5,2000 Frederiksberg,4e4,2016-10-26,Alm. Salg
+"Folkvarsvej 31, 1. tv",2,Lejlighed,53,1887,NA,1235e3,2000 Frederiksberg,23301,2016-10-25,Fam. Salg
+"Marielystvej 4B, 3. th",2,Lejlighed,65,1934,NA,165e4,2000 Frederiksberg,25384,2016-10-25,Fam. Salg
+"Bernhard Bangs Alle 2, 4. 68",2,Lejlighed,90,1960,-0.05,285e4,2000 Frederiksberg,31666,2016-10-25,Alm. Salg
+"Kongensvej 2, 1. th",3,Lejlighed,97,1883,-0.03,447e4,2000 Frederiksberg,46082,2016-10-25,Alm. Salg
+"Wilkensvej 8, 5. mf",1,Lejlighed,41,1981,0,15e5,2000 Frederiksberg,36585,2016-10-24,Alm. Salg
+"Falkoner Alle 44, 3. th",3,Lejlighed,97,1914,-0.01,397e4,2000 Frederiksberg,40927,2016-10-24,Alm. Salg
+"Nordre Fasanvej 166, st. th",3,Lejlighed,79,1913,-0.05,237e4,2000 Frederiksberg,3e4,2016-10-24,Alm. Salg
+"Rådmand Steins Alle 27, 1. th",3,Lejlighed,81,1953,-0.02,244e4,2000 Frederiksberg,30123,2016-10-24,Alm. Salg
+"Mathildevej 24, 3. th",2,Lejlighed,66,1903,0.02,295e4,2000 Frederiksberg,44696,2016-10-24,Alm. Salg
+"Priorvej 11, 4. a",2,Lejlighed,72,1972,-0.06,235e4,2000 Frederiksberg,32638,2016-10-24,Alm. Salg
+"Nordre Fasanvej 112, 3. tv",2,Lejlighed,48,1897,NA,15e5,2000 Frederiksberg,31250,2016-10-23,Alm. Salg
+"Kong Georgs Vej 53, 5. tv",2,Lejlighed,83,1963,NA,3695e3,2000 Frederiksberg,44518,2016-10-23,Alm. Salg
+"Dirch Passers Allé 7, 5",4,Lejlighed,107,2008,0,575e4,2000 Frederiksberg,53738,2016-10-21,Alm. Salg
+"Rolfsvej 25, 4. tv",2,Lejlighed,58,1891,-0.01,257e4,2000 Frederiksberg,44310,2016-10-21,Alm. Salg
+"Moltkesvej 59, st. tv",3,Lejlighed,76,1949,-0.01,267e4,2000 Frederiksberg,35131,2016-10-21,Alm. Salg
+"Frederik VIs Alle 1, 3. tv",4,Lejlighed,105,1905,-0.01,4945e3,2000 Frederiksberg,47095,2016-10-20,Alm. Salg
+"Bentzonsvej 34, 1. tv",3,Lejlighed,68,1900,-0.02,303e4,2000 Frederiksberg,44558,2016-10-20,Alm. Salg
+"Finsensvej 13C, 5. mf",3,Lejlighed,66,1969,0,2795e3,2000 Frederiksberg,42348,2016-10-20,Alm. Salg
+"A.D. Jørgensens Vej 75, 2. 1",1,Lejlighed,35,1991,0,998e3,2000 Frederiksberg,28514,2016-10-20,Alm. Salg
+"Aksel Møllers Have 12, st. tv",2,Lejlighed,65,1944,-0.08,2112500,2000 Frederiksberg,32500,2016-10-20,Alm. Salg
+"Rådmand Steins Alle 33, 3. 31",2,Lejlighed,74,1970,-0.03,208e4,2000 Frederiksberg,28108,2016-10-19,Alm. Salg
+"Allegade 23A, 2. tv",2,Lejlighed,46,1890,NA,1105e3,2000 Frederiksberg,24021,2016-10-19,Fam. Salg
+"Munkensvej 3, st. tv",2,Lejlighed,65,1913,-0.08,2175e3,2000 Frederiksberg,33461,2016-10-19,Alm. Salg
+"Elga Olgas Vej 1, 4",4,Lejlighed,136,2008,NA,5295e3,2000 Frederiksberg,38933,2016-10-18,Alm. Salg
+"Holger Danskes Vej 102, st. th",4,Lejlighed,104,2005,-0.01,3975e3,2000 Frederiksberg,38221,2016-10-18,Alm. Salg
+"Holger Danskes Vej 102, 4. 3",2,Lejlighed,68,2005,0,2795e3,2000 Frederiksberg,41102,2016-10-18,Alm. Salg
+"Folkvarsvej 7, st. th",3,Lejlighed,63,1888,0.03,2995e3,2000 Frederiksberg,47539,2016-10-18,Alm. Salg
+"Platanskellet 8, st",4,Lejlighed,127,1978,0,3495e3,2000 Frederiksberg,27519,2016-10-17,Alm. Salg
+"Ærøvej 7, 3. tv",2,Lejlighed,76,1920,-0.01,3725e3,2000 Frederiksberg,49013,2016-10-17,Alm. Salg
+"Kong Georgs Vej 4, 4. tv",3,Lejlighed,85,1898,0,3695e3,2000 Frederiksberg,43470,2016-10-16,Alm. Salg
+"Porcelænshaven 8, 1. mf",3,Lejlighed,87,1800,-0.09,435e4,2000 Frederiksberg,5e4,2016-10-16,Alm. Salg
+"Franckesvej 5, 1. th",2,Lejlighed,43,1887,-0.02,1625e3,2000 Frederiksberg,37790,2016-10-15,Alm. Salg
+"Munkensvej 7, 2. th",2,Lejlighed,64,1913,0.01,237e4,2000 Frederiksberg,37031,2016-10-15,Alm. Salg
+Nimbusparken 15,3,Lejlighed,124,1955,NA,27e5,2000 Frederiksberg,21774,2016-10-14,Fam. Salg
+"Nordre Fasanvej 60, 6. 61",1,Lejlighed,45,1974,0,2595e3,2000 Frederiksberg,57666,2016-10-14,Alm. Salg
+"Bispeengen 13, 4. th",3,Lejlighed,68,1911,NA,13e5,2000 Frederiksberg,19117,2016-10-14,Fam. Salg
+"Porcelænshaven 10E, 1. th",3,Lejlighed,91,1919,NA,5295e3,2000 Frederiksberg,58186,2016-10-13,Alm. Salg
+"Nordre Fasanvej 114, 4. tv",2,Lejlighed,49,1897,0,2195e3,2000 Frederiksberg,44795,2016-10-13,Alm. Salg
+"Finsensvej 11B, 5. tv",4,Lejlighed,108,1969,0,3895e3,2000 Frederiksberg,36064,2016-10-12,Alm. Salg
+"Julius Valentiners Vej 35, 2. th",4,Lejlighed,93,1932,-0.01,375e4,2000 Frederiksberg,40322,2016-10-12,Alm. Salg
+"Vagtelvej 25, 1. tv",4,Lejlighed,107,1969,0.03,3395e3,2000 Frederiksberg,31728,2016-10-12,Alm. Salg
+"Mathildevej 2, 3. th",6,Lejlighed,163,1883,-0.04,65e5,2000 Frederiksberg,39877,2016-10-12,Alm. Salg
+"Borgmester Fischers Vej 5C, st. 4",3,Lejlighed,80,2001,-0.04,25e5,2000 Frederiksberg,31250,2016-10-11,Alm. Salg
+"Bentzonsvej 50A, 3. th",3,Lejlighed,72,1898,NA,1487500,2000 Frederiksberg,20659,2016-10-11,Fam. Salg
+"Aksel Møllers Have 2, 3. tv",2,Lejlighed,67,1943,-0.02,254e4,2000 Frederiksberg,37910,2016-10-11,Alm. Salg
+"Holger Danskes Vej 102, 1. 4",2,Lejlighed,86,2005,-0.01,325e4,2000 Frederiksberg,37790,2016-10-11,Alm. Salg
+"Nordre Fasanvej 62, 4. 42",2,Lejlighed,61,1974,0,2345e3,2000 Frederiksberg,38442,2016-10-11,Alm. Salg
+"Finsensvej 13C, 1. th",2,Lejlighed,70,1969,0,2995e3,2000 Frederiksberg,42785,2016-10-11,Alm. Salg
+"Rolfsvej 16, 3. th",2,Lejlighed,52,1891,NA,9e5,2000 Frederiksberg,17307,2016-10-11,Andet
+"Seedorffs Vænge 2, 3. 1",2,Lejlighed,80,1988,0,2595e3,2000 Frederiksberg,32437,2016-10-10,Alm. Salg
+"Aksel Møllers Have 26, 5. th",2,Lejlighed,73,1946,0.05,2875e3,2000 Frederiksberg,39383,2016-10-10,Alm. Salg
+"Finsensvej 47A, 1. 101",2,Lejlighed,65,1961,NA,1361e3,2000 Frederiksberg,20938,2016-10-10,Fam. Salg
+"C.F. Richs Vej 126, st. th",2,Lejlighed,46,1937,-0.03,145e4,2000 Frederiksberg,31521,2016-10-09,Alm. Salg
+"A.D. Jørgensens Vej 53, 2. 4",2,Lejlighed,68,1991,-0.06,225e4,2000 Frederiksberg,33088,2016-10-09,Alm. Salg
+"Munkensvej 7, 1. tv",2,Lejlighed,64,1913,NA,18e5,2000 Frederiksberg,28125,2016-10-08,Fam. Salg
+"Søndre Fasanvej 87B, st. 3",3,Lejlighed,87,1991,NA,2945e3,2000 Frederiksberg,33850,2016-10-07,Alm. Salg
+"Duevej 52, 3. tv",3,Lejlighed,76,1932,NA,26e5,2000 Frederiksberg,34210,2016-10-07,Fam. Salg
+"Guldborgvej 27, 3. th",5,Lejlighed,117,1932,0,4795e3,2000 Frederiksberg,40982,2016-10-06,Alm. Salg
+"Ved Andebakken 9, 2. th",1,Lejlighed,47,1941,-0.01,1825e3,2000 Frederiksberg,38829,2016-10-06,Alm. Salg
+"Nordre Fasanvej 33B, 4. tv",4,Lejlighed,138,1930,0,5498e3,2000 Frederiksberg,39840,2016-10-06,Alm. Salg
+"Mathildevej 15, 1. tv",3,Lejlighed,72,1906,-0.03,3108e3,2000 Frederiksberg,43166,2016-10-06,Alm. Salg
+"Allegade 23B, st. tv",2,Lejlighed,48,1890,-0.1,225e4,2000 Frederiksberg,46875,2016-10-06,Alm. Salg
+"Roskildevej 53, 3. 307",2,Lejlighed,65,1972,NA,1065e3,2000 Frederiksberg,16384,2016-10-04,Fam. Salg
+"Yrsavej 9, 4. tv",2,Lejlighed,60,1885,0.04,3e6,2000 Frederiksberg,5e4,2016-10-04,Alm. Salg
+"Godthåbsvej 35, 2. th",4,Lejlighed,117,1943,-0.02,45e5,2000 Frederiksberg,38461,2016-10-04,Alm. Salg
+"Frederiksvej 46, 4. th",2,Lejlighed,50,1902,NA,9e5,2000 Frederiksberg,18e3,2016-10-04,Fam. Salg
+Johannes V. Jensens Alle 16,3,Lejlighed,130,1979,-0.02,3425e3,2000 Frederiksberg,26346,2016-10-04,Alm. Salg
+"Porcelænshaven 2B, 2. 2",3,Lejlighed,96,1861,-0.03,45e5,2000 Frederiksberg,46875,2016-10-03,Alm. Salg
+"Vagtelvej 61, 5. th",3,Lejlighed,87,1969,-0.04,31e5,2000 Frederiksberg,35632,2016-10-03,Alm. Salg
+"Duevej 120A, 3. tv",2,Lejlighed,65,1917,NA,156e4,2000 Frederiksberg,24e3,2016-10-03,Fam. Salg
+"Ved Andebakken 2, 2. tv",2,Lejlighed,56,1941,NA,13e5,2000 Frederiksberg,23214,2016-10-03,Fam. Salg
+"C.F. Richs Vej 96, 3. tv",2,Lejlighed,62,1936,NA,14e5,2000 Frederiksberg,22580,2016-10-03,Fam. Salg
+"Franckesvej 5, 3. tv",2,Lejlighed,41,1887,0,1795e3,2000 Frederiksberg,43780,2016-10-03,Alm. Salg
+"Munkensvej 7, st. tv",2,Lejlighed,64,1913,-0.02,23e5,2000 Frederiksberg,35937,2016-10-03,Alm. Salg
+"Ane Katrines Vej 16, 2. 4",2,Lejlighed,45,1932,-0.02,1815e3,2000 Frederiksberg,40333,2016-10-02,Alm. Salg
+"Rolfsvej 27, 4. tv",3,Lejlighed,66,1891,NA,195e4,2000 Frederiksberg,29545,2016-10-01,Fam. Salg
+"Nordre Fasanvej 158, 4. tv",2,Lejlighed,85,1913,NA,1445e3,2000 Frederiksberg,17e3,2016-10-01,Fam. Salg
+"Aksel Møllers Have 18, 2. tv",3,Lejlighed,79,1944,NA,1487500,2000 Frederiksberg,18829,2016-09-30,Fam. Salg
+"Rådmand Steins Alle 33, 4. 44",2,Lejlighed,71,1970,-0.04,192e4,2000 Frederiksberg,27042,2016-09-30,Alm. Salg
+"Dirch Passers Allé 9, 1. th",3,Lejlighed,95,2008,-0.02,3675e3,2000 Frederiksberg,38684,2016-09-30,Alm. Salg
+"Guldborgvej 30, 2. tv",2,Lejlighed,58,1956,NA,1995e3,2000 Frederiksberg,34396,2016-09-29,Alm. Salg
+"Lyøvej 9, 3. tv",3,Lejlighed,81,1932,0,3835e3,2000 Frederiksberg,47345,2016-09-29,Alm. Salg
+"Adilsvej 9A, 3. th",3,Lejlighed,78,1900,NA,185e4,2000 Frederiksberg,23717,2016-09-29,Alm. Salg
+"Frederiksvej 44, 4. th",2,Lejlighed,52,1902,-0.02,1965e3,2000 Frederiksberg,37788,2016-09-29,Alm. Salg
+Dalgas Boulevard 44,6,Lejlighed,244,1933,-0.09,775e4,2000 Frederiksberg,31762,2016-09-28,Alm. Salg
+"Helgesvej 13, 4. th",2,Lejlighed,52,1889,NA,118e4,2000 Frederiksberg,22692,2016-09-28,Fam. Salg
+"Bernhard Bangs Alle 24, 1. tv",4,Lejlighed,105,1929,-0.01,405e4,2000 Frederiksberg,38571,2016-09-28,Alm. Salg
+"Rolfsvej 37, 4. tv",4,Lejlighed,93,1916,-0.02,49e5,2000 Frederiksberg,52688,2016-09-28,Fam. Salg
+"Holger Danskes Vej 85, 4. tv",3,Lejlighed,74,1920,-0.04,316e4,2000 Frederiksberg,42702,2016-09-28,Alm. Salg
+"Roskildevej 112, 6. tv",3,Lejlighed,95,1956,NA,192e4,2000 Frederiksberg,20210,2016-09-28,Alm. Salg
+"Kongensvej 2, 2. mf",3,Lejlighed,104,1883,-0.05,455e4,2000 Frederiksberg,43750,2016-09-28,Alm. Salg
+"Dronning Olgas Vej 22, 1",5,Lejlighed,127,1896,0.02,4595e3,2000 Frederiksberg,36181,2016-09-27,Alm. Salg
+"Roskildevej 53, st. 4",2,Lejlighed,65,1972,-0.03,1845e3,2000 Frederiksberg,28384,2016-09-27,Alm. Salg
+"Holger Danskes Vej 85, 1. th",3,Lejlighed,77,1920,-0.02,3425e3,2000 Frederiksberg,44480,2016-09-27,Alm. Salg
+"Kronprinsesse Sofies Vej 43, 2. th",3,Lejlighed,67,1932,-0.05,2375e3,2000 Frederiksberg,35447,2016-09-27,Alm. Salg
+"Vagtelvej 63, 3. th",3,Lejlighed,85,1969,NA,253e4,2000 Frederiksberg,29764,2016-09-27,Alm. Salg
+"Rådmand Steins Alle 33, 1. 13",2,Lejlighed,71,1970,-0.03,19e5,2000 Frederiksberg,26760,2016-09-27,Alm. Salg
+"Frederiksvej 44, st. th",2,Lejlighed,52,1902,NA,977500,2000 Frederiksberg,18798,2016-09-27,Fam. Salg
+"Nordre Fasanvej 112, 2. tv",2,Lejlighed,48,1897,1.03,4453e3,2000 Frederiksberg,92770,2016-09-27,Andet
+"Godthåbsvej 102, 2. tv",4,Lejlighed,112,1930,NA,897325,2000 Frederiksberg,8011,2016-09-27,Fam. Salg
+"Munkensvej 3, 3. tv",2,Lejlighed,65,1913,-0.04,24e5,2000 Frederiksberg,36923,2016-09-26,Alm. Salg
+"C.F. Richs Vej 130, st. tv",2,Lejlighed,57,1937,NA,1414e3,2000 Frederiksberg,24807,2016-09-23,Fam. Salg
+"Kronprinsesse Sofies Vej 20, st. 1",2,Lejlighed,60,1969,-0.02,2395e3,2000 Frederiksberg,39916,2016-09-23,Alm. Salg
+"Nordre Fasanvej 178, 4. th",3,Lejlighed,76,1934,NA,119e4,2000 Frederiksberg,15657,2016-09-23,Fam. Salg
+"Vagtelvej 37, 1. th",5,Lejlighed,119,1969,-0.04,355e4,2000 Frederiksberg,29831,2016-09-23,Alm. Salg
+"Kristian Zahrtmanns Plads 83, 3. tv",5,Lejlighed,108,1906,-0.04,4980669,2000 Frederiksberg,46117,2016-09-22,Alm. Salg
+"Søndre Fasanvej 56, 2. tv",4,Lejlighed,101,1934,-0.01,3975e3,2000 Frederiksberg,39356,2016-09-22,Alm. Salg
+"Langelandsvej 51, st. tv",3,Lejlighed,65,1897,0,2695e3,2000 Frederiksberg,41461,2016-09-22,Alm. Salg
+"Nitivej 18, 4. th",3,Lejlighed,85,1997,0,3595e3,2000 Frederiksberg,42294,2016-09-22,Alm. Salg
+"Jyllandsvej 10, 2. tv",3,Lejlighed,68,1939,-0.04,255e4,2000 Frederiksberg,37500,2016-09-22,Alm. Salg
+"Mariendalsvej 12A, 4. th",4,Lejlighed,97,1938,0,401e4,2000 Frederiksberg,41340,2016-09-21,Alm. Salg
+"Rolfsvej 11, st. tv",2,Lejlighed,52,1890,0,2495e3,2000 Frederiksberg,47980,2016-09-21,Alm. Salg
+"C.F. Richs Vej 122, st. tv",2,Lejlighed,67,1937,0.05,2e6,2000 Frederiksberg,29850,2016-09-20,Alm. Salg
+"Bentzonsvej 34, 2. th",3,Lejlighed,79,1900,0.02,355e4,2000 Frederiksberg,44936,2016-09-20,Alm. Salg
+"Yrsavej 11, 5. tv",2,Lejlighed,46,1885,-0.03,199e4,2000 Frederiksberg,43260,2016-09-20,Alm. Salg
+"P. Andersens Vej 1, 3. th",3,Lejlighed,75,1901,-0.03,315e4,2000 Frederiksberg,42e3,2016-09-19,Alm. Salg
+"Porcelænshaven 2A, st. tv",4,Lejlighed,92,1861,0,45e5,2000 Frederiksberg,48913,2016-09-19,Alm. Salg
+"Borups Alle 136, 2. tv",4,Lejlighed,91,1932,0,375e4,2000 Frederiksberg,41208,2016-09-19,Alm. Salg
+"Borgmester Fischers Vej 5A, 5. 1",2,Lejlighed,93,2001,-0.02,3325e3,2000 Frederiksberg,35752,2016-09-19,Alm. Salg
+"C.F. Richs Vej 138, st. th",4,Lejlighed,99,1937,0,2899e3,2000 Frederiksberg,29282,2016-09-18,Alm. Salg
+"Rådmand Steins Alle 17, 6. tv",3,Lejlighed,80,1956,NA,145e4,2000 Frederiksberg,18125,2016-09-18,Fam. Salg
+"Ved Andebakken 2, 1. tv",2,Lejlighed,56,1941,0,2495e3,2000 Frederiksberg,44553,2016-09-18,Alm. Salg
+"Munkensvej 6, 3. th",2,Lejlighed,66,1908,-0.01,258e4,2000 Frederiksberg,39090,2016-09-18,Alm. Salg
+"Munkensvej 4, st. tv",2,Lejlighed,65,1908,0.04,2538e3,2000 Frederiksberg,39046,2016-09-16,Alm. Salg
+"Falkoner Alle 44, 4. th",3,Lejlighed,88,1914,-0.03,4265e3,2000 Frederiksberg,48465,2016-09-15,Alm. Salg
+"Aksel Møllers Have 2, 3. th",2,Lejlighed,61,1943,0.02,2642e3,2000 Frederiksberg,43311,2016-09-15,Alm. Salg
+"C.F. Richs Vej 152, st. th",2,Lejlighed,46,1935,-0.06,14e5,2000 Frederiksberg,30434,2016-09-15,Alm. Salg
+"Folkvarsvej 16, st. tv",2,Lejlighed,56,1887,-0.01,2395e3,2000 Frederiksberg,42767,2016-09-15,Alm. Salg
+"H. Schneekloths Vej 7, 2. tv",3,Lejlighed,93,1933,0,3495e3,2000 Frederiksberg,37580,2016-09-15,Alm. Salg
+"Borups Alle 108, 3. tv",2,Lejlighed,65,1908,NA,1062500,2000 Frederiksberg,16346,2016-09-14,Fam. Salg
+"Pile Alle 5E, 2. th",3,Lejlighed,93,1975,-0.05,41e5,2000 Frederiksberg,44086,2016-09-14,Alm. Salg
+"Thurøvej 9, st. th",3,Lejlighed,72,1913,0,2875e3,2000 Frederiksberg,39930,2016-09-14,Alm. Salg
+"Borgmester Fischers Vej 5F, 4. 1",3,Lejlighed,94,2001,0,3395e3,2000 Frederiksberg,36117,2016-09-13,Alm. Salg
+"Guldborgvej 36, 4. 20",2,Lejlighed,61,1974,-0.08,21e5,2000 Frederiksberg,34426,2016-09-13,Alm. Salg
+Ahornskellet 18,4,Lejlighed,120,1978,0,32e5,2000 Frederiksberg,26666,2016-09-12,Alm. Salg
+"Nordre Fasanvej 154, 3. th",4,Lejlighed,80,1900,0,2695e3,2000 Frederiksberg,33687,2016-09-12,Alm. Salg
+"Folkvarsvej 30, 5. tv",2,Lejlighed,41,1887,0,17e5,2000 Frederiksberg,41463,2016-09-11,Alm. Salg
+"Borups Alle 103, 1. tv",5,Lejlighed,125,1932,-0.05,4e6,2000 Frederiksberg,32e3,2016-09-11,Alm. Salg
+"C.F. Richs Vej 106, 2. tv",2,Lejlighed,64,1936,-0.02,195e4,2000 Frederiksberg,30468,2016-09-11,Alm. Salg
+"Frederiksvej 10, 2. th",3,Lejlighed,75,1885,NA,235e4,2000 Frederiksberg,31333,2016-09-09,Fam. Salg
+"Ane Katrines Vej 6, st. tv",3,Lejlighed,69,1932,NA,145e4,2000 Frederiksberg,21014,2016-09-09,Fam. Salg
+"Duevej 65, 1. th",4,Lejlighed,132,1929,-0.02,49e5,2000 Frederiksberg,37121,2016-09-08,Alm. Salg
+"Mariendalsvej 11, 3. mf",2,Lejlighed,68,1936,0,2395e3,2000 Frederiksberg,35220,2016-09-08,Alm. Salg
+"Moltkesvej 57, st. th",4,Lejlighed,95,1949,-0.04,385e4,2000 Frederiksberg,40526,2016-09-08,Alm. Salg
+"Sprogøvej 5, 1. th",3,Lejlighed,97,1982,NA,38e5,2000 Frederiksberg,39175,2016-09-08,Alm. Salg
+"C.F. Richs Vej 118, 3. tv",3,Lejlighed,65,1937,-0.02,245e4,2000 Frederiksberg,37692,2016-09-07,Alm. Salg
+"Borgmester Fischers Vej 5F, 1. 1",3,Lejlighed,94,2001,-0.02,32e5,2000 Frederiksberg,34042,2016-09-07,Alm. Salg
+"Bjarkesvej 13, st. th",3,Lejlighed,62,1908,NA,1532e3,2000 Frederiksberg,24709,2016-09-07,Fam. Salg
+"Guldborgvej 37, 4. tv",4,Lejlighed,86,1902,0,3987e3,2000 Frederiksberg,46360,2016-09-07,Alm. Salg
+"Blytsvej 5, 2. tv",4,Lejlighed,98,1902,0.02,4734321,2000 Frederiksberg,48309,2016-09-07,Alm. Salg
+"Porcelænshaven 4A, 2. tv",4,Lejlighed,93,2007,0.04,529e4,2000 Frederiksberg,56881,2016-09-07,Alm. Salg
+"Roskildevej 100, 2. tv",3,Lejlighed,81,1956,0,2295e3,2000 Frederiksberg,28333,2016-09-07,Alm. Salg
+"Mathildevej 15, 2. th",3,Lejlighed,79,1906,-0.06,34e5,2000 Frederiksberg,43037,2016-09-06,Alm. Salg
+"Thurøvej 5, 2",4,Lejlighed,101,1913,0.01,446e4,2000 Frederiksberg,44158,2016-09-06,Alm. Salg
+"Rolfsvej 25, 1. tv",2,Lejlighed,63,1891,0.02,3095e3,2000 Frederiksberg,49126,2016-09-05,Alm. Salg
+"Søndre Fasanvej 4, 1",6,Lejlighed,138,1925,-0.01,495e4,2000 Frederiksberg,35869,2016-09-05,Alm. Salg
+"Finsensvej 41, 1. tv",3,Lejlighed,80,1932,-0.02,2825e3,2000 Frederiksberg,35312,2016-09-05,Alm. Salg
+"Porcelænshaven 2B, 1. 4",3,Lejlighed,106,1861,0.03,475e4,2000 Frederiksberg,44811,2016-09-05,Alm. Salg
+"Bernhard Bangs Alle 2, st. 6",1,Lejlighed,63,1960,NA,16e5,2000 Frederiksberg,25396,2016-09-05,Fam. Salg
+"Solvej 3, 4. th",3,Lejlighed,90,1902,NA,2160683,2000 Frederiksberg,24007,2016-09-05,Fam. Salg
+"H. Schneekloths Vej 11, 3. tv",3,Lejlighed,85,1933,NA,25e5,2000 Frederiksberg,29411,2016-09-04,Fam. Salg
+"Nordre Fasanvej 169, 2. th",2,Lejlighed,51,1900,NA,102e4,2000 Frederiksberg,2e4,2016-09-04,Fam. Salg
+"Aksel Møllers Have 8, 4. tv",2,Lejlighed,63,1944,0.02,261e4,2000 Frederiksberg,41428,2016-09-04,Alm. Salg
+"Aksel Møllers Have 4, 9. tv",6,Lejlighed,154,1943,-0.06,8e6,2000 Frederiksberg,51948,2016-09-03,Alm. Salg
+"Nordre Fasanvej 165, st. tv",3,Lejlighed,73,1900,0.02,2545e3,2000 Frederiksberg,34863,2016-09-03,Alm. Salg
+"Ane Katrines Vej 4, 4. th",2,Lejlighed,61,1932,NA,105e4,2000 Frederiksberg,17213,2016-09-02,Fam. Salg
+"Sprogøvej 15, 3. th",3,Lejlighed,92,1982,-0.06,3565e3,2000 Frederiksberg,38750,2016-09-02,Alm. Salg
+"Frederiksvej 42, 2. th",4,Lejlighed,80,1902,-0.04,32e5,2000 Frederiksberg,4e4,2016-09-02,Alm. Salg
+"Mathildevej 18, 1. tv",5,Lejlighed,83,1888,-0.05,37e5,2000 Frederiksberg,44578,2016-09-01,Alm. Salg
+"Stockflethsvej 11, 2. tv",5,Lejlighed,158,1915,NA,3225e3,2000 Frederiksberg,20411,2016-09-01,Andet
+"Finsensvej 75, 4. th",3,Lejlighed,78,1926,-0.02,3225e3,2000 Frederiksberg,41346,2016-08-31,Alm. Salg
+"C.F. Richs Vej 130, 1. th",2,Lejlighed,57,1937,-0.03,1555e3,2000 Frederiksberg,27280,2016-08-31,Alm. Salg
+"Søndre Fasanvej 87D, st. 1",3,Lejlighed,86,1991,-0.02,27e5,2000 Frederiksberg,31395,2016-08-31,Alm. Salg
+"Dronning Olgas Vej 49, st. th",3,Lejlighed,94,1903,NA,3795e3,2000 Frederiksberg,40372,2016-08-31,Alm. Salg
+"Porcelænshaven 5A, st. mf",2,Lejlighed,87,2006,-0.02,45e5,2000 Frederiksberg,51724,2016-08-31,Alm. Salg
+"Finsensvej 36D, 2. tv",3,Lejlighed,87,1979,NA,1402500,2000 Frederiksberg,16120,2016-08-31,Fam. Salg
+"Mariendalsvej 50F, 4. tv",3,Lejlighed,93,1995,-0.08,33e5,2000 Frederiksberg,35483,2016-08-30,Alm. Salg
+"Lyøvej 24, 2. th",3,Lejlighed,93,1979,0,3895e3,2000 Frederiksberg,41881,2016-08-30,Alm. Salg
+"Holger Danskes Vej 19, 3. tv",2,Lejlighed,50,1887,NA,155e4,2000 Frederiksberg,31e3,2016-08-30,Alm. Salg
+"Wilkensvej 8, 3. mf",1,Lejlighed,51,1981,0,1745e3,2000 Frederiksberg,34215,2016-08-29,Alm. Salg
+"Vagtelvej 25, 4. tv",4,Lejlighed,107,1969,0.01,322e4,2000 Frederiksberg,30093,2016-08-29,Alm. Salg
+"Ane Katrines Vej 18, 2. 4",2,Lejlighed,47,1932,-0.02,1865e3,2000 Frederiksberg,39680,2016-08-29,Alm. Salg
+"Godthåbsvej 135, st. tv",4,Lejlighed,96,1934,NA,2925e3,2000 Frederiksberg,30468,2016-08-29,Alm. Salg
+"Pelargonievej 2, st. mf",3,Lejlighed,84,1963,0,2495e3,2000 Frederiksberg,29702,2016-08-29,Alm. Salg
+"Preben Kaas Vænge 4, 1. th",4,Lejlighed,124,2008,NA,51e5,2000 Frederiksberg,41129,2016-08-29,Alm. Salg
+"Holger Danskes Vej 27A, 1. th",3,Lejlighed,85,1902,NA,1596e3,2000 Frederiksberg,18776,2016-08-28,Fam. Salg
+"Mathildevej 18, 3. th",3,Lejlighed,86,1888,NA,4075e3,2000 Frederiksberg,47383,2016-08-28,Alm. Salg
+"La Cours Vej 14, st. th",4,Lejlighed,132,1906,NA,3e5,2000 Frederiksberg,2272,2016-08-28,Alm. Salg
+"Ane Katrines Vej 22, 4. tv",3,Lejlighed,69,1932,0.01,24e5,2000 Frederiksberg,34782,2016-08-28,Alm. Salg
+"A.D. Jørgensens Vej 19, 2. th",3,Lejlighed,86,1991,-0.05,31e5,2000 Frederiksberg,36046,2016-08-27,Alm. Salg
+"Nordre Fasanvej 33C, st. tv",2,Lejlighed,69,1930,0,2695e3,2000 Frederiksberg,39057,2016-08-26,Alm. Salg
+"Nordre Fasanvej 118, 5",3,Lejlighed,69,1897,0,2695e3,2000 Frederiksberg,39057,2016-08-26,Alm. Salg
+"Elga Olgas Vej 3, 2. tv",3,Lejlighed,98,2008,NA,4e5,2000 Frederiksberg,4081,2016-08-25,Fam. Salg
+"Godthåbsvænget 11, 5. th",3,Lejlighed,100,1972,0,3695e3,2000 Frederiksberg,36950,2016-08-25,Alm. Salg
+"Vagtelvej 71, 2. mf",5,Lejlighed,115,1969,-0.04,335e4,2000 Frederiksberg,29130,2016-08-25,Alm. Salg
+"Finsensvej 36A, st. th",3,Lejlighed,87,1979,NA,25e5,2000 Frederiksberg,28735,2016-08-25,Fam. Salg
+"Ved Andebakken 9, 2. mf",2,Lejlighed,61,1941,-0.04,2785e3,2000 Frederiksberg,45655,2016-08-24,Alm. Salg
+"Vagtelvej 63, st. th",3,Lejlighed,86,1969,-0.04,26e5,2000 Frederiksberg,30232,2016-08-24,Alm. Salg
+"Kong Georgs Vej 51, 5. tv",3,Lejlighed,82,1963,-0.07,305e4,2000 Frederiksberg,37195,2016-08-24,Alm. Salg
+"Mathildevej 15, 1. tv",3,Lejlighed,72,1906,NA,2715e3,2000 Frederiksberg,37708,2016-08-23,Fam. Salg
+"Kong Georgs Vej 54, 3. tv",3,Lejlighed,90,1903,0,3595e3,2000 Frederiksberg,39944,2016-08-23,Alm. Salg
+"Dalgas Boulevard 87, st",3,Lejlighed,83,1932,-0.03,2625e3,2000 Frederiksberg,31626,2016-08-22,Alm. Salg
+"C.F. Richs Vej 126, 1. mf",2,Lejlighed,45,1937,0,1495e3,2000 Frederiksberg,33222,2016-08-22,Alm. Salg
+"Ved Andebakken 10, st. th",2,Lejlighed,64,1941,-0.02,25e5,2000 Frederiksberg,39062,2016-08-22,Alm. Salg
+"Wilkensvej 15, st. th",3,Lejlighed,86,1979,-0.02,295e4,2000 Frederiksberg,34302,2016-08-22,Alm. Salg
+"Drosselvej 57A, st. tv",2,Lejlighed,121,1913,-0.03,375e4,2000 Frederiksberg,30991,2016-08-22,Alm. Salg
+"Roskildevej 98, 5. th",3,Lejlighed,82,1953,0,2445e3,2000 Frederiksberg,29817,2016-08-22,Alm. Salg
+"C.F. Richs Vej 89, st. th",2,Lejlighed,70,1936,NA,102e4,2000 Frederiksberg,14571,2016-08-20,Fam. Salg
+"C.F. Richs Vej 146, 2. tv",4,Lejlighed,80,1937,NA,1599741,2000 Frederiksberg,19996,2016-08-19,Fam. Salg
+"Eversvej 11, 5. tv",3,Lejlighed,80,1981,-0.05,3e6,2000 Frederiksberg,37500,2016-08-19,Alm. Salg
+"Fuglebakkevej 86, 5. tv",3,Lejlighed,63,1932,0,22e5,2000 Frederiksberg,34920,2016-08-19,Alm. Salg
+"Jyllandsvej 12B, st. tv",3,Lejlighed,68,1939,-0.04,25e5,2000 Frederiksberg,36764,2016-08-19,Alm. Salg
+"Allegade 24B, st. tv",3,Lejlighed,93,1897,-0.05,35e5,2000 Frederiksberg,37634,2016-08-19,Alm. Salg
+"Aksel Møllers Have 24, 2. tv",2,Lejlighed,68,1946,NA,2595e3,2000 Frederiksberg,38161,2016-08-18,Alm. Salg
+"Pelargonievej 2, 4. mf",3,Lejlighed,84,1963,-0.05,255e4,2000 Frederiksberg,30357,2016-08-18,Alm. Salg
+"Franckesvej 5, 3. tv",2,Lejlighed,41,1887,NA,13e5,2000 Frederiksberg,31707,2016-08-18,Fam. Salg
+"Platanskellet 18, st",4,Lejlighed,122,1978,-0.07,315e4,2000 Frederiksberg,25819,2016-08-17,Alm. Salg
+"Ved Andebakken 5, 4. tv",2,Lejlighed,59,1941,0.01,2765e3,2000 Frederiksberg,46864,2016-08-17,Alm. Salg
+"Vagtelvej 57, 5. tv",3,Lejlighed,87,1969,-0.01,345e4,2000 Frederiksberg,39655,2016-08-17,Alm. Salg
+"Tjørneskellet 22, 2",3,Lejlighed,113,1978,-0.04,3162500,2000 Frederiksberg,27986,2016-08-17,Alm. Salg
+"Godthåbsvej 61B, 3. th",3,Lejlighed,88,1898,NA,17e5,2000 Frederiksberg,19318,2016-08-17,Fam. Salg
+"Frøbels Alle 1, 3. tv",3,Lejlighed,87,1937,NA,1402500,2000 Frederiksberg,16120,2016-08-17,Fam. Salg
+"H.V. Nyholms Vej 2, 1. 1",2,Lejlighed,105,2008,0,4195e3,2000 Frederiksberg,39952,2016-08-16,Alm. Salg
+"Nordre Fasanvej 163, 3. th",2,Lejlighed,58,1900,-0.04,1825e3,2000 Frederiksberg,31465,2016-08-16,Alm. Salg
+"Drosselvej 57C, 3. tv",2,Lejlighed,101,1913,-0.03,34e5,2000 Frederiksberg,33663,2016-08-16,Alm. Salg
+"Mariendalsvej 10, 1. tv",2,Lejlighed,66,1938,0,2495e3,2000 Frederiksberg,37803,2016-08-16,Alm. Salg
+Birkeskellet 4,5,Lejlighed,159,1978,-0.03,485e4,2000 Frederiksberg,30503,2016-08-16,Alm. Salg
+"Falkoner Alle 61, 3. th",2,Lejlighed,59,1898,NA,24e5,2000 Frederiksberg,40677,2016-08-15,Alm. Salg
+"Dirch Passers Allé 11, 1. th",3,Lejlighed,96,2008,0,3795e3,2000 Frederiksberg,39531,2016-08-14,Alm. Salg
+"Munkensvej 9, 3. th",2,Lejlighed,65,1913,-0.01,237e4,2000 Frederiksberg,36461,2016-08-14,Alm. Salg
+"Aksel Møllers Have 24, st. tv",2,Lejlighed,81,1946,-0.08,23e5,2000 Frederiksberg,28395,2016-08-11,Alm. Salg
+"Frederiksberg Bredegade 3B, 2",5,Lejlighed,136,1883,-0.08,5675e3,2000 Frederiksberg,41727,2016-08-11,Alm. Salg
+"Elga Olgas Vej 1, 1. th",3,Lejlighed,106,2008,-0.03,3595e3,2000 Frederiksberg,33915,2016-08-10,Alm. Salg
+"C.F. Richs Vej 140, 1. th",4,Lejlighed,80,1937,-0.03,2715e3,2000 Frederiksberg,33937,2016-08-10,Alm. Salg
+"Guldborgvej 37, 2. th",3,Lejlighed,76,1902,0,3645e3,2000 Frederiksberg,47960,2016-08-10,Alm. Salg
+"H. Schneekloths Vej 31, st. 4",1,Lejlighed,55,1961,-0.02,186e4,2000 Frederiksberg,33818,2016-08-10,Alm. Salg
+"Falkoner Alle 90, 2. 2",2,Lejlighed,68,1970,0.05,24e5,2000 Frederiksberg,35294,2016-08-10,Alm. Salg
+"Nordre Fasanvej 155B, 4. th",2,Lejlighed,53,1904,0,2195e3,2000 Frederiksberg,41415,2016-08-10,Alm. Salg
+"Vagtelvej 53, 1. tv",4,Lejlighed,107,1969,-0.03,295e4,2000 Frederiksberg,27570,2016-08-09,Alm. Salg
+"Helgesvej 13, 1. th",3,Lejlighed,63,1889,0,2495e3,2000 Frederiksberg,39603,2016-08-09,Alm. Salg
+"Bernhard Bangs Alle 24, 2. tv",3,Lejlighed,105,1929,-0.02,42e5,2000 Frederiksberg,4e4,2016-08-09,Alm. Salg
+"Porcelænshaven 5A, 1. th",3,Lejlighed,99,2006,0,5995e3,2000 Frederiksberg,60555,2016-08-09,Alm. Salg
+"H. Schneekloths Vej 7, st. tv",3,Lejlighed,93,1933,NA,185e4,2000 Frederiksberg,19892,2016-08-09,Alm. Salg
+"Vagtelvej 43, 2. th",4,Lejlighed,126,1969,-0.05,38e5,2000 Frederiksberg,30158,2016-08-09,Alm. Salg
+"Roskildevej 55, 2. 218",3,Lejlighed,86,1972,NA,215e4,2000 Frederiksberg,25e3,2016-08-08,Alm. Salg
+"Vagtelvej 2, 2",3,Lejlighed,82,1928,0.02,2545e3,2000 Frederiksberg,31036,2016-08-08,Alm. Salg
+"Solvej 3, st. th",3,Lejlighed,88,1902,-0.03,3775e3,2000 Frederiksberg,42897,2016-08-08,Alm. Salg
+"Søndre Fasanvej 87E, 1. 4",3,Lejlighed,87,1991,0,3095e3,2000 Frederiksberg,35574,2016-08-08,Alm. Salg
+"Porcelænshaven 5E, 2. tv",4,Lejlighed,108,2006,0.01,6345e3,2000 Frederiksberg,58750,2016-08-07,Alm. Salg
+"Godthåbsvænget 33, 4. th",3,Lejlighed,87,1977,NA,3375e3,2000 Frederiksberg,38793,2016-08-06,Alm. Salg
+"Wilkensvej 7, 4. mf",1,Lejlighed,35,1972,-0.09,118e4,2000 Frederiksberg,33714,2016-08-05,Alm. Salg
+"Langelandsvej 41, 4. th",3,Lejlighed,68,1898,-0.02,3515e3,2000 Frederiksberg,51691,2016-08-05,Alm. Salg
+"Moltkesvej 59, st. th",4,Lejlighed,92,1949,0,4e6,2000 Frederiksberg,43478,2016-08-05,Alm. Salg
+"Ved Andebakken 5, 4. th",2,Lejlighed,59,1941,-0.02,2625e3,2000 Frederiksberg,44491,2016-08-04,Alm. Salg
+"Ane Katrines Vej 14, 2. 3",2,Lejlighed,51,1932,0.02,1625e3,2000 Frederiksberg,31862,2016-08-04,Alm. Salg
+"Kronprinsesse Sofies Vej 43, 3. th",3,Lejlighed,67,1932,0,2475e3,2000 Frederiksberg,36940,2016-08-04,Alm. Salg
+"Vagtelvej 63, 2. th",4,Lejlighed,85,1969,0.01,2615e3,2000 Frederiksberg,30764,2016-08-04,Alm. Salg
+"Porcelænshaven 5C, st. th",4,Lejlighed,125,2006,-0.03,58e5,2000 Frederiksberg,46400,2016-08-04,Alm. Salg
+"Roskildevej 122, 2. tv",3,Lejlighed,90,1953,-0.03,2425e3,2000 Frederiksberg,26944,2016-08-04,Alm. Salg
+"Roskildevej 53, 6. 602",2,Lejlighed,65,1972,-0.02,195e4,2000 Frederiksberg,3e4,2016-08-03,Alm. Salg
+"Borgmester Fischers Vej 5F, 4. 2",3,Lejlighed,120,2001,0,3995e3,2000 Frederiksberg,33291,2016-08-03,Alm. Salg
+"Vagtelvej 65, 1. th",3,Lejlighed,84,1969,-0.05,265e4,2000 Frederiksberg,31547,2016-08-03,Alm. Salg
+"Godthåbsvænget 25, 1. tv",4,Lejlighed,102,1972,-0.06,33e5,2000 Frederiksberg,32352,2016-08-03,Alm. Salg
+"Finsensvej 5A, 4. mf",2,Lejlighed,66,1969,0,2795e3,2000 Frederiksberg,42348,2016-08-02,Alm. Salg
+"Thurøvej 15, 1. tv",3,Lejlighed,100,2016,NA,5095232,2000 Frederiksberg,50952,2016-08-02,Alm. Salg
+"Mathildevej 16, 4. th",2,Lejlighed,61,1909,NA,276e4,2000 Frederiksberg,45245,2016-08-01,Alm. Salg
+"Munkensvej 1, 1. tv",2,Lejlighed,65,1913,0,23e5,2000 Frederiksberg,35384,2016-08-01,Alm. Salg
+"Finsensvej 34, 2. 6",2,Lejlighed,67,1972,0,2495e3,2000 Frederiksberg,37238,2016-08-01,Alm. Salg
+"Thurøvej 13, 3. th",3,Lejlighed,85,2016,NA,4648096,2000 Frederiksberg,54683,2016-08-01,Alm. Salg
+"Thurøvej 13, st",5,Lejlighed,125,2016,NA,5375664,2000 Frederiksberg,43005,2016-08-01,Alm. Salg
+"Thurøvej 13, 1. th",3,Lejlighed,85,2016,NA,4320351,2000 Frederiksberg,50827,2016-08-01,Alm. Salg
+"Thurøvej 13, 3. tv",4,Lejlighed,117,2016,NA,6624363,2000 Frederiksberg,56618,2016-08-01,Alm. Salg
+"Nordre Fasanvej 114, 4. tv",2,Lejlighed,49,1897,-0.05,17e5,2000 Frederiksberg,34693,2016-08-01,Alm. Salg
+"Dirch Passers Allé 19, 4. th",3,Lejlighed,103,2008,-0.02,412e4,2000 Frederiksberg,4e4,2016-08-01,Alm. Salg
+"Thurøvej 15, 3. tv",2,Lejlighed,88,2016,NA,4e6,2000 Frederiksberg,45454,2016-08-01,Alm. Salg
+"Nordre Fasanvej 33A, 2. tv",4,Lejlighed,112,1930,0,4575e3,2000 Frederiksberg,40848,2016-07-31,Alm. Salg
+"Roskildevej 55, 3. 317",2,Lejlighed,67,1972,NA,11e5,2000 Frederiksberg,16417,2016-07-29,Fam. Salg
+"Ane Katrines Vej 16, 2. 3",2,Lejlighed,50,1932,0.04,198e4,2000 Frederiksberg,39600,2016-07-29,Alm. Salg
+"Kronprinsensvej 4A, 3",6,Lejlighed,185,1940,NA,1737300,2000 Frederiksberg,9390,2016-07-28,Fam. Salg
+"Roskildevej 114, 4. tv",2,Lejlighed,69,1956,-0.03,18e5,2000 Frederiksberg,26086,2016-07-28,Alm. Salg
+"Bispeengen 9, 3. th",3,Lejlighed,68,1914,0,2195e3,2000 Frederiksberg,32279,2016-07-28,Alm. Salg
+"Vagtelvej 39, 1. tv",3,Lejlighed,103,1969,NA,13e5,2000 Frederiksberg,12621,2016-07-28,Fam. Salg
+"Holger Danskes Vej 24, 1. th",2,Lejlighed,53,1891,-0.01,2175e3,2000 Frederiksberg,41037,2016-07-27,Alm. Salg
+"Vagtelvej 19, 2. tv",4,Lejlighed,126,1969,NA,285e4,2000 Frederiksberg,22619,2016-07-27,Alm. Salg
+"Kong Georgs Vej 37, 1",3,Lejlighed,91,1890,-0.04,315e4,2000 Frederiksberg,34615,2016-07-27,Alm. Salg
+"Pile Alle 35, 4. tv",2,Lejlighed,60,1890,-0.02,246e4,2000 Frederiksberg,41e3,2016-07-27,Alm. Salg
+"Johannes V. Jensens Alle 58, 3. th",6,Lejlighed,174,1971,NA,6175e3,2000 Frederiksberg,35488,2016-07-26,Alm. Salg
+"Rådmand Steins Alle 35, 3. th",3,Lejlighed,82,1970,-0.03,2275e3,2000 Frederiksberg,27743,2016-07-26,Alm. Salg
+"Frederiksvej 48, 3. tv",3,Lejlighed,57,1909,-0.13,2e6,2000 Frederiksberg,35087,2016-07-26,Alm. Salg
+"Holger Danskes Vej 45, 3. 31",2,Lejlighed,70,1967,NA,1317500,2000 Frederiksberg,18821,2016-07-25,Fam. Salg
+"Nordre Fasanvej 167, 3. th",2,Lejlighed,49,1900,0.03,2055e3,2000 Frederiksberg,41938,2016-07-25,Alm. Salg
+"Rådmand Steins Alle 21, 4. tv",4,Lejlighed,109,1953,-0.03,29e5,2000 Frederiksberg,26605,2016-07-25,Alm. Salg
+"Borups Alle 136, 4. tv",4,Lejlighed,90,1932,-0.02,3145e3,2000 Frederiksberg,34944,2016-07-24,Alm. Salg
+"Rolfsvej 37, 4. tv",4,Lejlighed,93,1916,-0.02,49e5,2000 Frederiksberg,52688,2016-07-24,Alm. Salg
+"Aksel Møllers Have 30, 2. mf",2,Lejlighed,72,1946,0,25e5,2000 Frederiksberg,34722,2016-07-23,Alm. Salg
+"H. Schneekloths Vej 5, 2. th",3,Lejlighed,86,1933,-0.01,3324e3,2000 Frederiksberg,38651,2016-07-23,Alm. Salg
+"Hospitalsvej 1A, 2. th",3,Lejlighed,90,1898,-0.02,44e5,2000 Frederiksberg,48888,2016-07-22,Alm. Salg
+"Holger Danskes Vej 102, 4. 4",2,Lejlighed,86,2005,-0.06,355e4,2000 Frederiksberg,41279,2016-07-22,Alm. Salg
+"C.F. Richs Vej 146, st. th",4,Lejlighed,81,1937,NA,12e5,2000 Frederiksberg,14814,2016-07-22,Fam. Salg
+"Holger Danskes Vej 14, 3. tv",2,Lejlighed,47,1885,NA,935e3,2000 Frederiksberg,19893,2016-07-22,Fam. Salg
+"Bernhard Bangs Alle 4, 3. 63",1,Lejlighed,63,1960,0.01,182e4,2000 Frederiksberg,28888,2016-07-22,Alm. Salg
+"Ane Katrines Vej 4, 2. th",2,Lejlighed,61,1932,NA,935e3,2000 Frederiksberg,15327,2016-07-21,Fam. Salg
+"Nordre Fasanvej 76, 5. th",2,Lejlighed,55,1902,-0.03,2125e3,2000 Frederiksberg,38636,2016-07-21,Alm. Salg
+"Finsensvej 47B, 4. 411",2,Lejlighed,88,1961,0,3395e3,2000 Frederiksberg,38579,2016-07-20,Alm. Salg
+"Folkvarsvej 30, st. tv",2,Lejlighed,46,1887,0,2095e3,2000 Frederiksberg,45543,2016-07-20,Alm. Salg
+"Rådmand Steins Alle 3, 5. tv",4,Lejlighed,100,1953,0.04,281e4,2000 Frederiksberg,28100,2016-07-20,Alm. Salg
+"Nordre Fasanvej 33A, 4. th",4,Lejlighed,107,1930,-0.02,47e5,2000 Frederiksberg,43925,2016-07-20,Alm. Salg
+"Holger Danskes Vej 45, 5. 52",2,Lejlighed,67,1967,-0.02,2435e3,2000 Frederiksberg,36343,2016-07-20,Alm. Salg
+"Roarsvej 19, 4. th",2,Lejlighed,43,1890,-0.01,2065e3,2000 Frederiksberg,48023,2016-07-20,Alm. Salg
+"Aksel Møllers Have 24, 1. tv",2,Lejlighed,68,1946,-0.06,245e4,2000 Frederiksberg,36029,2016-07-20,Alm. Salg
+"Finsensvej 47B, 3. 311",3,Lejlighed,88,1961,NA,1445e3,2000 Frederiksberg,16420,2016-07-19,Fam. Salg
+"Falkoner Alle 110, 3. tv",4,Lejlighed,105,1900,-0.06,375e4,2000 Frederiksberg,35714,2016-07-19,Alm. Salg
+"Pile Alle 5H, 1. tv",4,Lejlighed,106,1975,-0.05,475e4,2000 Frederiksberg,44811,2016-07-19,Alm. Salg
+"Betty Nansens Alle 25, 4. tv",4,Lejlighed,118,1976,-0.04,525e4,2000 Frederiksberg,44491,2016-07-19,Alm. Salg
+"Munkensvej 2, 3. tv",2,Lejlighed,67,1908,0,2595e3,2000 Frederiksberg,38731,2016-07-18,Alm. Salg
+"Bispeengen 13, 2. tv",2,Lejlighed,72,1911,0,2499e3,2000 Frederiksberg,34708,2016-07-18,Alm. Salg
+"Howitzvej 39, 2. tv",2,Lejlighed,62,1941,-0.02,255e4,2000 Frederiksberg,41129,2016-07-17,Alm. Salg
+"Nimbusparken 1, st. 4",2,Lejlighed,88,2004,-0.02,3175e3,2000 Frederiksberg,36079,2016-07-16,Alm. Salg
+"Bentzonsvej 6, 1. th",4,Lejlighed,70,1904,0,2895e3,2000 Frederiksberg,41357,2016-07-15,Alm. Salg
+"C.F. Richs Vej 94, st. tv",2,Lejlighed,65,1936,0,1795e3,2000 Frederiksberg,27615,2016-07-15,Alm. Salg
+"Holger Danskes Vej 42, 2. 16",2,Lejlighed,74,1976,NA,1212500,2000 Frederiksberg,16385,2016-07-15,Fam. Salg
+"Borgmester Fischers Vej 5B, 5. 2",3,Lejlighed,83,2001,0,3095e3,2000 Frederiksberg,37289,2016-07-15,Alm. Salg
+"Nordre Fasanvej 33A, 1. th",4,Lejlighed,107,1930,0.01,455e4,2000 Frederiksberg,42523,2016-07-14,Alm. Salg
+"Finsensvej 79, 3. th",3,Lejlighed,80,1926,0.04,31e5,2000 Frederiksberg,38750,2016-07-14,Alm. Salg
+"Nordre Fasanvej 18, 2. tv",3,Lejlighed,73,1901,NA,3145e3,2000 Frederiksberg,43082,2016-07-14,Alm. Salg
+"C.F. Richs Vej 118, 2. th",3,Lejlighed,65,1937,0,2295e3,2000 Frederiksberg,35307,2016-07-13,Alm. Salg
+"Duevej 112, 4. tv",2,Lejlighed,60,1917,0.03,2375e3,2000 Frederiksberg,39583,2016-07-13,Alm. Salg
+"Nordre Fasanvej 112, 1. tv",2,Lejlighed,48,1897,-0.02,195e4,2000 Frederiksberg,40625,2016-07-13,Alm. Salg
+"Ewaldsensvej 8, 3. tv",2,Lejlighed,64,1937,-0.03,1935e3,2000 Frederiksberg,30234,2016-07-13,Alm. Salg
+"Rolfsvej 25, 2. th",3,Lejlighed,73,1891,-0.02,3515e3,2000 Frederiksberg,48150,2016-07-12,Alm. Salg
+"Finsensvej 5A, 6. th",3,Lejlighed,83,1969,NA,3698e3,2000 Frederiksberg,44554,2016-07-12,Alm. Salg
+"Duevej 50, 5. th",3,Lejlighed,69,1932,-0.04,26e5,2000 Frederiksberg,37681,2016-07-12,Alm. Salg
+"Nimbusparken 11, st. tv",4,Lejlighed,162,1955,-0.08,61e5,2000 Frederiksberg,37654,2016-07-11,Alm. Salg
+"Rådmand Steins Alle 23, 6. tv",1,Lejlighed,53,1953,0.07,1606e3,2000 Frederiksberg,30301,2016-07-11,Alm. Salg
+"Rådmand Steins Alle 33, 6. 66",3,Lejlighed,92,1970,0,2795e3,2000 Frederiksberg,30380,2016-07-11,Alm. Salg
+"Aksel Møllers Have 30, 2. mf",2,Lejlighed,72,1946,NA,1746e3,2000 Frederiksberg,24250,2016-07-11,Fam. Salg
+"Munkensvej 11, st. tv",2,Lejlighed,65,1913,-0.05,2075e3,2000 Frederiksberg,31923,2016-07-10,Alm. Salg
+"Kronprinsesse Sofies Vej 13, 1. tv",3,Lejlighed,86,1963,-0.03,29e5,2000 Frederiksberg,33720,2016-07-10,Alm. Salg
+"Sprogøvej 17, 3. mf",3,Lejlighed,84,1982,-0.03,35e5,2000 Frederiksberg,41666,2016-07-08,Alm. Salg
+"Duevej 108B, 1. tv",2,Lejlighed,62,1917,0.04,2395e3,2000 Frederiksberg,38629,2016-07-08,Alm. Salg
+"Guldborgvej 25, 2. tv",4,Lejlighed,117,1932,-0.02,4595e3,2000 Frederiksberg,39273,2016-07-08,Alm. Salg
+"Finsensvej 47B, 1. 107",2,Lejlighed,60,1961,-0.07,1645e3,2000 Frederiksberg,27416,2016-07-08,Alm. Salg
+"Ved Andebakken 8, st. th",2,Lejlighed,59,1941,-0.01,247e4,2000 Frederiksberg,41864,2016-07-07,Alm. Salg
+"Nordre Fasanvej 60, 3. 32",2,Lejlighed,62,1974,-0.04,22e5,2000 Frederiksberg,35483,2016-07-07,Alm. Salg
+"Frederik VIs Alle 4, 3. th",4,Lejlighed,108,1905,-0.02,515e4,2000 Frederiksberg,47685,2016-07-07,Alm. Salg
+"Bentzonsvej 52, 1. th",3,Lejlighed,66,1898,NA,16e5,2000 Frederiksberg,24242,2016-07-07,Fam. Salg
+"Mathildevej 20, 3. tv",3,Lejlighed,87,1890,-0.01,415e4,2000 Frederiksberg,47701,2016-07-07,Alm. Salg
+"Frederiksvej 48, 1. th",2,Lejlighed,54,1909,-0.01,247e4,2000 Frederiksberg,45740,2016-07-07,Alm. Salg
+"Thurøvej 13, 2. th",3,Lejlighed,85,2016,NA,4436691,2000 Frederiksberg,52196,2016-07-07,Alm. Salg
+"Tjørneskellet 2, 2",2,Lejlighed,62,1978,-0.05,1895e3,2000 Frederiksberg,30564,2016-07-06,Alm. Salg
+"Aksel Møllers Have 24, 1. th",3,Lejlighed,91,1946,-0.04,37e5,2000 Frederiksberg,40659,2016-07-06,Alm. Salg
+"Eversvej 11, 4. mf",1,Lejlighed,52,1981,0.01,191e4,2000 Frederiksberg,36730,2016-07-06,Alm. Salg
+"Wilkensvej 7, 1. mf",1,Lejlighed,35,1972,0.09,1085e3,2000 Frederiksberg,31e3,2016-07-05,Alm. Salg
+"Finsensvej 41, 1. tv",3,Lejlighed,80,1932,NA,17e5,2000 Frederiksberg,21250,2016-07-05,Fam. Salg
+"Mariendalsvej 50G, 5. th",2,Lejlighed,76,1995,NA,34e5,2000 Frederiksberg,44736,2016-07-05,Alm. Salg
+Tesdorpfsvej 43B,4,Lejlighed,119,1977,-0.03,5315e3,2000 Frederiksberg,44663,2016-07-04,Alm. Salg
+"Ane Katrines Vej 22, 3. th",3,Lejlighed,69,1932,NA,1425e3,2000 Frederiksberg,20652,2016-07-04,Fam. Salg
+"A.D. Jørgensens Vej 73, 2. tv",2,Lejlighed,72,1991,NA,2e6,2000 Frederiksberg,27777,2016-07-04,Andet
+"Munkensvej 2, 2. tv",2,Lejlighed,67,1908,NA,1495e3,2000 Frederiksberg,22313,2016-07-04,Fam. Salg
+"Thurøvej 15, 3. th",3,Lejlighed,96,2016,NA,5412354,2000 Frederiksberg,56378,2016-07-04,Alm. Salg
+"Borups Alle 150A, 3. th",3,Lejlighed,100,1918,-0.01,384e4,2000 Frederiksberg,38400,2016-07-04,Alm. Salg
+"Thurøvej 13, 4. th",4,Lejlighed,155,2016,NA,7960884,2000 Frederiksberg,51360,2016-07-04,Alm. Salg
+"Thurøvej 13, 1. tv",4,Lejlighed,117,2016,NA,5936398,2000 Frederiksberg,50738,2016-07-04,Alm. Salg
+"Thurøvej 15, 1. th",3,Lejlighed,97,2016,NA,4891684,2000 Frederiksberg,50429,2016-07-04,Alm. Salg
+"Thurøvej 13, 4. tv",7,Lejlighed,177,2016,NA,10435258,2000 Frederiksberg,58956,2016-07-04,Alm. Salg
+"Thurøvej 15, st. th",3,Lejlighed,101,2016,NA,4608214,2000 Frederiksberg,45625,2016-07-04,Alm. Salg
+"Thurøvej 15, 4",5,Lejlighed,152,2016,NA,8241043,2000 Frederiksberg,54217,2016-07-04,Alm. Salg
+"Thurøvej 15, 2. th",4,Lejlighed,97,2016,NA,5154169,2000 Frederiksberg,53135,2016-07-04,Alm. Salg
+"Thurøvej 13, 2. tv",4,Lejlighed,117,2016,NA,6155339,2000 Frederiksberg,52609,2016-07-04,Alm. Salg
+"Thurøvej 15, 2. tv",3,Lejlighed,100,2016,NA,5247802,2000 Frederiksberg,52478,2016-07-04,Alm. Salg
+"Thurøvej 15, st. tv",3,Lejlighed,91,2016,NA,4312285,2000 Frederiksberg,47387,2016-07-04,Alm. Salg
+"Mariendalsvej 11, 2. th",2,Lejlighed,58,1936,NA,205e4,2000 Frederiksberg,35344,2016-07-02,Alm. Salg
+"Godthåbsvej 62C, 2. tv",2,Lejlighed,58,1897,NA,1175e3,2000 Frederiksberg,20258,2016-07-01,Fam. Salg
+"Kong Georgs Vej 4, 3. th",3,Lejlighed,82,1898,NA,21e5,2000 Frederiksberg,25609,2016-07-01,Fam. Salg
+"Pile Alle 5B, 1. 2",3,Lejlighed,83,1975,-0.08,32e5,2000 Frederiksberg,38554,2016-07-01,Alm. Salg
+"Roskildevej 120, st. tv",3,Lejlighed,78,1953,-0.02,215e4,2000 Frederiksberg,27564,2016-07-01,Alm. Salg
+"Munkensvej 6, 4. tv",2,Lejlighed,69,1908,NA,1147500,2000 Frederiksberg,16630,2016-07-01,Fam. Salg
+"Dirch Passers Allé 3, 5. th",3,Lejlighed,86,2008,0,3395e3,2000 Frederiksberg,39476,2016-06-30,Alm. Salg
+"Dalgas Boulevard 89, st. tv",3,Lejlighed,79,1932,0,2695e3,2000 Frederiksberg,34113,2016-06-30,Alm. Salg
+"Roskildevej 122, 3. th",3,Lejlighed,78,1953,NA,21e5,2000 Frederiksberg,26923,2016-06-30,Fam. Salg
+"Bispeengen 21, 2. tv",2,Lejlighed,82,1913,NA,1313431,2000 Frederiksberg,16017,2016-06-29,Andet
+"Kong Georgs Vej 6A, 1. tv",4,Lejlighed,86,1898,-0.03,408e4,2000 Frederiksberg,47441,2016-06-29,Alm. Salg
+"Aksel Møllers Have 8, 4. tv",2,Lejlighed,63,1944,NA,15e5,2000 Frederiksberg,23809,2016-06-29,Fam. Salg
+"Nordre Fasanvej 118, 5",3,Lejlighed,69,1897,NA,1194e3,2000 Frederiksberg,17304,2016-06-29,Alm. Salg
+"Godthåbsvænget 31, 1. th",3,Lejlighed,91,1977,0,2795e3,2000 Frederiksberg,30714,2016-06-28,Alm. Salg
+"Duevej 54, 1. tv",3,Lejlighed,71,1932,0.01,2775e3,2000 Frederiksberg,39084,2016-06-28,Alm. Salg
+"Ved Andebakken 6, st. th",2,Lejlighed,59,1941,NA,2195e3,2000 Frederiksberg,37203,2016-06-27,Alm. Salg
+"Lyøvej 7, 2. tv",3,Lejlighed,83,1932,-0.05,37e5,2000 Frederiksberg,44578,2016-06-27,Alm. Salg
+"Nimbusparken 5, 4. 4",4,Lejlighed,109,2005,0,4795e3,2000 Frederiksberg,43990,2016-06-27,Alm. Salg
+"Allegade 23C, 2",4,Lejlighed,93,1890,0,4295e3,2000 Frederiksberg,46182,2016-06-27,Alm. Salg
+"Nordre Fasanvej 158, 2. tv",2,Lejlighed,86,1913,NA,2113550,2000 Frederiksberg,24576,2016-06-26,Alm. Salg
+"Wilkensvej 13, st. tv",3,Lejlighed,86,1979,-0.01,305e4,2000 Frederiksberg,35465,2016-06-24,Alm. Salg
+"Howitzvej 59, 3. th",3,Lejlighed,85,1904,0,3695e3,2000 Frederiksberg,43470,2016-06-24,Alm. Salg
+"Bernhard Bangs Alle 55, 3. th",2,Lejlighed,71,1936,NA,1552e3,2000 Frederiksberg,21859,2016-06-24,Fam. Salg
+"Roarsvej 24, 3. tv",2,Lejlighed,57,1900,-0.04,26e5,2000 Frederiksberg,45614,2016-06-24,Alm. Salg
+"Roskildevej 55, 1. 116",2,Lejlighed,67,1972,0,1998e3,2000 Frederiksberg,29820,2016-06-23,Alm. Salg
+"Kronprinsesse Sofies Vej 17, st. tv",4,Lejlighed,127,1903,-0.02,61e5,2000 Frederiksberg,48031,2016-06-23,Alm. Salg
+"Pile Alle 5H, 1. th",3,Lejlighed,93,1975,NA,406e4,2000 Frederiksberg,43655,2016-06-23,Fam. Salg
+"Duevej 108B, 4. tv",2,Lejlighed,62,1917,NA,2225e3,2000 Frederiksberg,35887,2016-06-22,Alm. Salg
+"Rådmand Steins Alle 35, 5. th",3,Lejlighed,82,1970,-0.06,235e4,2000 Frederiksberg,28658,2016-06-22,Alm. Salg
+"Langelandsvej 6, st. tv",3,Lejlighed,94,1895,0,3795e3,2000 Frederiksberg,40372,2016-06-21,Alm. Salg
+"Julius Valentiners Vej 35, 3. th",4,Lejlighed,93,1932,0,35e5,2000 Frederiksberg,37634,2016-06-21,Alm. Salg
+"Holger Danskes Vej 102, 2. 4",2,Lejlighed,86,2005,-0.02,331e4,2000 Frederiksberg,38488,2016-06-21,Alm. Salg
+"Bernhard Bangs Alle 4, 2. 49",2,Lejlighed,90,1960,NA,2578023,2000 Frederiksberg,28644,2016-06-21,Alm. Salg
+"Holger Danskes Vej 32, 3. 4",3,Lejlighed,107,2011,-0.04,5145e3,2000 Frederiksberg,48084,2016-06-21,Alm. Salg
+"Nordre Fasanvej 18, 1. th",3,Lejlighed,68,1901,0,2795e3,2000 Frederiksberg,41102,2016-06-20,Alm. Salg
+"Frederiksvej 45, 2. th",3,Lejlighed,70,1902,NA,136e4,2000 Frederiksberg,19428,2016-06-18,Fam. Salg
+"Folkvarsvej 28, 2. th",2,Lejlighed,46,1887,NA,15e5,2000 Frederiksberg,32608,2016-06-17,Fam. Salg
+"Duevej 113, 2. tv",3,Lejlighed,97,1958,NA,3285e3,2000 Frederiksberg,33865,2016-06-17,Alm. Salg
+"Ane Katrines Vej 10, 3. th",3,Lejlighed,69,1932,-0.04,259e4,2000 Frederiksberg,37536,2016-06-16,Alm. Salg
+"Borups Alle 138, 2. tv",5,Lejlighed,120,1932,0,4195e3,2000 Frederiksberg,34958,2016-06-16,Alm. Salg
+"Aksel Møllers Have 26, 4. tv",2,Lejlighed,61,1946,NA,15e5,2000 Frederiksberg,24590,2016-06-16,Alm. Salg
+"Rådmand Steins Alle 17, 4. th",4,Lejlighed,107,1956,-0.01,2855e3,2000 Frederiksberg,26682,2016-06-16,Alm. Salg
+"A.D. Jørgensens Vej 67, 2. 3",3,Lejlighed,102,1991,NA,35e5,2000 Frederiksberg,34313,2016-06-16,Alm. Salg
+"Nordre Fasanvej 114, st. tv",2,Lejlighed,49,1897,-0.01,1985e3,2000 Frederiksberg,40510,2016-06-16,Alm. Salg
+"Bernhard Bangs Alle 8, 2. 53",3,Lejlighed,101,1962,0,2695e3,2000 Frederiksberg,26683,2016-06-16,Alm. Salg
+"Johannes V. Jensens Alle 26, 2. 1",4,Lejlighed,151,1979,-0.02,41e5,2000 Frederiksberg,27152,2016-06-16,Alm. Salg
+"Holger Danskes Vej 45, 5. 56",2,Lejlighed,77,1967,NA,2225e3,2000 Frederiksberg,28896,2016-06-15,Fam. Salg
+"Guldborgvej 36, 3. 14",2,Lejlighed,61,1974,NA,184e4,2000 Frederiksberg,30163,2016-06-15,Fam. Salg
+"Grøndalsvej 10, 1. tv",4,Lejlighed,87,1934,-0.07,3635e3,2000 Frederiksberg,41781,2016-06-15,Alm. Salg
+Arveprinsensvej 10,4,Lejlighed,110,1903,0,3895e3,2000 Frederiksberg,35409,2016-06-15,Alm. Salg
+"Franckesvej 5, st. th",2,Lejlighed,43,1887,NA,745e3,2000 Frederiksberg,17325,2016-06-15,Fam. Salg
+"Guldborgvej 37, 3. th",3,Lejlighed,76,1902,-0.02,312e4,2000 Frederiksberg,41052,2016-06-14,Alm. Salg
+"Frederiksvej 44, 4. tv",2,Lejlighed,48,1902,-0.08,192e4,2000 Frederiksberg,4e4,2016-06-14,Alm. Salg
+"Nordre Fasanvej 114, 2. tv",2,Lejlighed,49,1897,NA,13e5,2000 Frederiksberg,26530,2016-06-14,Fam. Salg
+"Bispeengen 19, 2. th",3,Lejlighed,76,1913,NA,2228e3,2000 Frederiksberg,29315,2016-06-13,Fam. Salg
+"Porcelænshaven 2F, 2. 2",3,Lejlighed,86,1861,-0.01,446e4,2000 Frederiksberg,51860,2016-06-13,Alm. Salg
+"Mariendalsvej 50F, 3. mf",2,Lejlighed,66,1995,0,265e4,2000 Frederiksberg,40151,2016-06-13,Alm. Salg
+"Frederiksvej 22, 3. tv",3,Lejlighed,77,1903,0,33e5,2000 Frederiksberg,42857,2016-06-13,Alm. Salg
+"Pelargonievej 3, 2. th",3,Lejlighed,85,1989,0.05,261e4,2000 Frederiksberg,30705,2016-06-13,Alm. Salg
+"Dirch Passers Allé 5, 3. th",3,Lejlighed,96,2008,-0.02,3725e3,2000 Frederiksberg,38802,2016-06-13,Alm. Salg
+"Frederik VIs Alle 3, 4. tv",4,Lejlighed,107,1905,-0.01,519e4,2000 Frederiksberg,48504,2016-06-12,Alm. Salg
+"Smallegade 26A, 3. tv",2,Lejlighed,60,1941,-0.04,245e4,2000 Frederiksberg,40833,2016-06-12,Alm. Salg
+"Finsensvej 77, 2. th",4,Lejlighed,93,1926,NA,15e5,2000 Frederiksberg,16129,2016-06-10,Alm. Salg
+"Mariendalsvej 13, 6. tv",3,Lejlighed,89,1969,NA,346e4,2000 Frederiksberg,38876,2016-06-10,Alm. Salg
+"Arveprinsensvej 3, 1",5,Lejlighed,116,1882,-0.01,64e5,2000 Frederiksberg,55172,2016-06-09,Alm. Salg
+"Godthåbsvej 119, 3. th",4,Lejlighed,93,1932,0,3495e3,2000 Frederiksberg,37580,2016-06-07,Alm. Salg
+"C.F. Richs Vej 148, 1. th",2,Lejlighed,57,1935,NA,1635e3,2000 Frederiksberg,28684,2016-06-07,Alm. Salg
+"Søndre Fasanvej 58, 2",4,Lejlighed,101,1934,-0.05,36e5,2000 Frederiksberg,35643,2016-06-07,Alm. Salg
+"Frederiksvej 20, 2. th",4,Lejlighed,87,1906,0,365e4,2000 Frederiksberg,41954,2016-06-07,Alm. Salg
+"Nordre Fasanvej 114, 4. tv",2,Lejlighed,49,1897,-0.05,17e5,2000 Frederiksberg,34693,2016-06-07,Alm. Salg
+"Rådmand Steins Alle 33, 1. 14",2,Lejlighed,71,1970,-0.03,1845e3,2000 Frederiksberg,25985,2016-06-06,Alm. Salg
+"Nordre Fasanvej 114, st. th",3,Lejlighed,88,1897,0,2995e3,2000 Frederiksberg,34034,2016-06-06,Alm. Salg
+"Nimbusparken 9, 4. 2",3,Lejlighed,109,2005,0,5195e3,2000 Frederiksberg,47660,2016-06-06,Alm. Salg
+"Pile Alle 5C, st. th",3,Lejlighed,84,1975,-0.03,3375e3,2000 Frederiksberg,40178,2016-06-03,Alm. Salg
+"Nyelandsvej 5, 4. tv",4,Lejlighed,87,1889,0,3995e3,2000 Frederiksberg,45919,2016-06-03,Alm. Salg
+"Kong Georgs Vej 51, 2. mf",3,Lejlighed,89,1963,0,3795e3,2000 Frederiksberg,42640,2016-06-03,Alm. Salg
+"Bispeengen 15, 3. tv",3,Lejlighed,86,1911,0,2995e3,2000 Frederiksberg,34825,2016-06-02,Alm. Salg
+"Aksel Møllers Have 16, 5. th",3,Lejlighed,76,1944,0,354e4,2000 Frederiksberg,46578,2016-06-02,Alm. Salg
+"Godthåbsvænget 15, 3. th",3,Lejlighed,99,1972,-0.03,31e5,2000 Frederiksberg,31313,2016-06-02,Alm. Salg
+"Frederik VIs Alle 14, st. tv",3,Lejlighed,90,1905,-0.04,5e6,2000 Frederiksberg,55555,2016-06-02,Alm. Salg
+"Steen Blichers Vej 2, st. tv",5,Lejlighed,133,1889,0,5298e3,2000 Frederiksberg,39834,2016-06-02,Alm. Salg
+"Vagtelvej 71, 2. tv",3,Lejlighed,84,1969,NA,301e4,2000 Frederiksberg,35833,2016-06-02,Alm. Salg
+"Dronning Olgas Vej 49, 1. th",4,Lejlighed,96,1903,0.02,355e4,2000 Frederiksberg,36979,2016-06-02,Alm. Salg
+"Nordre Fasanvej 60, 6. 62",1,Lejlighed,45,1974,0.03,2055e3,2000 Frederiksberg,45666,2016-06-01,Alm. Salg
+"Falkoner Alle 90, 6. 2",2,Lejlighed,68,1970,-0.02,225e4,2000 Frederiksberg,33088,2016-06-01,Alm. Salg
+"Johannes V. Jensens Alle 46, 4. th",5,Lejlighed,168,1971,-0.01,5915e3,2000 Frederiksberg,35208,2016-05-31,Alm. Salg
+"Roskildevej 53, st. 4",2,Lejlighed,65,1972,NA,977500,2000 Frederiksberg,15038,2016-05-31,Fam. Salg
+"Nordre Fasanvej 112, 2. tv",2,Lejlighed,48,1897,-0.08,1745e3,2000 Frederiksberg,36354,2016-05-31,Alm. Salg
+"Borgmester Fischers Vej 5A, 5. 2",3,Lejlighed,99,2001,-0.03,34e5,2000 Frederiksberg,34343,2016-05-31,Alm. Salg
+"Hospitalsvej 1A, 1. tv",3,Lejlighed,85,1898,NA,1025e3,2000 Frederiksberg,12058,2016-05-30,Fam. Salg
+"Nordre Fasanvej 28, st. tv",3,Lejlighed,80,1901,-0.11,21e5,2000 Frederiksberg,26250,2016-05-30,Alm. Salg
+"Borgmester Fischers Vej 5A, 4. 1",2,Lejlighed,93,2001,-0.03,31e5,2000 Frederiksberg,33333,2016-05-30,Alm. Salg
+"Pelargonievej 2, 2. th",2,Lejlighed,65,1963,-0.02,215e4,2000 Frederiksberg,33076,2016-05-30,Alm. Salg
+"Rådmand Steins Alle 17, 2. tv",3,Lejlighed,90,1956,NA,1001960,2000 Frederiksberg,11132,2016-05-29,Andet
+"Munkensvej 10, 4. th",2,Lejlighed,66,1911,NA,215e4,2000 Frederiksberg,32575,2016-05-28,Fam. Salg
+"Adilsvej 9, 2",3,Lejlighed,111,1900,-0.01,53e5,2000 Frederiksberg,47747,2016-05-26,Alm. Salg
+"Drosselvej 57D, 1. mf",3,Lejlighed,127,1913,NA,45e5,2000 Frederiksberg,35433,2016-05-26,Alm. Salg
+"Duevej 56, 2. tv",2,Lejlighed,64,1932,-0.03,2225e3,2000 Frederiksberg,34765,2016-05-26,Alm. Salg
+"Preben Kaas Vænge 8, 1",4,Lejlighed,121,2008,0,46e5,2000 Frederiksberg,38016,2016-05-26,Alm. Salg
+"Finsensvej 73, 3. tv",3,Lejlighed,79,1926,0,2995e3,2000 Frederiksberg,37911,2016-05-25,Alm. Salg
+"Ved Andebakken 8, 4. th",2,Lejlighed,59,1941,-0.03,252e4,2000 Frederiksberg,42711,2016-05-25,Alm. Salg
+"Falstersvej 10, st. th",3,Lejlighed,72,1902,-0.06,283e4,2000 Frederiksberg,39305,2016-05-25,Alm. Salg
+"Grøndalsvej 18, st. tv",3,Lejlighed,92,1930,0,5295e3,2000 Frederiksberg,57554,2016-05-25,Alm. Salg
+"Nyelandsvej 67, 2. tv",4,Lejlighed,152,1910,NA,227e4,2000 Frederiksberg,14934,2016-05-24,Fam. Salg
+"Rådmand Steins Alle 11, 5. tv",3,Lejlighed,110,1956,-0.01,31e5,2000 Frederiksberg,28181,2016-05-23,Alm. Salg
+"Rådmand Steins Alle 13, 6. th",4,Lejlighed,97,1956,-0.02,2945e3,2000 Frederiksberg,30360,2016-05-23,Alm. Salg
+"Bernhard Bangs Alle 1, 5. th",3,Lejlighed,91,1973,0,35e5,2000 Frederiksberg,38461,2016-05-23,Alm. Salg
+"Ved Andebakken 6, st. tv",2,Lejlighed,59,1941,0,2295e3,2000 Frederiksberg,38898,2016-05-22,Alm. Salg
+"H.V. Nyholms Vej 2, 1. 1",2,Lejlighed,105,2008,4.38,22565280,2000 Frederiksberg,214907,2016-05-20,Andet
+"C.F. Richs Vej 146, st. tv",4,Lejlighed,80,1937,0.02,2646041,2000 Frederiksberg,33075,2016-05-20,Alm. Salg
+"Duevej 58, 2. th",4,Lejlighed,92,1932,-0.01,345e4,2000 Frederiksberg,37500,2016-05-20,Alm. Salg
+"Falkoner Alle 61, 3. th",2,Lejlighed,59,1898,NA,1333e3,2000 Frederiksberg,22593,2016-05-20,Fam. Salg
+"Kong Georgs Vej 4, 1. th",3,Lejlighed,82,1898,-0.04,3225e3,2000 Frederiksberg,39329,2016-05-19,Alm. Salg
+"Kronprinsesse Sofies Vej 20, 1. 4",2,Lejlighed,60,1969,0,1995e3,2000 Frederiksberg,33250,2016-05-19,Alm. Salg
+"Kronprinsesse Sofies Vej 20, 4. 4",2,Lejlighed,60,1969,-0.04,21e5,2000 Frederiksberg,35e3,2016-05-19,Alm. Salg
+"Aksel Møllers Have 28, 4. tv",3,Lejlighed,71,1946,0,285e4,2000 Frederiksberg,40140,2016-05-19,Alm. Salg
+"C.F. Richs Vej 93, 3. tv",2,Lejlighed,69,1936,0,2295e3,2000 Frederiksberg,33260,2016-05-19,Alm. Salg
+"Ved Andebakken 2, 3. tv",2,Lejlighed,56,1941,0,2595e3,2000 Frederiksberg,46339,2016-05-19,Alm. Salg
+"Munkensvej 6, 4. th",2,Lejlighed,66,1908,NA,24e5,2000 Frederiksberg,36363,2016-05-19,Alm. Salg
+"Lyøvej 5, st. tv",2,Lejlighed,60,1932,NA,1322500,2000 Frederiksberg,22041,2016-05-18,Fam. Salg
+"Mathildevej 14A, 2. th",2,Lejlighed,66,1909,0.04,2705e3,2000 Frederiksberg,40984,2016-05-18,Alm. Salg
+"Hospitalsvej 6, 2. tv",2,Lejlighed,50,1885,NA,125e4,2000 Frederiksberg,25e3,2016-05-18,Fam. Salg
+"Rolfsvej 16, 3. tv",2,Lejlighed,53,1891,0,2295e3,2000 Frederiksberg,43301,2016-05-18,Alm. Salg
+"Pelargonievej 2, 4. tv",3,Lejlighed,101,1963,-0.02,343e4,2000 Frederiksberg,33960,2016-05-18,Alm. Salg
+"Falkoner Alle 90, 2. 2",2,Lejlighed,68,1970,NA,18e5,2000 Frederiksberg,26470,2016-05-17,Fam. Salg
+"A.D. Jørgensens Vej 75, 1. 4",1,Lejlighed,31,1991,-0.09,105e4,2000 Frederiksberg,33870,2016-05-17,Alm. Salg
+"Howitzvej 15, 1. 9",2,Lejlighed,87,1977,0,3795e3,2000 Frederiksberg,43620,2016-05-17,Alm. Salg
+"Folkvarsvej 28, st. th",2,Lejlighed,46,1887,0,2095e3,2000 Frederiksberg,45543,2016-05-17,Alm. Salg
+"Holger Danskes Vej 12, 2. tv",2,Lejlighed,46,1885,-0.02,1765e3,2000 Frederiksberg,38369,2016-05-16,Alm. Salg
+"Elga Olgas Vej 1, 2. tv",4,Lejlighed,134,2008,NA,4895e3,2000 Frederiksberg,36529,2016-05-13,Alm. Salg
+"Mariendalsvej 11, 4. mf",2,Lejlighed,68,1936,-0.02,245e4,2000 Frederiksberg,36029,2016-05-13,Alm. Salg
+"Nitivej 20, 4. mf",2,Lejlighed,65,1997,NA,2702e3,2000 Frederiksberg,41569,2016-05-13,Alm. Salg
+"Godthåbsvej 133, 3. tv",4,Lejlighed,116,1934,-0.09,3555e3,2000 Frederiksberg,30646,2016-05-13,Alm. Salg
+"Langelandsvej 6, 3. tv",3,Lejlighed,98,1895,-0.03,375e4,2000 Frederiksberg,38265,2016-05-12,Alm. Salg
+"Nitivej 16, 4. tv",3,Lejlighed,85,1997,NA,34e5,2000 Frederiksberg,4e4,2016-05-12,Alm. Salg
+"Søndre Fasanvej 87D, 5. 1",2,Lejlighed,61,1991,0,2175e3,2000 Frederiksberg,35655,2016-05-12,Alm. Salg
+"Dronning Olgas Vej 57B, 2. tv",3,Lejlighed,97,1902,-0.04,341e4,2000 Frederiksberg,35154,2016-05-11,Alm. Salg
+"C.F. Richs Vej 100, 2. tv",3,Lejlighed,73,1936,-0.05,219e4,2000 Frederiksberg,3e4,2016-05-11,Alm. Salg
+"Bernhard Bangs Alle 15B, 3. tv",3,Lejlighed,91,1973,-0.02,295e4,2000 Frederiksberg,32417,2016-05-10,Alm. Salg
+"Nordre Fasanvej 33B, st. tv",5,Lejlighed,135,1930,-0.03,4075e3,2000 Frederiksberg,30185,2016-05-10,Alm. Salg
+"Rådmand Steins Alle 11, 1. tv",3,Lejlighed,110,1956,0.02,3245e3,2000 Frederiksberg,29500,2016-05-10,Alm. Salg
+"Langelands Plads 4, 2. th",3,Lejlighed,67,1900,-0.01,315e4,2000 Frederiksberg,47014,2016-05-10,Alm. Salg
+"Sprogøvej 7, 4. tv",4,Lejlighed,100,1982,-0.05,4e6,2000 Frederiksberg,4e4,2016-05-10,Alm. Salg
+"H.V. Nyholms Vej 2, 2. 2",4,Lejlighed,105,2008,-0.03,428e4,2000 Frederiksberg,40761,2016-05-09,Alm. Salg
+"Rådmand Steins Alle 33, 6. 65",2,Lejlighed,74,1970,0,2195e3,2000 Frederiksberg,29662,2016-05-08,Alm. Salg
+"Bentzonsvej 8, st. tv",3,Lejlighed,70,1904,0,3195e3,2000 Frederiksberg,45642,2016-05-08,Alm. Salg
+"Mariendalsvej 28, st. th",4,Lejlighed,127,1898,-0.01,68e5,2000 Frederiksberg,53543,2016-05-07,Alm. Salg
+"Langelandsvej 41, 2. tv",3,Lejlighed,68,1898,-0.01,2975e3,2000 Frederiksberg,43750,2016-05-06,Alm. Salg
+"Yrsavej 9, 2. th",3,Lejlighed,67,1885,NA,3295e3,2000 Frederiksberg,49179,2016-05-06,Alm. Salg
+Porcelænshaven 10A,3,Lejlighed,71,1919,0,3995e3,2000 Frederiksberg,56267,2016-05-05,Alm. Salg
+"Nordre Fasanvej 180, 2. th",3,Lejlighed,80,1934,0,2995e3,2000 Frederiksberg,37437,2016-05-05,Alm. Salg
+"Normasvej 39, st. tv",4,Lejlighed,89,1936,-0.03,3e6,2000 Frederiksberg,33707,2016-05-05,Alm. Salg
+"Vagtelvej 65, 1. tv",3,Lejlighed,84,1969,-0.06,2525e3,2000 Frederiksberg,30059,2016-05-04,Alm. Salg
+"Duevej 56, 2. tv",2,Lejlighed,64,1932,NA,1582e3,2000 Frederiksberg,24718,2016-05-04,Fam. Salg
+"Nordre Fasanvej 165, 5. th",2,Lejlighed,55,1900,0.05,21e5,2000 Frederiksberg,38181,2016-05-03,Alm. Salg
+"Nimbusparken 9, 2. 3",4,Lejlighed,109,2005,NA,4695e3,2000 Frederiksberg,43073,2016-05-03,Alm. Salg
+"Nyelandsvej 73, 1. 1",2,Lejlighed,80,1957,-0.01,2675e3,2000 Frederiksberg,33437,2016-05-02,Alm. Salg
+"C.F. Richs Vej 152, 2. th",2,Lejlighed,46,1935,0,139e4,2000 Frederiksberg,30217,2016-05-02,Alm. Salg
+"Nimbusparken 5, 2. 3",4,Lejlighed,109,2005,NA,4695e3,2000 Frederiksberg,43073,2016-05-02,Alm. Salg
+"Prins Constantins Vej 7, st. th",2,Lejlighed,71,1936,-0.04,22e5,2000 Frederiksberg,30985,2016-05-02,Alm. Salg
+"Nimbusparken 9, 3. 1",4,Lejlighed,109,2005,NA,4695e3,2000 Frederiksberg,43073,2016-05-02,Alm. Salg
+"Frederik VIs Alle 4, 4. th",4,Lejlighed,106,1905,-0.05,56e5,2000 Frederiksberg,52830,2016-04-30,Alm. Salg
+"Godthåbsvej 17, 3. th",4,Lejlighed,105,1883,NA,445e4,2000 Frederiksberg,42380,2016-04-30,Alm. Salg
+"Nimbusparken 5, 2. 4",4,Lejlighed,109,2005,0.01,443e4,2000 Frederiksberg,40642,2016-04-29,Alm. Salg
+"C.F. Richs Vej 110, 3. th",3,Lejlighed,68,1937,-0.03,2175e3,2000 Frederiksberg,31985,2016-04-29,Alm. Salg
+"Nimbusparken 7, 1. 2",4,Lejlighed,109,2005,0,4675e3,2000 Frederiksberg,42889,2016-04-28,Alm. Salg
+"Nitivej 20, 2. mf",2,Lejlighed,65,1997,0,2595e3,2000 Frederiksberg,39923,2016-04-28,Alm. Salg
+"Finsensvej 36A, st. tv",3,Lejlighed,86,1979,0,2998e3,2000 Frederiksberg,34860,2016-04-28,Alm. Salg
+"Grøndalsvej 8, 1. tv",4,Lejlighed,107,1934,-0.03,41e5,2000 Frederiksberg,38317,2016-04-27,Alm. Salg
+"Pelargonievej 1, st. tv",4,Lejlighed,98,1989,-0.05,285e4,2000 Frederiksberg,29081,2016-04-27,Alm. Salg
+"Godthåbsvej 137, 4. th",3,Lejlighed,78,1934,-0.05,305e4,2000 Frederiksberg,39102,2016-04-27,Alm. Salg
+"Stockflethsvej 5, 3",4,Lejlighed,123,1938,-0.02,6375e3,2000 Frederiksberg,51829,2016-04-26,Alm. Salg
+"Duevej 58, 4. th",3,Lejlighed,92,1932,-0.05,34e5,2000 Frederiksberg,36956,2016-04-26,Alm. Salg
+"Kilevej 6, 4. tv",4,Lejlighed,182,2009,-0.04,795e4,2000 Frederiksberg,43681,2016-04-26,Alm. Salg
+"Duevej 113, 3. tv",3,Lejlighed,97,1958,0,3295e3,2000 Frederiksberg,33969,2016-04-25,Alm. Salg
+"Nimbusparken 7, 2. 3",4,Lejlighed,109,2005,0,4695e3,2000 Frederiksberg,43073,2016-04-25,Alm. Salg
+"C.F. Richs Vej 98, 3. th",2,Lejlighed,61,1936,-0.03,1745e3,2000 Frederiksberg,28606,2016-04-25,Alm. Salg
+"Dalgas Boulevard 91, 4. tv",4,Lejlighed,103,1932,0.03,3826257,2000 Frederiksberg,37148,2016-04-24,Alm. Salg
+"C.F. Richs Vej 142, 2. tv",4,Lejlighed,81,1937,-0.02,24e5,2000 Frederiksberg,29629,2016-04-24,Alm. Salg
+"Solvej 2, st. th",5,Lejlighed,142,1902,-0.02,5137500,2000 Frederiksberg,36179,2016-04-24,Alm. Salg
+"Ane Katrines Vej 18, 1. 4",2,Lejlighed,47,1932,-0.01,172e4,2000 Frederiksberg,36595,2016-04-24,Alm. Salg
+"Langelandsvej 49B, 3. tv",3,Lejlighed,65,1897,0,3095e3,2000 Frederiksberg,47615,2016-04-24,Alm. Salg
+"A.D. Jørgensens Vej 75, 2. 3",1,Lejlighed,31,1991,-0.02,83e4,2000 Frederiksberg,26774,2016-04-24,Alm. Salg
+"Pelargonievej 2, 4. th",2,Lejlighed,65,1963,-0.04,202e4,2000 Frederiksberg,31076,2016-04-24,Alm. Salg
+"Aksel Møllers Have 30, 2. tv",2,Lejlighed,63,1946,0,225e4,2000 Frederiksberg,35714,2016-04-23,Alm. Salg
+"Borgmester Fischers Vej 5C, st. 3",2,Lejlighed,61,2001,NA,1685e3,2000 Frederiksberg,27622,2016-04-21,Alm. Salg
+"Porcelænshaven 4D, 3. mf",3,Lejlighed,89,2007,0.03,5435e3,2000 Frederiksberg,61067,2016-04-21,Alm. Salg
+"Finsensvej 47A, 1. 105",1,Lejlighed,59,1961,NA,1216125,2000 Frederiksberg,20612,2016-04-21,Fam. Salg
+"Duevej 120B, st",3,Lejlighed,61,1917,NA,293e4,2000 Frederiksberg,48032,2016-04-21,Alm. Salg
+"Munkensvej 9, st. th",2,Lejlighed,65,1913,0,2145e3,2000 Frederiksberg,33e3,2016-04-20,Alm. Salg
+"Nordre Fasanvej 167, 1. th",3,Lejlighed,66,1900,0.01,2525e3,2000 Frederiksberg,38257,2016-04-20,Alm. Salg
+"Rolfsvej 14, 4. th",1,Lejlighed,50,1891,-0.02,216e4,2000 Frederiksberg,43200,2016-04-20,Alm. Salg
+"Dirch Passers Allé 11, 1. tv",3,Lejlighed,99,2008,-0.02,371e4,2000 Frederiksberg,37474,2016-04-19,Alm. Salg
+"Nyelandsvej 83, 3. th",5,Lejlighed,127,1905,-0.07,425e4,2000 Frederiksberg,33464,2016-04-19,Alm. Salg
+"Porcelænshaven 5A, 3. th",3,Lejlighed,146,2006,NA,8795e3,2000 Frederiksberg,60239,2016-04-19,Alm. Salg
+"Mariendalsvej 26, 1. th",2,Lejlighed,66,1962,-0.01,2275e3,2000 Frederiksberg,34469,2016-04-19,Alm. Salg
+"Roskildevej 98, 1. mf",2,Lejlighed,60,1953,0,1795e3,2000 Frederiksberg,29916,2016-04-18,Alm. Salg
+"Nimbusparken 1, 4. 4",2,Lejlighed,81,2004,0,3498e3,2000 Frederiksberg,43185,2016-04-18,Alm. Salg
+"Godthåbsvej 37, 2. th",2,Lejlighed,69,1943,0.03,2612e3,2000 Frederiksberg,37855,2016-04-18,Alm. Salg
+"Wilkensvej 8, 5. th",2,Lejlighed,63,1981,0.07,2456e3,2000 Frederiksberg,38984,2016-04-17,Alm. Salg
+"Frederiksvej 10, st. th",3,Lejlighed,75,1885,-0.03,2995e3,2000 Frederiksberg,39933,2016-04-17,Alm. Salg
+"Frederik VIs Alle 10, 1. th",6,Lejlighed,159,1905,NA,82e5,2000 Frederiksberg,51572,2016-04-16,Alm. Salg
+"Borgmester Fischers Vej 5C, 2. 3",2,Lejlighed,61,2001,-0.03,1735e3,2000 Frederiksberg,28442,2016-04-15,Alm. Salg
+"Nordre Fasanvej 60, 1. 12",2,Lejlighed,62,1974,NA,22e5,2000 Frederiksberg,35483,2016-04-15,Alm. Salg
+"Marielystvej 4B, st. th",4,Lejlighed,102,1934,0.04,47e5,2000 Frederiksberg,46078,2016-04-15,Alm. Salg
+"Porcelænshaven 4F, st. tv",4,Lejlighed,93,2007,-0.01,435e4,2000 Frederiksberg,46774,2016-04-15,Alm. Salg
+"Nimbusparken 7, 2. 2",4,Lejlighed,109,2005,NA,4695e3,2000 Frederiksberg,43073,2016-04-15,Alm. Salg
+"Falkoner Alle 33, 3. th",3,Lejlighed,75,1888,NA,3495e3,2000 Frederiksberg,46600,2016-04-15,Alm. Salg
+"C.F. Richs Vej 92, 1. tv",4,Lejlighed,107,1936,-0.01,345e4,2000 Frederiksberg,32242,2016-04-15,Alm. Salg
+"Duevej 118, 4. tv",2,Lejlighed,62,1917,-0.05,2e6,2000 Frederiksberg,32258,2016-04-15,Alm. Salg
+"Rådmand Steins Alle 1, 2. th",3,Lejlighed,82,1953,-0.02,24e5,2000 Frederiksberg,29268,2016-04-15,Alm. Salg
+"Nordre Fasanvej 93, 3. th",3,Lejlighed,95,2005,-0.02,362e4,2000 Frederiksberg,38105,2016-04-14,Alm. Salg
+"Nimbusparken 1, st. 1",3,Lejlighed,130,2004,-0.03,58e5,2000 Frederiksberg,44615,2016-04-14,Alm. Salg
+"Borups Alle 103, 1. th",4,Lejlighed,101,1932,-0.06,3e6,2000 Frederiksberg,29702,2016-04-14,Alm. Salg
+"Kongensvej 9, st",6,Lejlighed,137,1883,0,69e5,2000 Frederiksberg,50364,2016-04-13,Alm. Salg
+"Borgmester Fischers Vej 5A, st. 2",3,Lejlighed,99,2001,-0.03,2995e3,2000 Frederiksberg,30252,2016-04-13,Alm. Salg
+"Wilkensvej 9, st. tv",2,Lejlighed,70,1972,0,2495e3,2000 Frederiksberg,35642,2016-04-12,Alm. Salg
+"Vagtelvej 59, 4. th",3,Lejlighed,84,1969,0,2995e3,2000 Frederiksberg,35654,2016-04-12,Alm. Salg
+"Søndre Fasanvej 87B, st. 1",3,Lejlighed,86,1991,-0.02,295e4,2000 Frederiksberg,34302,2016-04-12,Alm. Salg
+"Søndre Fasanvej 87C, 1. 2",4,Lejlighed,94,1991,-0.01,345e4,2000 Frederiksberg,36702,2016-04-12,Alm. Salg
+"Peter Bangs Vej 47, 2. tv",4,Lejlighed,117,1972,0.01,354e4,2000 Frederiksberg,30256,2016-04-12,Alm. Salg
+"Falkoner Alle 44, 2. tv",3,Lejlighed,100,1914,-0.08,395e4,2000 Frederiksberg,39500,2016-04-11,Alm. Salg
+"Borups Alle 113, 2. m",3,Lejlighed,100,1972,-0.03,3e6,2000 Frederiksberg,3e4,2016-04-11,Alm. Salg
+"Frederik VIs Alle 8, 3. th",4,Lejlighed,117,1904,NA,2762500,2000 Frederiksberg,23611,2016-04-11,Fam. Salg
+"Bentzonsvej 8, 3. th",3,Lejlighed,78,1904,NA,2482e3,2000 Frederiksberg,31820,2016-04-11,Fam. Salg
+"Bispeengen 9, 2. th",2,Lejlighed,68,1914,NA,75e3,2000 Frederiksberg,1102,2016-04-11,Alm. Salg
+"Frederik VIs Alle 3, 1. th",4,Lejlighed,100,1905,0,485e4,2000 Frederiksberg,48500,2016-04-10,Alm. Salg
+"Mariendalsvej 70, 2. tv",3,Lejlighed,99,1930,NA,38e5,2000 Frederiksberg,38383,2016-04-10,Fam. Salg
+"Grøndalsvej 16, st. th",3,Lejlighed,94,1930,-0.03,505e4,2000 Frederiksberg,53723,2016-04-10,Alm. Salg
+"Ewaldsensvej 12, 1. tv",2,Lejlighed,66,1937,-0.05,18e5,2000 Frederiksberg,27272,2016-04-09,Alm. Salg
+"Bispeengen 21, 4. th",4,Lejlighed,123,1913,-0.01,405e4,2000 Frederiksberg,32926,2016-04-08,Alm. Salg
+"Hospitalsvej 6, 2. th",2,Lejlighed,48,1885,0,2495e3,2000 Frederiksberg,51979,2016-04-08,Alm. Salg
+"P. Andersens Vej 1, 1. tv",3,Lejlighed,93,1901,0,3595e3,2000 Frederiksberg,38655,2016-04-07,Alm. Salg
+"Roskildevej 96, st. tv",3,Lejlighed,85,1953,-0.07,205e4,2000 Frederiksberg,24117,2016-04-07,Alm. Salg
+"C.F. Richs Vej 148, 2. tv",2,Lejlighed,60,1935,-0.05,1595e3,2000 Frederiksberg,26583,2016-04-07,Alm. Salg
+"Bernhard Bangs Alle 4, 1. 30",2,Lejlighed,90,1960,-0.04,2631625,2000 Frederiksberg,29240,2016-04-07,Alm. Salg
+"Ewaldsensvej 10, 3. tv",2,Lejlighed,64,1937,NA,11e5,2000 Frederiksberg,17187,2016-04-07,Fam. Salg
+Allegade 23D,5,Lejlighed,156,1890,0,6395e3,2000 Frederiksberg,40993,2016-04-07,Alm. Salg
+"C.F. Richs Vej 96, st. tv",2,Lejlighed,62,1936,-0.03,17e5,2000 Frederiksberg,27419,2016-04-06,Alm. Salg
+"Howitzvej 15, 2. 12",3,Lejlighed,97,1977,-0.03,455e4,2000 Frederiksberg,46907,2016-04-06,Alm. Salg
+"Dirch Passers Allé 9, 2. tv",3,Lejlighed,98,2008,0,3795e3,2000 Frederiksberg,38724,2016-04-06,Alm. Salg
+"Borups Alle 150A, 1. tv",4,Lejlighed,126,1918,NA,445e4,2000 Frederiksberg,35317,2016-04-06,Alm. Salg
+"Duevej 46, 4. th",3,Lejlighed,70,1932,NA,2825e3,2000 Frederiksberg,40357,2016-04-05,Alm. Salg
+"Nordre Fasanvej 28, 1. th",3,Lejlighed,72,1901,0.02,2795e3,2000 Frederiksberg,38819,2016-04-05,Alm. Salg
+"Vagtelvej 57, 4. tv",3,Lejlighed,87,1969,-0.04,2685e3,2000 Frederiksberg,30862,2016-04-04,Alm. Salg
+"Howitzvej 61, 4. tv",2,Lejlighed,61,1902,0.06,285e4,2000 Frederiksberg,46721,2016-04-04,Alm. Salg
+"Duevej 56, 2. th",3,Lejlighed,75,1932,0.05,2975e3,2000 Frederiksberg,39666,2016-04-04,Alm. Salg
+"Fuglebakkevej 92, 3. 4",2,Lejlighed,59,1970,0,1849e3,2000 Frederiksberg,31338,2016-04-04,Alm. Salg
+"Smallegade 39, 3. th",2,Lejlighed,64,1888,0.05,282e4,2000 Frederiksberg,44062,2016-04-01,Alm. Salg
+"Nitivej 20, st. mf",2,Lejlighed,65,1997,0,265e4,2000 Frederiksberg,40769,2016-04-01,Alm. Salg
+"Duevej 114, 1. th",2,Lejlighed,65,1917,NA,225e4,2000 Frederiksberg,34615,2016-04-01,Alm. Salg
+"Finsensvej 47A, 2. 204",2,Lejlighed,60,1961,NA,977500,2000 Frederiksberg,16291,2016-04-01,Fam. Salg
+"Ewaldsensvej 10, 4. th",2,Lejlighed,64,1937,NA,155e4,2000 Frederiksberg,24218,2016-03-31,Fam. Salg
+"Munkensvej 9, 4. tv",2,Lejlighed,65,1913,0,2095e3,2000 Frederiksberg,32230,2016-03-31,Alm. Salg
+"Holger Danskes Vej 102, st. mf",2,Lejlighed,68,2005,-0.04,24e5,2000 Frederiksberg,35294,2016-03-31,Alm. Salg
+"Mariendalsvej 12A, 4. tv",4,Lejlighed,91,1938,-0.03,34e5,2000 Frederiksberg,37362,2016-03-31,Alm. Salg
+"Godthåbsvej 17, 4",3,Lejlighed,162,1883,-0.04,5775e3,2000 Frederiksberg,35648,2016-03-31,Alm. Salg
+"Bernhard Bangs Alle 22, 2. tv",5,Lejlighed,122,1929,0,451e4,2000 Frederiksberg,36967,2016-03-30,Alm. Salg
+"Langelandsvej 13, 5. th",3,Lejlighed,59,1899,0,24e5,2000 Frederiksberg,40677,2016-03-30,Alm. Salg
+"Roskildevej 122, 5. th",3,Lejlighed,78,1953,0,2301e3,2000 Frederiksberg,29500,2016-03-30,Alm. Salg
+"Dirch Passers Allé 15, 4. tv",3,Lejlighed,99,2008,-0.02,3825e3,2000 Frederiksberg,38636,2016-03-29,Alm. Salg
+"C.F. Richs Vej 134, st. tv",2,Lejlighed,57,1937,NA,1385e3,2000 Frederiksberg,24298,2016-03-29,Alm. Salg
+"C.F. Richs Vej 150, 2. th",2,Lejlighed,57,1935,0.02,163e4,2000 Frederiksberg,28596,2016-03-29,Alm. Salg
+"Mariendalsvej 65, st. th",3,Lejlighed,65,1932,0,2495e3,2000 Frederiksberg,38384,2016-03-29,Alm. Salg
+"Godthåbsvej 35, 1. tv",2,Lejlighed,67,1943,NA,1565500,2000 Frederiksberg,23365,2016-03-29,Fam. Salg
+"Lyøvej 20, 3. tv",4,Lejlighed,101,1979,-0.01,433e4,2000 Frederiksberg,42871,2016-03-27,Alm. Salg
+"Rolfsvej 14, st. th",2,Lejlighed,53,1891,0.01,231e4,2000 Frederiksberg,43584,2016-03-25,Alm. Salg
+"Finsensvej 47A, 2. 203",2,Lejlighed,60,1961,-0.06,1875e3,2000 Frederiksberg,31250,2016-03-24,Alm. Salg
+"Ane Katrines Vej 14, st. 3",2,Lejlighed,51,1932,NA,11e5,2000 Frederiksberg,21568,2016-03-23,Alm. Salg
+"Nyelandsvej 4, 2. tv",4,Lejlighed,85,1890,-0.04,345e4,2000 Frederiksberg,40588,2016-03-23,Alm. Salg
+"Drosselvej 57D, st. mf",3,Lejlighed,117,1913,-0.02,536e4,2000 Frederiksberg,45811,2016-03-23,Alm. Salg
+"Aksel Møllers Have 24, 2. th",4,Lejlighed,91,1946,-0.04,325e4,2000 Frederiksberg,35714,2016-03-21,Alm. Salg
+"Godthåbsvænget 5, 4. th",4,Lejlighed,114,1981,0.01,4621e3,2000 Frederiksberg,40535,2016-03-21,Alm. Salg
+"Mariendalsvej 70, 2. th",3,Lejlighed,102,1930,-0.02,42e5,2000 Frederiksberg,41176,2016-03-20,Alm. Salg
+"Ved Andebakken 8, 3. th",2,Lejlighed,59,1941,-0.03,26e5,2000 Frederiksberg,44067,2016-03-18,Alm. Salg
+"Roarsvej 19, 3. tv",2,Lejlighed,55,1890,NA,2395e3,2000 Frederiksberg,43545,2016-03-18,Alm. Salg
+"Holger Danskes Vej 32, 4. 4",3,Lejlighed,107,2011,-0.07,495e4,2000 Frederiksberg,46261,2016-03-18,Alm. Salg
+A.D. Jørgensens Vej 31,3,Lejlighed,86,1991,NA,3325e3,2000 Frederiksberg,38662,2016-03-17,Alm. Salg
+"H. Schneekloths Vej 5, 2. th",3,Lejlighed,86,1933,NA,19e5,2000 Frederiksberg,22093,2016-03-17,Fam. Salg
+"Dirch Passers Allé 13, 3. th",3,Lejlighed,95,2008,0,3795e3,2000 Frederiksberg,39947,2016-03-16,Alm. Salg
+"Nordre Fasanvej 163, 1. tv",2,Lejlighed,59,1900,0.01,231e4,2000 Frederiksberg,39152,2016-03-16,Alm. Salg
+"Holger Danskes Vej 102, 2. 3",2,Lejlighed,68,2005,0.01,261e4,2000 Frederiksberg,38382,2016-03-16,Alm. Salg
+"C.F. Richs Vej 85, 2. th",2,Lejlighed,73,1936,-0.02,246e4,2000 Frederiksberg,33698,2016-03-16,Alm. Salg
+"Dronning Olgas Vej 51, 1. tv",5,Lejlighed,134,1903,-0.07,4625e3,2000 Frederiksberg,34514,2016-03-16,Alm. Salg
+"Ane Katrines Vej 32, 4. th",2,Lejlighed,59,1932,-0.02,195e4,2000 Frederiksberg,33050,2016-03-16,Alm. Salg
+"Bispeengen 17, st. th",4,Lejlighed,88,1913,-0.03,2705e3,2000 Frederiksberg,30738,2016-03-15,Alm. Salg
+"Camilla Nielsens Vej 3, 1. tv",3,Lejlighed,86,1953,NA,245e4,2000 Frederiksberg,28488,2016-03-15,Alm. Salg
+"Wilkensvej 7, 2. tv",3,Lejlighed,93,1972,0,2995e3,2000 Frederiksberg,32204,2016-03-14,Alm. Salg
+"Folkvarsvej 28, 4. th",2,Lejlighed,46,1887,0,2098e3,2000 Frederiksberg,45608,2016-03-14,Alm. Salg
+"Vagtelvej 55, 1. tv",3,Lejlighed,99,1969,0.02,3045e3,2000 Frederiksberg,30757,2016-03-14,Alm. Salg
+"Vagtelvej 55, 3. th",4,Lejlighed,107,1969,NA,1133333,2000 Frederiksberg,10591,2016-03-14,Fam. Salg
+"Rolfsvej 16, 1. tv",2,Lejlighed,53,1891,NA,118e4,2000 Frederiksberg,22264,2016-03-14,Fam. Salg
+"Vagtelvej 69, st. th",3,Lejlighed,85,1969,-0.05,255e4,2000 Frederiksberg,3e4,2016-03-14,Alm. Salg
+"Howitzvej 45, 1. tv",3,Lejlighed,100,2002,-0.02,52e5,2000 Frederiksberg,52e3,2016-03-14,Alm. Salg
+"Smallegade 26B, 4. th",2,Lejlighed,61,1941,0.02,2645e3,2000 Frederiksberg,43360,2016-03-14,Alm. Salg
+"Folkvarsvej 31, st",5,Lejlighed,128,1887,-0.01,237e4,2000 Frederiksberg,18515,2016-03-14,Alm. Salg
+"Munkensvej 1, 4. tv",2,Lejlighed,64,1913,0,2485e3,2000 Frederiksberg,38828,2016-03-13,Alm. Salg
+"Søndre Fasanvej 87C, 4. 1",2,Lejlighed,59,1991,0,2095e3,2000 Frederiksberg,35508,2016-03-11,Alm. Salg
+"Finsensvej 75, st. tv",3,Lejlighed,80,1926,-0.02,2361500,2000 Frederiksberg,29518,2016-03-10,Alm. Salg
+"Guldborgvej 36, 2. 7",2,Lejlighed,94,1974,-0.03,29e5,2000 Frederiksberg,30851,2016-03-10,Alm. Salg
+"Mathildevej 24, st. th",2,Lejlighed,66,1903,0.03,2512e3,2000 Frederiksberg,38060,2016-03-10,Alm. Salg
+"Munkensvej 2, st",3,Lejlighed,99,1908,0,2995e3,2000 Frederiksberg,30252,2016-03-10,Alm. Salg
+"Bernhard Bangs Alle 7, 1. tv",3,Lejlighed,88,1973,NA,661e3,2000 Frederiksberg,7511,2016-03-10,Fam. Salg
+"Nordre Fasanvej 157, 4. th",2,Lejlighed,56,1904,-0.05,19e5,2000 Frederiksberg,33928,2016-03-10,Alm. Salg
+"Bernhard Bangs Alle 55, 2. th",2,Lejlighed,71,1936,NA,1147500,2000 Frederiksberg,16161,2016-03-09,Fam. Salg
+"Nordre Fasanvej 186A, 3. th",3,Lejlighed,75,1948,0,2195e3,2000 Frederiksberg,29266,2016-03-09,Alm. Salg
+"Jyllandsvej 12A, 2. th",2,Lejlighed,58,1939,NA,2075e3,2000 Frederiksberg,35775,2016-03-09,Fam. Salg
+"Normasvej 39, st. th",3,Lejlighed,93,1936,-0.02,3225e3,2000 Frederiksberg,34677,2016-03-09,Alm. Salg
+"Johannes V. Jensens Alle 54, 2. tv",5,Lejlighed,187,1971,0,6295e3,2000 Frederiksberg,33663,2016-03-08,Alm. Salg
+"P. Andersens Vej 1, st. tv",4,Lejlighed,93,1901,-0.04,305e4,2000 Frederiksberg,32795,2016-03-08,Alm. Salg
+"Nordre Fasanvej 95B, 2. tv",3,Lejlighed,65,1900,-0.02,22e5,2000 Frederiksberg,33846,2016-03-08,Alm. Salg
+"Nyelandsvej 3, 1. th",4,Lejlighed,86,1889,0.01,3545e3,2000 Frederiksberg,41220,2016-03-08,Alm. Salg
+"Finsensvej 13B, 5. tv",5,Lejlighed,122,1969,-0.02,42e5,2000 Frederiksberg,34426,2016-03-08,Alm. Salg
+"Johannes V. Jensens Alle 46, 2. th",5,Lejlighed,187,1971,NA,79e5,2000 Frederiksberg,42245,2016-03-07,Alm. Salg
+"Dalgas Boulevard 87, 2. tv",2,Lejlighed,67,1932,-0.04,22e5,2000 Frederiksberg,32835,2016-03-06,Alm. Salg
+"Frøbels Alle 1, 1. th",3,Lejlighed,75,1937,NA,1719747,2000 Frederiksberg,22929,2016-03-06,Alm. Salg
+"Lyøvej 9, 2. th",2,Lejlighed,62,1932,0,2595e3,2000 Frederiksberg,41854,2016-03-05,Alm. Salg
+"Frederiksvej 38, 2. tv",2,Lejlighed,57,1904,0.01,242e4,2000 Frederiksberg,42456,2016-03-05,Alm. Salg
+"Nimbusparken 13, 3. tv",4,Lejlighed,100,1955,0,502e4,2000 Frederiksberg,50200,2016-03-04,Alm. Salg
+"Porcelænshaven 4B, 1. tv",4,Lejlighed,93,2007,0,4995e3,2000 Frederiksberg,53709,2016-03-04,Alm. Salg
+"Godthåbsvej 119, 2. th",2,Lejlighed,93,1932,0,3805e3,2000 Frederiksberg,40913,2016-03-03,Alm. Salg
+A.D. Jørgensens Vej 33,3,Lejlighed,86,1991,-0.02,3315e3,2000 Frederiksberg,38546,2016-03-03,Alm. Salg
+"Duevej 46, 2. th",3,Lejlighed,70,1932,-0.03,27e5,2000 Frederiksberg,38571,2016-03-03,Alm. Salg
+"Falkoner Alle 57, 4. tv",4,Lejlighed,111,1898,-0.02,4505e3,2000 Frederiksberg,40585,2016-03-03,Alm. Salg
+"Ærøvej 7, 3. tv",2,Lejlighed,76,1920,0.04,2702e3,2000 Frederiksberg,35552,2016-03-03,Alm. Salg
+"Munkensvej 12, st. tv",2,Lejlighed,77,1911,-0.02,2945e3,2000 Frederiksberg,38246,2016-03-02,Alm. Salg
+"Mathildevej 12, 4. tv",4,Lejlighed,119,1909,-0.01,47e5,2000 Frederiksberg,39495,2016-03-02,Alm. Salg
+"Aksel Møllers Have 20, 1. th",3,Lejlighed,79,1946,-0.01,298e4,2000 Frederiksberg,37721,2016-03-02,Alm. Salg
+"Nordre Fasanvej 14A, 4. th",3,Lejlighed,71,1903,-0.01,2565e3,2000 Frederiksberg,36126,2016-03-02,Alm. Salg
+"Nordre Fasanvej 16, 1. tv",3,Lejlighed,70,1901,NA,2995e3,2000 Frederiksberg,42785,2016-03-02,Alm. Salg
+"Nordre Fasanvej 39B, 3. tv",4,Lejlighed,102,1932,-0.01,4405e3,2000 Frederiksberg,43186,2016-03-02,Alm. Salg
+"Folkvarsvej 16, 3. tv",3,Lejlighed,56,1887,-0.01,246e4,2000 Frederiksberg,43928,2016-03-01,Alm. Salg
+"Vagtelvej 71, 4. mf",5,Lejlighed,115,1969,-0.03,316e4,2000 Frederiksberg,27478,2016-03-01,Alm. Salg
+"Bogøvej 6, 3. tv",3,Lejlighed,68,1900,NA,1317500,2000 Frederiksberg,19375,2016-03-01,Fam. Salg
+"Sprogøvej 7, 2. th",3,Lejlighed,92,1982,0,3695e3,2000 Frederiksberg,40163,2016-03-01,Alm. Salg
+"Duevej 120A, st. th",2,Lejlighed,62,1917,-0.02,25e5,2000 Frederiksberg,40322,2016-03-01,Alm. Salg
+"Ewaldsensvej 8, 3. tv",2,Lejlighed,64,1937,NA,102e4,2000 Frederiksberg,15937,2016-03-01,Fam. Salg
+"Falkoner Alle 54, 5. tv",2,Lejlighed,89,1900,-0.03,29e5,2000 Frederiksberg,32584,2016-02-29,Alm. Salg
+"Nordre Fasanvej 95A, 2",2,Lejlighed,45,1886,-0.03,148e4,2000 Frederiksberg,32888,2016-02-28,Alm. Salg
+"Rådmand Steins Alle 11, 6. tv",3,Lejlighed,91,1956,-0.07,278e4,2000 Frederiksberg,30549,2016-02-28,Alm. Salg
+"Ved Andebakken 10, 4. tv",2,Lejlighed,65,1941,NA,155e4,2000 Frederiksberg,23846,2016-02-28,Fam. Salg
+"Finsensvej 73, st. th",2,Lejlighed,62,1926,0,1856e3,2000 Frederiksberg,29935,2016-02-26,Alm. Salg
+"Nyelandsvej 77A, st. tv",3,Lejlighed,99,1900,0.02,3472e3,2000 Frederiksberg,35070,2016-02-26,Alm. Salg
+"Jyllandsvej 15, 1. tv",3,Lejlighed,96,1884,0,45e5,2000 Frederiksberg,46875,2016-02-26,Alm. Salg
+"Pelargonievej 11, 1",4,Lejlighed,99,1928,0,575e4,2000 Frederiksberg,58080,2016-02-25,Alm. Salg
+"Frederiksvej 1A, 3",4,Lejlighed,149,1897,0,4995e3,2000 Frederiksberg,33523,2016-02-25,Alm. Salg
+"Borups Alle 110, 4. th",2,Lejlighed,66,1908,-0.05,195e4,2000 Frederiksberg,29545,2016-02-25,Alm. Salg
+"Helgesvej 13, 3. tv",3,Lejlighed,65,1889,0.05,3245e3,2000 Frederiksberg,49923,2016-02-25,Alm. Salg
+"Aksel Møllers Have 30, st. th",2,Lejlighed,58,1946,-0.03,2325e3,2000 Frederiksberg,40086,2016-02-25,Alm. Salg
+"Falkoner Alle 90, 6. 3",2,Lejlighed,72,1970,-0.02,225e4,2000 Frederiksberg,31250,2016-02-25,Alm. Salg
+"Thurøvej 16, 4. th",3,Lejlighed,66,1914,0,2995e3,2000 Frederiksberg,45378,2016-02-25,Alm. Salg
+"Lyøvej 16, 4. tv",4,Lejlighed,101,1979,0,4245e3,2000 Frederiksberg,42029,2016-02-24,Alm. Salg
+"Wilkensvej 11, st. th",3,Lejlighed,86,1979,0,2998e3,2000 Frederiksberg,34860,2016-02-23,Alm. Salg
+"Frederiksvej 10, st. th",3,Lejlighed,75,1885,NA,2e6,2000 Frederiksberg,26666,2016-02-23,Fam. Salg
+"Godthåbsvej 35, 3. mf",2,Lejlighed,81,1943,-0.05,285e4,2000 Frederiksberg,35185,2016-02-23,Alm. Salg
+"Frøbels Alle 5, 2. th",2,Lejlighed,64,1937,-0.02,191e4,2000 Frederiksberg,29843,2016-02-22,Alm. Salg
+"Nordre Fasanvej 60, 2. 23",2,Lejlighed,61,1974,-0.02,2345e3,2000 Frederiksberg,38442,2016-02-22,Alm. Salg
+"Bernhard Bangs Alle 57, st. tv",2,Lejlighed,65,1936,0,1998e3,2000 Frederiksberg,30738,2016-02-22,Alm. Salg
+"Duevej 42, 2. tv",3,Lejlighed,70,1932,-0.04,26e5,2000 Frederiksberg,37142,2016-02-22,Alm. Salg
+"Vagtelvej 31, 4. th",4,Lejlighed,107,1969,-0.06,3e6,2000 Frederiksberg,28037,2016-02-22,Alm. Salg
+"Holger Danskes Vej 16, 4. th",2,Lejlighed,47,1885,NA,1099e3,2000 Frederiksberg,23382,2016-02-22,Fam. Salg
+"Mariendalsvej 10, 4. tv",2,Lejlighed,66,1938,0,2595e3,2000 Frederiksberg,39318,2016-02-21,Alm. Salg
+"Rådmand Steins Alle 13, 3. tv",3,Lejlighed,89,1956,0,2595e3,2000 Frederiksberg,29157,2016-02-21,Alm. Salg
+"Nordre Fasanvej 14A, 3. tv",3,Lejlighed,70,1903,-0.03,2525e3,2000 Frederiksberg,36071,2016-02-19,Alm. Salg
+"Godthåbsvej 133, st. tv",4,Lejlighed,94,1934,-0.03,265e4,2000 Frederiksberg,28191,2016-02-19,Alm. Salg
+"Bispeengen 19, 4. th",3,Lejlighed,75,1913,-0.09,2275e3,2000 Frederiksberg,30333,2016-02-18,Alm. Salg
+"Godthåbsvej 131, 1. tv",4,Lejlighed,88,1934,-0.02,285e4,2000 Frederiksberg,32386,2016-02-18,Alm. Salg
+"Nimbusparken 1, 1. 4",3,Lejlighed,87,2004,0,3545e3,2000 Frederiksberg,40747,2016-02-18,Alm. Salg
+"Søndre Fasanvej 87D, 4. 3",3,Lejlighed,87,1991,0,3195e3,2000 Frederiksberg,36724,2016-02-18,Alm. Salg
+"Falkoner Alle 110, 4. tv",5,Lejlighed,176,1900,-0.02,61e5,2000 Frederiksberg,34659,2016-02-17,Alm. Salg
+"Borups Alle 150A, 2. th",3,Lejlighed,100,1918,-0.01,384e4,2000 Frederiksberg,38400,2016-02-17,Alm. Salg
+"Howitzvej 15, 5. 27",3,Lejlighed,82,1977,-0.02,39e5,2000 Frederiksberg,47560,2016-02-16,Alm. Salg
+"Bentzonsvej 50A, 1. tv",3,Lejlighed,79,1898,0,325e4,2000 Frederiksberg,41139,2016-02-16,Alm. Salg
+"Aksel Møllers Have 26, 2. tv",2,Lejlighed,61,1946,0,2395e3,2000 Frederiksberg,39262,2016-02-16,Alm. Salg
+"Nitivej 18, 3. tv",3,Lejlighed,85,1997,NA,3555e3,2000 Frederiksberg,41823,2016-02-16,Alm. Salg
+"Stockflethsvej 7, 3. th",4,Lejlighed,107,1930,-0.01,3965e3,2000 Frederiksberg,37056,2016-02-16,Alm. Salg
+"Godthåbsvej 62D, 2. tv",2,Lejlighed,61,1897,NA,1232500,2000 Frederiksberg,20204,2016-02-15,Fam. Salg
+"Roskildevej 94, 2. tv",3,Lejlighed,85,1953,NA,231e4,2000 Frederiksberg,27176,2016-02-15,Alm. Salg
+"Bjarkesvej 13, 4. th",3,Lejlighed,62,1908,NA,2025e3,2000 Frederiksberg,32661,2016-02-15,Fam. Salg
+"Howitzvej 47, 4. th",3,Lejlighed,107,2002,-0.05,54e5,2000 Frederiksberg,50467,2016-02-15,Alm. Salg
+"Holger Danskes Vej 19, 2. th",2,Lejlighed,55,1887,-0.02,2555e3,2000 Frederiksberg,46454,2016-02-15,Alm. Salg
+"Frederik VIs Alle 1, 2. tv",5,Lejlighed,124,1905,0.02,565e4,2000 Frederiksberg,45564,2016-02-14,Alm. Salg
+"Pile Alle 5H, 1. th",3,Lejlighed,93,1975,0,406e4,2000 Frederiksberg,43655,2016-02-13,Alm. Salg
+"Godthåbsvej 62C, st. th",2,Lejlighed,67,1897,NA,1995e3,2000 Frederiksberg,29776,2016-02-13,Fam. Salg
+"Johannes V. Jensens Alle 50, 3. tv",6,Lejlighed,174,1971,-0.02,62e5,2000 Frederiksberg,35632,2016-02-12,Alm. Salg
+"Porcelænshaven 4C, 1. mf",3,Lejlighed,95,2007,-0.03,435e4,2000 Frederiksberg,45789,2016-02-12,Alm. Salg
+"Betty Nansens Alle 27, 4. th",3,Lejlighed,118,1976,NA,69e5,2000 Frederiksberg,58474,2016-02-12,Alm. Salg
+"Franckesvej 3, 2. tv",2,Lejlighed,40,1887,-0.01,1485e3,2000 Frederiksberg,37125,2016-02-11,Alm. Salg
+"Nimbusparken 9, 4. 4",4,Lejlighed,109,2005,NA,475e4,2000 Frederiksberg,43577,2016-02-11,Alm. Salg
+"Falkoner Alle 90, 3. 2",2,Lejlighed,68,1970,0.01,2277e3,2000 Frederiksberg,33485,2016-02-10,Alm. Salg
+"Preben Kaas Vænge 2, 1. th",4,Lejlighed,126,2008,-0.01,495e4,2000 Frederiksberg,39285,2016-02-10,Alm. Salg
+"Finsensvej 13A, 6. tv",2,Lejlighed,70,1969,0,2498e3,2000 Frederiksberg,35685,2016-02-08,Alm. Salg
+"Bispeengen 11, 1. tv",3,Lejlighed,72,1914,NA,15e5,2000 Frederiksberg,20833,2016-02-08,Alm. Salg
+"Franckesvej 5, 2. tv",2,Lejlighed,41,1887,0,15e5,2000 Frederiksberg,36585,2016-02-08,Alm. Salg
+"P. Andersens Vej 1, 4. th",3,Lejlighed,75,1901,0.02,29e5,2000 Frederiksberg,38666,2016-02-05,Alm. Salg
+"Nordre Fasanvej 37A, 2. tv",4,Lejlighed,109,1932,-0.02,44e5,2000 Frederiksberg,40366,2016-02-05,Alm. Salg
+"Søndre Fasanvej 87E, 2. 4",3,Lejlighed,87,1991,0,3095e3,2000 Frederiksberg,35574,2016-02-05,Alm. Salg
+"C.F. Richs Vej 110, 2. th",3,Lejlighed,68,1937,-0.04,1925e3,2000 Frederiksberg,28308,2016-02-05,Alm. Salg
+"Dirch Passers Allé 9, st. th",3,Lejlighed,86,2008,NA,3295e3,2000 Frederiksberg,38313,2016-02-05,Alm. Salg
+"Rådmand Steins Alle 13, 6. tv",3,Lejlighed,79,1956,-0.03,2475e3,2000 Frederiksberg,31329,2016-02-04,Alm. Salg
+"Bernhard Bangs Alle 2, st. 3",3,Lejlighed,104,1960,NA,873822,2000 Frederiksberg,8402,2016-02-04,Alm. Salg
+"Bernhard Bangs Alle 2, 3. 60",2,Lejlighed,63,1960,-0.02,205e4,2000 Frederiksberg,32539,2016-02-04,Alm. Salg
+"Duevej 118, 4. th",2,Lejlighed,62,1917,-0.07,205e4,2000 Frederiksberg,33064,2016-02-04,Alm. Salg
+"Betty Nansens Alle 47, 1. th",5,Lejlighed,151,1976,NA,53e5,2000 Frederiksberg,35099,2016-02-04,Alm. Salg
+"Mariendalsvej 10, st. tv",2,Lejlighed,66,1938,-0.02,215e4,2000 Frederiksberg,32575,2016-02-03,Alm. Salg
+"Nyelandsvej 5, st. tv",4,Lejlighed,87,1889,0,3392500,2000 Frederiksberg,38994,2016-02-03,Alm. Salg
+"Holger Danskes Vej 27B, st. th",3,Lejlighed,69,1902,0.08,215e4,2000 Frederiksberg,31159,2016-02-02,Alm. Salg
+"Ved Andebakken 10, 2. mf",3,Lejlighed,88,1941,-0.01,3645e3,2000 Frederiksberg,41420,2016-02-02,Alm. Salg
+"Søndre Fasanvej 87D, 1. 1",2,Lejlighed,59,1991,0,1995e3,2000 Frederiksberg,33813,2016-02-02,Alm. Salg
+"Ved Andebakken 5, st. th",1,Lejlighed,43,1941,0,1695e3,2000 Frederiksberg,39418,2016-01-31,Alm. Salg
+"Nordre Fasanvej 114, st. tv",2,Lejlighed,49,1897,-0.05,161e4,2000 Frederiksberg,32857,2016-01-31,Alm. Salg
+"Sprogøvej 27, 4. tv",4,Lejlighed,101,1980,NA,393e4,2000 Frederiksberg,38910,2016-01-30,Alm. Salg
+"Falkoner Alle 90, 3. 3",2,Lejlighed,72,1970,-0.04,216e4,2000 Frederiksberg,3e4,2016-01-30,Alm. Salg
+"Borups Alle 140, st. tv",3,Lejlighed,80,1932,NA,1105e3,2000 Frederiksberg,13812,2016-01-29,Fam. Salg
+"Langelandsvej 49A, 3. tv",3,Lejlighed,72,1897,0,32e5,2000 Frederiksberg,44444,2016-01-29,Alm. Salg
+"Søndre Fasanvej 87D, 2. 1",2,Lejlighed,59,1991,-0.09,1995e3,2000 Frederiksberg,33813,2016-01-29,Alm. Salg
+"Holger Danskes Vej 17, st. tv",2,Lejlighed,61,1887,-0.02,205e4,2000 Frederiksberg,33606,2016-01-29,Alm. Salg
+"Finsensvej 34, 2. 6",2,Lejlighed,67,1972,-0.03,18e5,2000 Frederiksberg,26865,2016-01-29,Alm. Salg
+"Langelandsvej 49A, 2. tv",3,Lejlighed,72,1897,0,3095e3,2000 Frederiksberg,42986,2016-01-28,Alm. Salg
+"Godthåbsvej 123, 4. tv",4,Lejlighed,143,1932,-0.03,485e4,2000 Frederiksberg,33916,2016-01-28,Alm. Salg
+"Holger Danskes Vej 16, 1. tv",2,Lejlighed,45,1885,NA,152e4,2000 Frederiksberg,33777,2016-01-28,Fam. Salg
+"A.D. Jørgensens Vej 77, st. tv",3,Lejlighed,92,1991,-0.01,337e4,2000 Frederiksberg,36630,2016-01-28,Alm. Salg
+"Falkoner Alle 90, 4. 7",3,Lejlighed,120,1970,-0.02,42e5,2000 Frederiksberg,35e3,2016-01-28,Alm. Salg
+"Finsensvej 47A, 5. 504",2,Lejlighed,60,1961,0,1998e3,2000 Frederiksberg,33300,2016-01-28,Alm. Salg
+"Nimbusparken 13, 2. tv",4,Lejlighed,100,1955,0,4798e3,2000 Frederiksberg,47980,2016-01-27,Alm. Salg
+"Hospitalsvej 6, 3. tv",2,Lejlighed,50,1885,0,1995e3,2000 Frederiksberg,39900,2016-01-27,Alm. Salg
+"Finsensvej 34, 3. 1",1,Lejlighed,58,1972,-0.06,1545e3,2000 Frederiksberg,26637,2016-01-27,Alm. Salg
+"Holger Danskes Vej 18, 1. th",2,Lejlighed,45,1885,0.01,182e4,2000 Frederiksberg,40444,2016-01-27,Alm. Salg
+"Kong Georgs Vej 56, 4. th",4,Lejlighed,109,1903,-0.01,4195e3,2000 Frederiksberg,38486,2016-01-27,Alm. Salg
+"Bernhard Bangs Alle 4, st. 12",2,Lejlighed,93,1960,-0.02,25e5,2000 Frederiksberg,26881,2016-01-26,Alm. Salg
+"Allegade 24A, 5. th",3,Lejlighed,97,1897,0,4395e3,2000 Frederiksberg,45309,2016-01-26,Alm. Salg
+"Ved Andebakken 1, 2. tv",3,Lejlighed,88,1941,0,3695e3,2000 Frederiksberg,41988,2016-01-26,Alm. Salg
+"Finsensvej 47A, 5. 502",1,Lejlighed,60,1961,0,195e4,2000 Frederiksberg,32500,2016-01-26,Alm. Salg
+"Rådmand Steins Alle 15, 1. tv",3,Lejlighed,89,1956,-0.07,21e5,2000 Frederiksberg,23595,2016-01-25,Alm. Salg
+"Frederiksvej 8, 1. tv",3,Lejlighed,74,1885,NA,1687500,2000 Frederiksberg,22804,2016-01-25,Fam. Salg
+"Bentzonsvej 34, 3. tv",3,Lejlighed,68,1900,-0.03,29e5,2000 Frederiksberg,42647,2016-01-25,Alm. Salg
+"H. Schneekloths Vej 33, 3. 1",1,Lejlighed,55,1961,-0.04,1625e3,2000 Frederiksberg,29545,2016-01-25,Alm. Salg
+"Duevej 118, 1. tv",2,Lejlighed,62,1917,NA,2225e3,2000 Frederiksberg,35887,2016-01-25,Andet
+"Godthåbsvej 37, 3. tv",2,Lejlighed,69,1943,0,2595e3,2000 Frederiksberg,37608,2016-01-25,Alm. Salg
+"Nitivej 18, 1. th",3,Lejlighed,85,1997,0,3395e3,2000 Frederiksberg,39941,2016-01-24,Alm. Salg
+"Nordre Fasanvej 154, 4. tv",3,Lejlighed,68,1900,-0.02,235e4,2000 Frederiksberg,34558,2016-01-24,Alm. Salg
+"H.V. Nyholms Vej 2, 3. 3",3,Lejlighed,105,2008,-0.05,425e4,2000 Frederiksberg,40476,2016-01-22,Alm. Salg
+"H. Schneekloths Vej 31, 6. 4",1,Lejlighed,55,1961,0,159e4,2000 Frederiksberg,28909,2016-01-22,Alm. Salg
+"Solvej 7, st. tv",3,Lejlighed,79,1902,-0.03,32e5,2000 Frederiksberg,40506,2016-01-22,Alm. Salg
+"Roskildevej 120, 3. th",3,Lejlighed,89,1953,0,2445e3,2000 Frederiksberg,27471,2016-01-22,Alm. Salg
+"Wilkensvej 7, 2. th",2,Lejlighed,70,1972,-0.41,135e4,2000 Frederiksberg,19285,2016-01-21,Andet
+"Nordre Fasanvej 162, 3. tv",2,Lejlighed,78,1913,-0.02,285e4,2000 Frederiksberg,36538,2016-01-21,Alm. Salg
+"C.F. Richs Vej 118, st. tv",3,Lejlighed,65,1937,0.02,1815e3,2000 Frederiksberg,27923,2016-01-21,Alm. Salg
+"Finsensvej 11C, 2. tv",5,Lejlighed,126,1969,-0.05,425e4,2000 Frederiksberg,33730,2016-01-21,Alm. Salg
+"Munkensvej 7, 2. tv",2,Lejlighed,64,1913,NA,22e5,2000 Frederiksberg,34375,2016-01-21,Alm. Salg
+"Finsensvej 11A, 7. tv",2,Lejlighed,74,1969,0,2645e3,2000 Frederiksberg,35743,2016-01-20,Alm. Salg
+"H. Schneekloths Vej 13, 2. th",2,Lejlighed,78,1933,NA,15e5,2000 Frederiksberg,19230,2016-01-20,Fam. Salg
+"C.F. Richs Vej 138, 1. th",4,Lejlighed,99,1937,0.03,323e4,2000 Frederiksberg,32626,2016-01-20,Alm. Salg
+"Bentzonsvej 36, 2. tv",3,Lejlighed,69,1900,-0.04,2735e3,2000 Frederiksberg,39637,2016-01-19,Alm. Salg
+"A.D. Jørgensens Vej 71, st. th",2,Lejlighed,69,1991,0,21e5,2000 Frederiksberg,30434,2016-01-19,Alm. Salg
+"Wilkensvej 17, 1. tv",3,Lejlighed,86,1979,-0.04,2975e3,2000 Frederiksberg,34593,2016-01-19,Alm. Salg
+"Porcelænshaven 4G, 2. th",3,Lejlighed,85,2007,0,45e5,2000 Frederiksberg,52941,2016-01-19,Alm. Salg
+"Finsensvej 5A, 4. mf",2,Lejlighed,66,1969,NA,17e5,2000 Frederiksberg,25757,2016-01-18,Alm. Salg
+"Borups Alle 112, 2. tv",3,Lejlighed,78,1913,NA,1275e3,2000 Frederiksberg,16346,2016-01-18,Fam. Salg
+"Aksel Møllers Have 6, 9. tv",3,Lejlighed,100,1944,0,5e6,2000 Frederiksberg,5e4,2016-01-18,Alm. Salg
+"Folkvarsvej 31, st",5,Lejlighed,128,1887,NA,117e4,2000 Frederiksberg,9140,2016-01-18,Fam. Salg
+"H. Schneekloths Vej 7, 4. th",3,Lejlighed,96,1933,NA,2094e3,2000 Frederiksberg,21812,2016-01-18,Alm. Salg
+"Nimbusparken 11, 2. th",4,Lejlighed,100,1955,-0.02,4795e3,2000 Frederiksberg,47950,2016-01-17,Alm. Salg
+"Adilsvej 14, 4. th",3,Lejlighed,60,1893,0,2495e3,2000 Frederiksberg,41583,2016-01-17,Alm. Salg
+"C.F. Richs Vej 90, 1. tv",5,Lejlighed,104,1936,0,3295e3,2000 Frederiksberg,31682,2016-01-17,Alm. Salg
+"Rolfsvej 1, 3. tv",4,Lejlighed,101,1888,-0.05,408e4,2000 Frederiksberg,40396,2016-01-15,Alm. Salg
+"Frederik VIs Alle 2, 1. th",4,Lejlighed,127,1905,-0.03,57e5,2000 Frederiksberg,44881,2016-01-15,Alm. Salg
+"Bispeengen 11, 3. tv",2,Lejlighed,72,1914,0,2495e3,2000 Frederiksberg,34652,2016-01-15,Alm. Salg
+"Ane Katrines Vej 22, st. th",3,Lejlighed,69,1932,0,2151e3,2000 Frederiksberg,31173,2016-01-13,Alm. Salg
+"Holger Danskes Vej 14, 2. tv",2,Lejlighed,47,1885,NA,1725e3,2000 Frederiksberg,36702,2016-01-13,Alm. Salg
+"Nordre Fasanvej 80, st. tv",4,Lejlighed,102,1932,-0.08,32e5,2000 Frederiksberg,31372,2016-01-13,Alm. Salg
+"Ewaldsensvej 8, st. tv",2,Lejlighed,64,1937,-0.01,1925e3,2000 Frederiksberg,30078,2016-01-13,Alm. Salg
+"Frøbels Alle 3, 4. th",2,Lejlighed,64,1937,NA,976779,2000 Frederiksberg,15262,2016-01-12,Alm. Salg
+"Finsensvej 5C, st. th",3,Lejlighed,103,1969,-0.03,2625e3,2000 Frederiksberg,25485,2016-01-12,Alm. Salg
+"Nordre Fasanvej 33B, 4. th",4,Lejlighed,104,1930,-0.02,4725e3,2000 Frederiksberg,45432,2016-01-12,Alm. Salg
+"Porcelænshaven 5A, 3. tv",3,Lejlighed,129,2006,0,6995e3,2000 Frederiksberg,54224,2016-01-12,Alm. Salg
+"Godthåbsvænget 37, st. tv",2,Lejlighed,80,1977,-0.02,235e4,2000 Frederiksberg,29375,2016-01-12,Alm. Salg
+"Finsensvej 75, 1. tv",3,Lejlighed,80,1926,-0.04,25e5,2000 Frederiksberg,31250,2016-01-11,Alm. Salg
+"Nordre Fasanvej 62, 5. 52",2,Lejlighed,61,1974,NA,24e5,2000 Frederiksberg,39344,2016-01-11,Fam. Salg
+"Guldborgvej 37, st. tv",4,Lejlighed,86,1902,NA,1835e3,2000 Frederiksberg,21337,2016-01-11,Fam. Salg
+"Mariendalsvej 50G, 1. th",2,Lejlighed,72,1995,0,2595e3,2000 Frederiksberg,36041,2016-01-11,Alm. Salg
+"Bernhard Bangs Alle 4, st. 9",2,Lejlighed,63,1960,0,1945e3,2000 Frederiksberg,30873,2016-01-11,Alm. Salg
+"Borups Alle 103, 1. tv",5,Lejlighed,125,1932,-0.06,305e4,2000 Frederiksberg,24400,2016-01-11,Alm. Salg
+"Bernhard Bangs Alle 2, st. 7",1,Lejlighed,63,1960,0,1795e3,2000 Frederiksberg,28492,2016-01-10,Alm. Salg
+"Kronprinsensvej 12, st",7,Lejlighed,217,1903,-0.11,715e4,2000 Frederiksberg,32949,2016-01-10,Alm. Salg
+"Pile Alle 37, 2. tv",4,Lejlighed,88,1890,NA,17e5,2000 Frederiksberg,19318,2016-01-10,Fam. Salg
+"Solvej 2, 4. tv",4,Lejlighed,150,1902,-0.05,606e4,2000 Frederiksberg,40400,2016-01-10,Alm. Salg
+"C.F. Richs Vej 140, 2. th",3,Lejlighed,80,1937,NA,2495e3,2000 Frederiksberg,31187,2016-01-08,Alm. Salg
+"Porcelænshaven 4C, 1. tv",3,Lejlighed,85,2007,-0.02,4e6,2000 Frederiksberg,47058,2016-01-08,Alm. Salg
+"Borgmester Fischers Vej 5B, 2. 2",3,Lejlighed,83,2001,NA,2675e3,2000 Frederiksberg,32228,2016-01-08,Alm. Salg
+"Holger Danskes Vej 32, 2. 1",3,Lejlighed,94,2011,0,4345e3,2000 Frederiksberg,46223,2016-01-08,Alm. Salg
+"Borups Alle 112, 4. tv",3,Lejlighed,77,1913,0.02,2647e3,2000 Frederiksberg,34376,2016-01-07,Alm. Salg
+"Falkoner Alle 126, 2. tv",4,Lejlighed,97,1908,NA,35e5,2000 Frederiksberg,36082,2016-01-07,Alm. Salg
+"Moltkesvej 67, st. th",2,Lejlighed,69,1953,-0.05,255e4,2000 Frederiksberg,36956,2016-01-07,Alm. Salg
+"Nitivej 20, 2. tv",3,Lejlighed,87,1997,0,31e5,2000 Frederiksberg,35632,2016-01-07,Alm. Salg
+Egeskellet 18,5,Lejlighed,157,1978,-0.02,43e5,2000 Frederiksberg,27388,2016-01-06,Alm. Salg
+"H. Schneekloths Vej 31, 2. 4",1,Lejlighed,55,1961,0,1595e3,2000 Frederiksberg,29e3,2016-01-06,Alm. Salg
+"Roskildevej 116, 2. tv",4,Lejlighed,104,1953,0,2875e3,2000 Frederiksberg,27644,2016-01-05,Alm. Salg
+"Guldborgvej 21, 1. tv",3,Lejlighed,65,1902,-0.08,24e5,2000 Frederiksberg,36923,2016-01-05,Alm. Salg
+"Holger Danskes Vej 32, 4. 3",3,Lejlighed,124,2011,NA,3059e3,2000 Frederiksberg,24669,2016-01-04,Fam. Salg
+"Rådmand Steins Alle 15, st. tv",3,Lejlighed,89,1956,-0.01,231e4,2000 Frederiksberg,25955,2016-01-03,Alm. Salg
+N. Jespersens Vej 1,6,Villa,170,1928,-0.09,8225e3,2000 Frederiksberg,48382,2017-06-27,Alm. Salg
+Gustav Johannsens Vej 26,5,Villa,155,1933,-0.06,705e4,2000 Frederiksberg,45483,2017-06-27,Alm. Salg
+Stockflethsvej 20,8,Villa,224,1916,-0.02,123e5,2000 Frederiksberg,54910,2017-06-27,Alm. Salg
+Aurikelvej 20,5,Villa,145,1917,0.01,8075e3,2000 Frederiksberg,55689,2017-06-23,Alm. Salg
+Ternevej 16,7,Villa,174,1920,-0.05,71e5,2000 Frederiksberg,40804,2017-06-23,Alm. Salg
+Hoffmeyersvej 53,7,Villa,218,1937,-0.03,85e5,2000 Frederiksberg,38990,2017-06-21,Alm. Salg
+Brødrene Reebergs Vej 8,5,Villa,203,1943,-0.05,95e5,2000 Frederiksberg,46798,2017-06-16,Alm. Salg
+Marielystvej 27,5,Villa,184,1955,-0.06,926e4,2000 Frederiksberg,50326,2017-05-31,Alm. Salg
+Fuglebakkevej 59,6,Villa,150,1907,-0.04,1125e4,2000 Frederiksberg,75e3,2017-05-14,Alm. Salg
+Tesdorpfsvej 63,7,Villa,186,1896,-0.05,104e5,2000 Frederiksberg,55913,2017-05-03,Alm. Salg
+Kronprinsensvej 15,11,Villa,268,1907,-0.13,1e7,2000 Frederiksberg,37313,2017-05-01,Alm. Salg
+Dalgas Boulevard 48,7,Villa,449,1927,NA,7695e3,2000 Frederiksberg,17138,2017-04-11,Fam. Salg
+Jens Jessens Vej 17,7,Villa,168,1945,NA,3775e3,2000 Frederiksberg,22470,2017-04-04,Alm. Salg
+Femte Juni Plads 9,7,Villa,237,1913,0,16e6,2000 Frederiksberg,67510,2017-03-27,Alm. Salg
+Ternevej 13,7,Villa,197,1914,-0.02,98e5,2000 Frederiksberg,49746,2017-03-23,Alm. Salg
+Stægers Alle 25,5,Villa,186,1926,-0.04,115e5,2000 Frederiksberg,61827,2017-03-22,Alm. Salg
+Normasvej 13,5,Villa,218,1931,0.01,109e5,2000 Frederiksberg,5e4,2017-03-22,Alm. Salg
+Grøndalsvej 62,9,Villa,326,1933,-0.07,14e6,2000 Frederiksberg,42944,2017-03-17,Alm. Salg
+Johan Ottosens Vej 7,7,Villa,197,1955,0,8495e3,2000 Frederiksberg,43121,2017-03-14,Alm. Salg
+General Bahnsons Vej 6,5,Villa,150,1954,0.01,81e5,2000 Frederiksberg,54e3,2017-03-09,Alm. Salg
+Fuglebakkevej 77,9,Villa,312,1914,-0.04,124e5,2000 Frederiksberg,39743,2017-03-08,Alm. Salg
+Aurikelvej 16,5,Villa,128,1954,-0.07,63e5,2000 Frederiksberg,49218,2017-03-03,Alm. Salg
+Normasvej 19,7,Villa,149,1930,NA,85e5,2000 Frederiksberg,57046,2017-02-20,Alm. Salg
+C.N. Petersens Vej 31,6,Villa,146,1925,-0.02,586e4,2000 Frederiksberg,40136,2017-02-14,Alm. Salg
+Magnoliavej 17,7,Villa,170,1928,0,925e4,2000 Frederiksberg,54411,2017-01-29,Alm. Salg
+Jyllandsvej 24,6,Villa,144,1907,0,7495e3,2000 Frederiksberg,52048,2017-01-25,Alm. Salg
+General Bahnsons Vej 6,5,Villa,150,1954,0,8025e3,2000 Frederiksberg,53500,2016-12-23,Alm. Salg
+Solsortvej 111,7,Villa,213,1919,-0.01,8875e3,2000 Frederiksberg,41666,2016-12-22,Alm. Salg
+C.F. Richs Vej 44,10,Villa,410,1908,-0.15,155e5,2000 Frederiksberg,37804,2016-12-19,Alm. Salg
+Kronprinsensvej 47,5,Villa,186,1933,NA,2142e3,2000 Frederiksberg,11516,2016-12-12,Fam. Salg
+Kristian Zahrtmanns Plads 77,7,Villa,209,1912,NA,12e6,2000 Frederiksberg,57416,2016-12-08,Alm. Salg
+Tesdorpfsvej 30,6,Villa,174,2014,-0.06,845e4,2000 Frederiksberg,48563,2016-11-28,Alm. Salg
+Hoffmeyersvej 15,8,Villa,248,1931,0,105e5,2000 Frederiksberg,42338,2016-11-18,Alm. Salg
+Ternevej 20,6,Villa,131,1933,-0.02,59e5,2000 Frederiksberg,45038,2016-11-10,Alm. Salg
+General Bahnsons Vej 1,5,Villa,164,1955,0,85e5,2000 Frederiksberg,51829,2016-11-10,Alm. Salg
+Tesdorpfsvej 73,6,Villa,198,1944,-0.04,81e5,2000 Frederiksberg,40909,2016-10-31,Alm. Salg
+Kronprinsensvej 47,5,Villa,186,1933,NA,35e4,2000 Frederiksberg,1881,2016-10-30,Andet
+Dalgas Boulevard 26,6,Villa,231,1945,-0.04,108e5,2000 Frederiksberg,46753,2016-10-28,Alm. Salg
+Tesdorpfsvej 73,6,Villa,198,1944,-0.07,79e5,2000 Frederiksberg,39898,2016-10-26,Fam. Salg
+Fru Gyllembourgs Vej 3,7,Villa,224,1917,-0.03,92e5,2000 Frederiksberg,41071,2016-10-10,Alm. Salg
+Grøndalsvej 19,4,Villa,127,1930,0,8995e3,2000 Frederiksberg,70826,2016-10-03,Alm. Salg
+Drosselvej 75,7,Villa,210,1907,NA,59e5,2000 Frederiksberg,28095,2016-09-29,Fam. Salg
+Femte Juni Plads 11,5,Villa,200,1918,-0.14,9e6,2000 Frederiksberg,45e3,2016-09-27,Alm. Salg
+Dronning Olgas Vej 10,8,Villa,235,1886,-0.03,135e5,2000 Frederiksberg,57446,2016-09-07,Alm. Salg
+Dalgas Boulevard 48,7,Villa,449,1927,-0.08,18e6,2000 Frederiksberg,40089,2016-09-04,Alm. Salg
+Jyllandsvej 46,7,Villa,167,1944,0,795e4,2000 Frederiksberg,47604,2016-09-03,Alm. Salg
+Kongensvej 10,8,Villa,244,1885,-0.12,122e5,2000 Frederiksberg,5e4,2016-08-02,Alm. Salg
+C.F. Richs Vej 86,5,Villa,110,1934,NA,247e4,2000 Frederiksberg,22454,2016-08-01,Alm. Salg
+Drosselvej 67,6,Villa,200,1914,NA,55e5,2000 Frederiksberg,27500,2016-07-18,Fam. Salg
+Normasvej 1,7,Villa,180,1924,NA,865e4,2000 Frederiksberg,48055,2016-07-14,Alm. Salg
+Stockflethsvej 26,8,Villa,240,1920,NA,6842500,2000 Frederiksberg,28510,2016-06-27,Fam. Salg
+Broderskabsvej 6,6,Villa,144,1900,-0.04,885e4,2000 Frederiksberg,61458,2016-06-22,Alm. Salg
+C.F. Richs Vej 47,6,Villa,243,1913,-0.07,13e6,2000 Frederiksberg,53497,2016-06-13,Alm. Salg
+Bentzonsvej 6B,4,Villa,99,1904,-0.03,438e4,2000 Frederiksberg,44242,2016-05-26,Alm. Salg
+Nyelandsvej 111,7,Villa,231,1916,-0.03,121e5,2000 Frederiksberg,52380,2016-05-23,Alm. Salg
+C.F. Richs Vej 58,8,Villa,266,1914,-0.02,137e5,2000 Frederiksberg,51503,2016-05-01,Alm. Salg
+Stægers Alle 23,9,Villa,270,1922,-0.12,113e5,2000 Frederiksberg,41851,2016-04-15,Alm. Salg
+Duevej 105,6,Villa,164,1926,-0.06,85e5,2000 Frederiksberg,51829,2016-04-08,Alm. Salg
+Normasvej 17,9,Villa,236,1928,-0.03,87e5,2000 Frederiksberg,36864,2016-04-08,Alm. Salg
+Drosselvej 46,8,Villa,188,1912,-0.08,1095e4,2000 Frederiksberg,58244,2016-04-07,Alm. Salg
+Buen 13,5,Villa,132,1915,-0.03,825e4,2000 Frederiksberg,62500,2016-04-03,Alm. Salg
+Blytsvej 9,6,Villa,126,1899,-0.02,725e4,2000 Frederiksberg,57539,2016-04-03,Alm. Salg
+Duevej 107,5,Villa,159,1940,0,6995e3,2000 Frederiksberg,43993,2016-03-30,Alm. Salg
+Fuglebakkevej 72,7,Villa,235,1924,NA,655e4,2000 Frederiksberg,27872,2016-03-20,Fam. Salg
+Stockflethsvej 36,8,Villa,197,1933,-0.07,83e5,2000 Frederiksberg,42131,2016-03-18,Alm. Salg
+Dalgas Boulevard 56,9,Villa,312,1923,NA,1e7,2000 Frederiksberg,32051,2016-03-03,Andet
+Dalgas Boulevard 30,7,Villa,377,1941,-0.13,8685e3,2000 Frederiksberg,23037,2016-02-22,Alm. Salg
+Magnoliavej 53,6,Villa,147,1922,-0.06,6475e3,2000 Frederiksberg,44047,2016-01-27,Alm. Salg
+Kronprinsensvej 71,5,Villa,121,1952,-0.05,74e5,2000 Frederiksberg,61157,2016-01-15,Alm. Salg
+Troels-Lunds Vej 34,5,Villa,134,1946,-0.07,56e5,2000 Frederiksberg,41791,2016-01-13,Alm. Salg
